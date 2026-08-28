@@ -17,6 +17,7 @@ import streamlit as st
 from ark_nova_dashboard.analytics import conservation_projects, final_scores, game_results
 from ark_nova_dashboard.catalog import MAP_NUMBERS, TABLES, raw_log_path
 from ark_nova_dashboard.parsing import game_data
+from ark_nova_dashboard.pdf_report import build_tournament_pdf
 
 COLOR_CONFIG = ROOT / "data" / "player-colors.json"
 UNASSIGNED_COLOR = "#A7AFBD"
@@ -299,6 +300,16 @@ def load_tournament_results() -> pd.DataFrame:
     return pd.DataFrame(rows)
 
 
+def load_populated_games() -> list[dict[str, Any]]:
+    games = []
+    for map_number in MAP_NUMBERS:
+        for table in TABLES:
+            path = raw_log_path(ROOT, map_number, table)
+            if path.exists() and path.stat().st_size:
+                games.append(load_game(str(path), path.stat().st_mtime_ns, map_number, table))
+    return games
+
+
 def ordinal(position: int) -> str:
     suffix = (
         "th"
@@ -449,12 +460,27 @@ st.title("Ark Nova Tournament")
 
 navigation_options = ["Overview", *[f"Map {number}" for number in MAP_NUMBERS]]
 with st.container(key="top_navigation"):
-    selected_page = st.selectbox(
-        "Dashboard page",
-        navigation_options,
-        index=0,
-        label_visibility="collapsed",
-    )
+    navigation_column, download_column = st.columns([4, 1])
+    with navigation_column:
+        selected_page = st.selectbox(
+            "Dashboard page",
+            navigation_options,
+            index=0,
+            label_visibility="collapsed",
+        )
+    with download_column:
+        pdf_games = load_populated_games()
+        pdf_players = sorted(
+            {player for game in pdf_games for player in game["summary"]["players"]}
+        )
+        pdf_colors, _ = player_colors(pdf_players)
+        st.download_button(
+            "Download PDF",
+            data=build_tournament_pdf(pdf_games, pdf_colors),
+            file_name="ark-nova-tournament.pdf",
+            mime="application/pdf",
+            width="stretch",
+        )
 
 if selected_page == "Overview":
     render_tournament()

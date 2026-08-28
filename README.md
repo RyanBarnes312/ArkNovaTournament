@@ -35,6 +35,10 @@ The initial app shows the project structure and flags which logs have been added
 Parsing and map-specific scoring rules will be implemented against representative
 BGA logs.
 
+The top navigation includes a **Download PDF** button. The generated report contains
+the current tournament overview and every populated Map/Table game. Conservation
+project timing is printed directly because PDF viewers do not reliably support hover text.
+
 ## Player colours
 
 BGA's pasted text logs say that colours were selected but do not include the
