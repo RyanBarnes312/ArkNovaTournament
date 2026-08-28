@@ -1,3 +1,4 @@
+import html
 import json
 import sys
 from pathlib import Path
@@ -33,6 +34,51 @@ st.markdown(
         background: #1d2839; border-color: #3b4657; border-radius: 14px;
     }
     h1, h2, h3 { color: #f6e77f !important; }
+    .st-key-mobile_standings, .st-key-mobile_positions, .st-key-mobile_projects {
+        display: none;
+    }
+    .mobile-card {
+        background: #1d2839; border: 1px solid #3b4657; border-radius: 12px;
+        margin: 0 0 10px 0; padding: 12px 14px;
+    }
+    .mobile-player { font-size: 1rem; font-weight: 700; }
+    .mobile-rank { color: #f6e77f; font-size: 1.15rem; font-weight: 800; }
+    .mobile-primary { display: flex; gap: 18px; margin-top: 9px; }
+    .mobile-stat { color: #f7f8fb; font-size: 0.88rem; }
+    .mobile-stat span { color: #8f99aa; display: block; font-size: 0.72rem; }
+    .mobile-secondary { color: #8f99aa; font-size: 0.76rem; margin-top: 9px; }
+    .mobile-game-pill {
+        background: #111a2b; border-radius: 8px; display: inline-block;
+        margin: 6px 5px 0 0; padding: 6px 9px;
+    }
+    .mobile-project-name { font-size: 0.95rem; font-weight: 700; margin-bottom: 8px; }
+    .mobile-added { color: #72e0a3; font-size: 0.7rem; font-weight: 600; }
+    .mobile-project-score { align-items: center; display: flex; gap: 9px; margin-top: 7px; }
+    .mobile-shield { height: 34px; position: relative; width: 30px; }
+    .mobile-shield img { height: 34px; width: 30px; }
+    .mobile-shield-value {
+        color: #101827; font-size: 0.72rem; font-weight: 800; left: 0;
+        position: absolute; text-align: center; top: 8px; width: 30px;
+    }
+    .mobile-project-detail { font-size: 0.8rem; }
+    .mobile-project-detail span { color: #8f99aa; }
+    @media (max-width: 768px) {
+        .block-container { padding: 1rem 0.7rem 2rem !important; }
+        h1 { font-size: 1.65rem !important; }
+        h2 { font-size: 1.35rem !important; }
+        h3 { font-size: 1.08rem !important; }
+        [data-testid="stHorizontalBlock"] { flex-wrap: wrap !important; }
+        [data-testid="column"] { flex: 1 1 100% !important; width: 100% !important; }
+        [data-testid="stMetric"] { padding: 9px 11px; }
+        .st-key-desktop_standings, .st-key-desktop_positions, .st-key-desktop_projects {
+            display: none;
+        }
+        .st-key-mobile_standings, .st-key-mobile_positions, .st-key-mobile_projects {
+            display: block;
+        }
+        [data-testid="stDataFrame"] { overflow-x: auto; }
+        .stPlotlyChart { overflow: hidden; }
+    }
     </style>
     """,
     unsafe_allow_html=True,
@@ -61,6 +107,31 @@ def shield_icon(color: str) -> str:
     </svg>
     """
     return f"data:image/svg+xml;charset=utf-8,{quote(svg)}"
+
+
+def mobile_project_html(projects: list[dict[str, Any]], colors: dict[str, str]) -> str:
+    cards: list[str] = []
+    project_names = list(dict.fromkeys(project["project"] for project in projects))
+    for project_name in project_names:
+        scores = [project for project in projects if project["project"] == project_name]
+        added = scores[0]["project_type"] == "Additional"
+        score_rows = []
+        for score in scores:
+            player = html.escape(str(score["player"]))
+            progress = score["normalized_turn"] * 100
+            score_rows.append(
+                f'<div class="mobile-project-score">'
+                f'<div class="mobile-shield"><img src="{shield_icon(colors[score["player"]])}">'
+                f'<div class="mobile-shield-value">{score["points"] or "?"}</div></div>'
+                f'<div class="mobile-project-detail"><b>{player}</b><br>'
+                f'<span>Turn {score["turn_number"]} · {progress:.0f}% through game</span></div></div>'
+            )
+        badge = ' <span class="mobile-added">· ADDED</span>' if added else ""
+        cards.append(
+            f'<div class="mobile-card"><div class="mobile-project-name">'
+            f'{html.escape(project_name)}{badge}</div>{"".join(score_rows)}</div>'
+        )
+    return "".join(cards)
 
 
 def project_chart(rows: list[dict[str, Any]], colors: dict[str, str]) -> go.Figure:
@@ -231,7 +302,7 @@ def render_tournament() -> None:
         return
 
     players = sorted(results["player"].unique().tolist())
-    _colors, missing_colors = player_colors(players)
+    colors, missing_colors = player_colors(players)
     if missing_colors:
         st.warning(f"Missing global player colours: {', '.join(missing_colors)}")
 
@@ -287,11 +358,26 @@ def render_tournament() -> None:
         subset=["Current rank", "Cumulative finishing position", "Cumulative normalized score"],
         **{"font-weight": "700"},
     )
-    st.dataframe(
-        styled_summary,
-        hide_index=True,
-        width="stretch",
-    )
+    with st.container(key="desktop_standings"):
+        st.dataframe(styled_summary, hide_index=True, width="stretch")
+
+    with st.container(key="mobile_standings"):
+        standing_cards = []
+        for _, row in summary.iterrows():
+            player = str(row["Player"])
+            standing_cards.append(
+                f'<div class="mobile-card" style="border-left:4px solid {colors[player]}">'
+                f'<div><span class="mobile-rank">#{row["Current rank"]}</span> '
+                f'<span class="mobile-player">{html.escape(player)}</span></div>'
+                f'<div class="mobile-primary">'
+                f'<div class="mobile-stat"><span>Cumulative position</span>'
+                f'{row["Cumulative finishing position"]}</div>'
+                f'<div class="mobile-stat"><span>Cumulative normalized</span>'
+                f'{row["Cumulative normalized score"]}</div></div>'
+                f'<div class="mobile-secondary">Average position {row["Average position"]} · '
+                f'Average normalized {row["Average normalized score"]}</div></div>'
+            )
+        st.markdown("".join(standing_cards), unsafe_allow_html=True)
 
     st.markdown("### Position by game")
     position_data = results.copy()
@@ -300,7 +386,25 @@ def render_tournament() -> None:
     )
     position_data["game"] = position_data["map_number"].map(lambda number: f"Map {number}")
     matrix = position_data.pivot(index="player", columns="game", values="result").reset_index()
-    st.dataframe(matrix.rename(columns={"player": "Player"}), hide_index=True, width="stretch")
+    with st.container(key="desktop_positions"):
+        st.dataframe(
+            matrix.rename(columns={"player": "Player"}), hide_index=True, width="stretch"
+        )
+
+    with st.container(key="mobile_positions"):
+        position_cards = []
+        for player in players:
+            player_games = position_data[position_data["player"] == player].sort_values("map_number")
+            pills = "".join(
+                f'<span class="mobile-game-pill">Map {int(row["map_number"])} · '
+                f'{html.escape(str(row["result"]))}</span>'
+                for _, row in player_games.iterrows()
+            )
+            position_cards.append(
+                f'<div class="mobile-card" style="border-left:4px solid {colors[player]}">'
+                f'<div class="mobile-player">{html.escape(player)}</div>{pills}</div>'
+            )
+        st.markdown("".join(position_cards), unsafe_allow_html=True)
 
 
 def render_table(map_number: int, table: str) -> None:
@@ -341,11 +445,14 @@ def render_table(map_number: int, table: str) -> None:
 
     st.markdown("### Conservation project race")
     if projects:
-        st.plotly_chart(
-            project_chart(projects, colors),
-            width="stretch",
-            config={"displayModeBar": False},
-        )
+        with st.container(key="desktop_projects"):
+            st.plotly_chart(
+                project_chart(projects, colors),
+                width="stretch",
+                config={"displayModeBar": False},
+            )
+        with st.container(key="mobile_projects"):
+            st.markdown(mobile_project_html(projects, colors), unsafe_allow_html=True)
     else:
         st.caption("No conservation-project scoring was found.")
 
