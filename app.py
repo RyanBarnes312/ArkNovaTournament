@@ -464,23 +464,26 @@ if "selected_page" not in st.session_state:
 
 with st.container(key="top_navigation"):
     navigation_column, download_column = st.columns([4, 1])
-    with navigation_column, st.popover(
-        f"{st.session_state.selected_page}  ▾",
-        use_container_width=True,
-    ):
-        for navigation_option in navigation_options:
-            if st.button(
-                navigation_option,
-                key=f"navigate_{navigation_option}",
-                width="stretch",
-                type=(
-                    "primary"
-                    if navigation_option == st.session_state.selected_page
-                    else "secondary"
-                ),
-            ):
-                st.session_state.selected_page = navigation_option
-                st.rerun()
+    with navigation_column:
+        navigation_open = st.button(
+            f"{st.session_state.selected_page}  ▾",
+            key="navigation_menu",
+            width="stretch",
+        )
+        if navigation_open:
+            for navigation_option in navigation_options:
+                if st.button(
+                    navigation_option,
+                    key=f"navigate_{navigation_option}",
+                    width="stretch",
+                    type=(
+                        "primary"
+                        if navigation_option == st.session_state.selected_page
+                        else "secondary"
+                    ),
+                ):
+                    st.session_state.selected_page = navigation_option
+                    st.rerun()
     with download_column:
         pdf_games = load_populated_games()
         pdf_players = sorted(
