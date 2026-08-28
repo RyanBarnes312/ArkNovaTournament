@@ -32,8 +32,25 @@ st.markdown(
         padding: 0.45rem 0.75rem; position: sticky; top: 0.5rem; z-index: 999;
         box-shadow: 0 7px 20px rgba(4, 9, 18, 0.32);
     }
-    .st-key-top_navigation [data-baseweb="select"] input {
-        caret-color: transparent; pointer-events: none; user-select: none;
+    .nav-dropdown { position: relative; width: 100%; }
+    .nav-dropdown summary {
+        background: #1d2839; border: 1px solid #3b4657; border-radius: 8px;
+        color: #f7f8fb; cursor: pointer; font-weight: 600; list-style: none;
+        padding: 0.58rem 0.75rem;
+    }
+    .nav-dropdown summary::-webkit-details-marker { display: none; }
+    .nav-dropdown[open] summary { border-radius: 8px 8px 0 0; }
+    .nav-dropdown-menu {
+        background: #1d2839; border: 1px solid #3b4657; border-radius: 0 0 8px 8px;
+        box-shadow: 0 8px 20px rgba(4, 9, 18, 0.45); left: 0; max-height: 60vh;
+        overflow-y: auto; position: absolute; right: 0; z-index: 1000;
+    }
+    .nav-dropdown-menu a {
+        color: #f7f8fb !important; display: block; padding: 0.55rem 0.75rem;
+        text-decoration: none !important;
+    }
+    .nav-dropdown-menu a:hover, .nav-dropdown-menu a.current {
+        background: #334158; color: #f6e77f !important;
     }
     [data-testid="stMetric"] {
         background: #202b3c; border: 1px solid #3a4659; border-radius: 12px; padding: 12px;
@@ -461,15 +478,24 @@ def render_table(map_number: int, table: str) -> None:
 
 st.title("Ark Nova Tournament")
 
-navigation_options = ["Overview", *[f"Map {number}" for number in MAP_NUMBERS]]
+navigation_options = {"overview": "Overview", **{f"map-{number}": f"Map {number}" for number in MAP_NUMBERS}}
+selected_slug = st.query_params.get("page", "overview")
+if selected_slug not in navigation_options:
+    selected_slug = "overview"
+selected_page = navigation_options[selected_slug]
+
 with st.container(key="top_navigation"):
     navigation_column, download_column = st.columns([4, 1])
     with navigation_column:
-        selected_page = st.selectbox(
-            "Dashboard page",
-            navigation_options,
-            index=0,
-            label_visibility="collapsed",
+        navigation_links = "".join(
+            f'<a href="?page={slug}" target="_self" class="'
+            f'{"current" if slug == selected_slug else ""}">{label}</a>'
+            for slug, label in navigation_options.items()
+        )
+        st.markdown(
+            f'<details class="nav-dropdown"><summary>{selected_page} &nbsp; ▾</summary>'
+            f'<div class="nav-dropdown-menu">{navigation_links}</div></details>',
+            unsafe_allow_html=True,
         )
     with download_column:
         pdf_games = load_populated_games()
