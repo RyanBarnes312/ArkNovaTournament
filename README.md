@@ -27,6 +27,10 @@ pip install -e ".[dev]"
 streamlit run app.py
 ```
 
+`requirements.txt` is the deployment dependency source used by Streamlit
+Community Cloud. `pyproject.toml` remains the local package and development
+configuration.
+
 The initial app shows the project structure and flags which logs have been added.
 Parsing and map-specific scoring rules will be implemented against representative
 BGA logs.

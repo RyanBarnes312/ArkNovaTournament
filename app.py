@@ -1,7 +1,13 @@
 import json
+import sys
 from pathlib import Path
 from typing import Any
 from urllib.parse import quote
+
+ROOT = Path(__file__).resolve().parent
+SRC = ROOT / "src"
+if str(SRC) not in sys.path:
+    sys.path.insert(0, str(SRC))
 
 import pandas as pd
 import plotly.graph_objects as go
@@ -11,7 +17,6 @@ from ark_nova_dashboard.analytics import conservation_projects, final_scores, ga
 from ark_nova_dashboard.catalog import MAP_NUMBERS, TABLES, raw_log_path
 from ark_nova_dashboard.parsing import game_data
 
-ROOT = Path(__file__).resolve().parent
 COLOR_CONFIG = ROOT / "data" / "player-colors.json"
 UNASSIGNED_COLOR = "#A7AFBD"
 
