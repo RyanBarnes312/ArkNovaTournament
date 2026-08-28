@@ -459,15 +459,28 @@ def render_table(map_number: int, table: str) -> None:
 st.title("Ark Nova Tournament")
 
 navigation_options = ["Overview", *[f"Map {number}" for number in MAP_NUMBERS]]
+if "selected_page" not in st.session_state:
+    st.session_state.selected_page = "Overview"
+
 with st.container(key="top_navigation"):
     navigation_column, download_column = st.columns([4, 1])
-    with navigation_column:
-        selected_page = st.selectbox(
-            "Dashboard page",
-            navigation_options,
-            index=0,
-            label_visibility="collapsed",
-        )
+    with navigation_column, st.popover(
+        f"{st.session_state.selected_page}  ▾",
+        use_container_width=True,
+    ):
+        for navigation_option in navigation_options:
+            if st.button(
+                navigation_option,
+                key=f"navigate_{navigation_option}",
+                width="stretch",
+                type=(
+                    "primary"
+                    if navigation_option == st.session_state.selected_page
+                    else "secondary"
+                ),
+            ):
+                st.session_state.selected_page = navigation_option
+                st.rerun()
     with download_column:
         pdf_games = load_populated_games()
         pdf_players = sorted(
@@ -482,6 +495,7 @@ with st.container(key="top_navigation"):
             width="stretch",
         )
 
+selected_page = st.session_state.selected_page
 if selected_page == "Overview":
     render_tournament()
 else:
