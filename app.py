@@ -26,7 +26,11 @@ st.markdown(
     """
     <style>
     .stApp { background: #0f1728; color: #f7f8fb; }
-    [data-testid="stSidebar"] { background: #121d31; }
+    .st-key-top_navigation {
+        background: #121d31; border: 1px solid #3b4657; border-radius: 12px;
+        padding: 0.45rem 0.75rem; position: sticky; top: 0.5rem; z-index: 999;
+        box-shadow: 0 7px 20px rgba(4, 9, 18, 0.32);
+    }
     [data-testid="stMetric"] {
         background: #202b3c; border: 1px solid #3a4659; border-radius: 12px; padding: 12px;
     }
@@ -34,9 +38,6 @@ st.markdown(
         background: #1d2839; border-color: #3b4657; border-radius: 14px;
     }
     h1, h2, h3 { color: #f6e77f !important; }
-    .st-key-mobile_standings, .st-key-mobile_positions, .st-key-mobile_projects {
-        display: none;
-    }
     .mobile-card {
         background: #1d2839; border: 1px solid #3b4657; border-radius: 12px;
         margin: 0 0 10px 0; padding: 12px 14px;
@@ -70,12 +71,7 @@ st.markdown(
         [data-testid="stHorizontalBlock"] { flex-wrap: wrap !important; }
         [data-testid="column"] { flex: 1 1 100% !important; width: 100% !important; }
         [data-testid="stMetric"] { padding: 9px 11px; }
-        .st-key-desktop_standings, .st-key-desktop_positions, .st-key-desktop_projects {
-            display: none;
-        }
-        .st-key-mobile_standings, .st-key-mobile_positions, .st-key-mobile_projects {
-            display: block;
-        }
+        .st-key-top_navigation { top: 0.25rem; padding: 0.25rem 0.45rem; }
         [data-testid="stDataFrame"] { overflow-x: auto; }
         .stPlotlyChart { overflow: hidden; }
     }
@@ -274,6 +270,23 @@ def score_chart(scores: list[dict[str, Any]], colors: dict[str, str]) -> go.Figu
     return figure
 
 
+def score_cards_html(scores: list[dict[str, Any]], colors: dict[str, str]) -> str:
+    cards = []
+    for position, score in enumerate(scores, start=1):
+        player = str(score["player"])
+        cards.append(
+            f'<div class="mobile-card" style="border-left:4px solid {colors[player]}">'
+            f'<div><span class="mobile-rank">#{position}</span> '
+            f'<span class="mobile-player">{html.escape(player)}</span></div>'
+            f'<div class="mobile-primary">'
+            f'<div class="mobile-stat"><span>Final score</span>{score["total"]}</div>'
+            f'<div class="mobile-stat"><span>Appeal</span>{score["appeal"]}</div>'
+            f'<div class="mobile-stat"><span>Conservation</span>{score["conservation"]}</div>'
+            f'</div></div>'
+        )
+    return "".join(cards)
+
+
 def load_tournament_results() -> pd.DataFrame:
     rows: list[dict[str, Any]] = []
     for map_number in MAP_NUMBERS:
@@ -351,16 +364,6 @@ def render_tournament() -> None:
             "average_normalized_score": "Average normalized score",
         }
     )
-    styled_summary = summary.style.set_properties(
-        subset=["Average position", "Average normalized score"],
-        color="#8F99AA",
-    ).set_properties(
-        subset=["Current rank", "Cumulative finishing position", "Cumulative normalized score"],
-        **{"font-weight": "700"},
-    )
-    with st.container(key="desktop_standings"):
-        st.dataframe(styled_summary, hide_index=True, width="stretch")
-
     with st.container(key="mobile_standings"):
         standing_cards = []
         for _, row in summary.iterrows():
@@ -385,12 +388,6 @@ def render_tournament() -> None:
         lambda row: f"{ordinal(int(row['position']))} · Table {row['table']}", axis=1
     )
     position_data["game"] = position_data["map_number"].map(lambda number: f"Map {number}")
-    matrix = position_data.pivot(index="player", columns="game", values="result").reset_index()
-    with st.container(key="desktop_positions"):
-        st.dataframe(
-            matrix.rename(columns={"player": "Player"}), hide_index=True, width="stretch"
-        )
-
     with st.container(key="mobile_positions"):
         position_cards = []
         for player in players:
@@ -439,48 +436,32 @@ def render_table(map_number: int, table: str) -> None:
 
     st.markdown("### Final standings")
     if scores:
-        st.plotly_chart(score_chart(scores, colors), width="stretch", config={"displayModeBar": False})
+        st.markdown(score_cards_html(scores, colors), unsafe_allow_html=True)
     else:
         st.caption("Final scoring has not appeared in this log yet.")
 
     st.markdown("### Conservation project race")
     if projects:
-        with st.container(key="desktop_projects"):
-            st.plotly_chart(
-                project_chart(projects, colors),
-                width="stretch",
-                config={"displayModeBar": False},
-            )
-        with st.container(key="mobile_projects"):
-            st.markdown(mobile_project_html(projects, colors), unsafe_allow_html=True)
+        st.markdown(mobile_project_html(projects, colors), unsafe_allow_html=True)
     else:
         st.caption("No conservation-project scoring was found.")
-
-    with st.expander("Parsed event data"):
-        event_frame = pd.DataFrame(game["events"])
-        st.dataframe(
-            event_frame[
-                ["move_number", "turn_number", "turn_owner", "actor", "event_type", "text"]
-            ],
-            hide_index=True,
-            width="stretch",
-        )
-
 
 st.title("Ark Nova Tournament")
 st.caption("Two-table promotion and relegation tournament")
 
-view = st.sidebar.radio("Dashboard view", ("Tournament overview", "Game detail"))
+navigation_options = ["Overview", *[f"Map {number}" for number in MAP_NUMBERS]]
+with st.container(key="top_navigation"):
+    selected_page = st.selectbox(
+        "Dashboard page",
+        navigation_options,
+        index=0,
+        label_visibility="collapsed",
+    )
 
-if view == "Tournament overview":
+if selected_page == "Overview":
     render_tournament()
 else:
-    selected_map = st.sidebar.selectbox(
-        "Tournament map",
-        options=MAP_NUMBERS,
-        index=1,
-        format_func=lambda number: f"Map {number}",
-    )
+    selected_map = int(selected_page.removeprefix("Map "))
 
     st.header(f"Map {selected_map}")
     table_tabs = st.tabs([f"Table {table}" for table in TABLES])
