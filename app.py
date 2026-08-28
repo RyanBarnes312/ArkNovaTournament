@@ -320,7 +320,6 @@ def render_tournament() -> None:
         st.warning(f"Missing global player colours: {', '.join(missing_colors)}")
 
     st.header("Tournament overview")
-    st.caption("Results follow each player across Table A and Table B.")
 
     summary = (
         results.groupby("player", as_index=False)
@@ -358,8 +357,8 @@ def render_tournament() -> None:
         columns={
             "current_rank": "Current rank",
             "player": "Player",
-            "cumulative_position": "Cumulative finishing position",
-            "cumulative_normalized_score": "Cumulative normalized score",
+            "cumulative_position": "Tournament Score",
+            "cumulative_normalized_score": "Tournament Normalized",
             "average_position": "Average position",
             "average_normalized_score": "Average normalized score",
         }
@@ -373,10 +372,10 @@ def render_tournament() -> None:
                 f'<div><span class="mobile-rank">#{row["Current rank"]}</span> '
                 f'<span class="mobile-player">{html.escape(player)}</span></div>'
                 f'<div class="mobile-primary">'
-                f'<div class="mobile-stat"><span>Cumulative position</span>'
-                f'{row["Cumulative finishing position"]}</div>'
-                f'<div class="mobile-stat"><span>Cumulative normalized</span>'
-                f'{row["Cumulative normalized score"]}</div></div>'
+                f'<div class="mobile-stat"><span>Tournament Score</span>'
+                f'{row["Tournament Score"]}</div>'
+                f'<div class="mobile-stat"><span>Tournament Normalized</span>'
+                f'{row["Tournament Normalized"]}</div></div>'
                 f'<div class="mobile-secondary">Average position {row["Average position"]} · '
                 f'Average normalized {row["Average normalized score"]}</div></div>'
             )
@@ -447,7 +446,6 @@ def render_table(map_number: int, table: str) -> None:
         st.caption("No conservation-project scoring was found.")
 
 st.title("Ark Nova Tournament")
-st.caption("Two-table promotion and relegation tournament")
 
 navigation_options = ["Overview", *[f"Map {number}" for number in MAP_NUMBERS]]
 with st.container(key="top_navigation"):
