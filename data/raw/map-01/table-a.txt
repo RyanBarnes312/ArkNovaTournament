@@ -1,0 +1,1346 @@
+Move 1 :16/07/2026 18:21:34
+The color of BlackSheep42 has been chosen according to their preferences. Change my preferences.
+Starting the first round of action cards draft phase.
+Move 5 :18:55:47
+Starting the second round of action cards draft phase.
+Move 13 :17/07/2026 07:44:48
+You draw Primate Management Plan, Broad-snouted Caiman, Green Sea Turtle, Stoat, Guided School Tours, Crested Porcupine, Common Octopus, African Penguin from the deck
+You draw International Zoo, Naturalists' Zoo from the deck (scoring cards)
+You draw Breeding Program, Sloth Bear, Sponsorship: Elephants, Tasmanian Devil, Reptile Management Plan, Boa Constrictor, Senegal Bushbaby, Brahminy Kite from the deck
+You draw Aquatic Park, Diverse species Zoo from the deck (scoring cards)
+You draw Eurasian Eagle-owl, Sponsorship: Reptiles, Publications, Lesser Bird-of-paradise, Release Of Patents, Primate breeding program, Zooplankton, Sumatran Tiger from the deck
+You draw Favorite Zoo, Sponsored Zoo from the deck (scoring cards)
+You draw Scarlet Macaw, Red Deer, Large Animals, Expert On Australia, Expert In Small Animals, Geological, Ring-tailed Lemur, Shoebill from the deck
+You draw Climbing Park, Large Animal Zoo from the deck (scoring cards)
+Drewbag84 will play with action cards: Build 3, Cards 1, Animals, Association and Sponsors
+Skelcher will play with action cards: Build 4, Cards, Animals, Association 3 and Sponsors
+BlackSheep42 will play with action cards: Build, Cards, Animals, Association 2 and Sponsors 2
+GwyndolinCinder will play with action cards: Build, Cards 2, Animals 4, Association and Sponsors
+Drewbag84 draws 8 card(s) from the deck
+Drewbag84 draws 2 scoring cards from the deck
+Skelcher draws 8 card(s) from the deck
+Skelcher draws 2 scoring cards from the deck
+BlackSheep42 draws 8 card(s) from the deck
+BlackSheep42 draws 2 scoring cards from the deck
+GwyndolinCinder draws 8 card(s) from the deck
+GwyndolinCinder draws 2 scoring cards from the deck
+Move 17 :08:22:44
+You discard Primate Management Plan, Broad-snouted Caiman, Common Octopus, African Penguin
+You discard Sponsorship: Elephants, Reptile Management Plan, Senegal Bushbaby, Brahminy Kite
+You discard Eurasian Eagle-owl, Sponsorship: Reptiles, Primate breeding program, Zooplankton
+You discard Scarlet Macaw, Red Deer, Large Animals, Expert In Small Animals
+Drewbag84 discards 4 cards (initial selection)
+Skelcher discards 4 cards (initial selection)
+BlackSheep42 discards 4 cards (initial selection)
+GwyndolinCinder discards 4 cards (initial selection)
+The display is replenished with Cotton-top Tamarin, Bird Management Plan, Golden Eagle, Yellow-throated Marten, Slow Worm, Inland Taipan
+Move 18 :08:28:45
+Drewbag84 chooses action card AssociationI with strength 4
+Move 19 :08:28:48
+Drewbag84 takes a new university
+Drewbag84 places action card Association at position 1 (finishing action)
+Move 21 :08:29:25
+Skelcher chooses action card AssociationI with strength 4
+Move 22 :08:29:30
+Skelcher takes a new university
+Skelcher gains 2 reputation ( from university)
+Skelcher places action card Association at position 1 (finishing action)
+Move 24 :18:40:48
+BlackSheep42 chooses action card CardsI with strength 5
+BlackSheep42 advances break token of 2 space(s), now at 2/15
+Move 25 :18:40:54
+BlackSheep42 snaps Inland Taipan from the display
+BlackSheep42 places action card Cards at position 1 (finishing action)
+Move 26 :18:41:00
+The display is replenished with Amazon House
+Move 27 :19:02:55
+GwyndolinCinder chooses action card AssociationI with strength 5
+Move 28 :19:03:20
+GwyndolinCinder takes a new university
+Move 29 :19:03:28
+You draw Ornithologist for gaining a new university with
+GwyndolinCinder draws 1 card for gaining a new university: Ornithologist
+GwyndolinCinder places action card Association at position 1 (finishing action)
+Move 30 :22:56:50
+Drewbag84 chooses action card BuildI with strength 4
+Move 31 :22:57:00
+Drewbag84 pays 6 for building a size-3 enclosure
+Drewbag84 places action card Build at position 1 (finishing action)
+Move 33 :18/07/2026 03:07:29
+Skelcher chooses action card SponsorsI with strength 4
+Move 34 :03:07:36
+Skelcher plays Publications
+Move 35 :03:07:47
+Skelcher donates for free to get 1 conservation
+Skelcher places action card Sponsors at position 1 (finishing action)
+Move 37 :04:29:32
+BlackSheep42 chooses action card AssociationI with strength 5
+Move 38 :04:30:01
+BlackSheep42 takes a new university
+BlackSheep42 gains 1 reputation ( from university)
+BlackSheep42 places action card Association at position 1 (finishing action)
+Move 43 :08:00:33
+GwyndolinCinder chooses action card CardsI with strength 5
+GwyndolinCinder advances break token of 2 space(s), now at 4/15
+Move 44 :08:01:29
+GwyndolinCinder digs Cotton-top Tamarin from the display
+The display is replenished with Northern Plains Gray Langur
+Move 45 :08:01:43
+GwyndolinCinder snaps Bird Management Plan from the display
+GwyndolinCinder places action card Cards at position 1 (finishing action)
+Move 46 :08:01:47
+The display is replenished with Common Wombat
+Move 47 :08:55:47
+Drewbag84 chooses action card AnimalsI with strength 3
+Move 48 :08:55:55
+Drewbag84 plays Sloth Bear for 14 and places it in a size-3 enclosure
+Move 49 :08:56:00
+Drewbag84 gains 2 appeal (Map 1 bonus)
+Drewbag84 gains 6 appeal (Sloth Bear)
+Drewbag84 places action card Animals at position 1 (finishing action)
+Move 50 :08:56:17
+Drewbag84 places Association at position 1 (Boost effect)
+Move 52 :08:57:04
+Skelcher chooses action card BuildI with strength 5
+Move 53 :08:57:14
+Skelcher pays 10 for building a size-5 enclosure
+Skelcher gains 5 money (placement bonus)
+Move 54 :08:57:30
+Skelcher takes Yellow-throated Marten in reputation range from the display
+Skelcher places action card Build at position 1 (finishing action)
+Move 55 :08:57:37
+The display is replenished with Serengeti national park
+Move 56 :09:27:06
+BlackSheep42 chooses action card BuildI with strength 5
+Move 57 :09:27:18
+BlackSheep42 pays 6 for building a size-3 enclosure
+BlackSheep42 gains 1 reputation (placement bonus)
+BlackSheep42 places action card Build at position 1 (finishing action)
+Move 59 :09:32:00
+GwyndolinCinder chooses action card SponsorsI with strength 4
+Move 60 :09:32:07
+GwyndolinCinder plays Ornithologist
+GwyndolinCinder gains 3 money (Ornithologist)
+GwyndolinCinder places action card Sponsors at position 1 (finishing action)
+Move 62 :10:39:36
+Drewbag84 chooses action card BuildI with strength 3
+Move 66 :10:40:01
+Drewbag84 pays 2 for building a size-1 enclosure
+Drewbag84 places action card Build at position 1 (finishing action)
+Move 68 :10:56:33
+Skelcher chooses action card CardsI with strength 5
+Skelcher advances break token of 2 space(s), now at 6/15
+Move 69 :10:56:39
+Skelcher snaps Golden Eagle from the display
+Skelcher places action card Cards at position 1 (finishing action)
+Move 70 :10:57:02
+The display is replenished with Wolf
+Move 71 :11:01:39
+BlackSheep42 chooses action card SponsorsI with strength 5
+Move 72 :11:01:43
+BlackSheep42 plays Expert On Australia
+Move 73 :11:01:46
+BlackSheep42 gains 1 appeal (Expert On Australia)
+Move 74 :11:01:57
+BlackSheep42 places action card Sponsors at position 1 (finishing action)
+Move 76 :11:26:01
+GwyndolinCinder chooses action card BuildI with strength 5
+Move 77 :11:26:16
+GwyndolinCinder pays 4 for building a size-2 enclosure
+GwyndolinCinder places action card Build at position 1 (finishing action)
+Move 79 :11:30:39
+Drewbag84 chooses action card SponsorsI with strength 5
+Move 80 :11:30:43
+Drewbag84 plays Breeding Program
+Drewbag84 places action card Sponsors at position 1 (finishing action)
+Move 82 :11:34:34
+Skelcher gains 1 xtoken
+Skelcher places action card Association at position 1 (finishing action)
+Move 84 :17:35:56
+BlackSheep42 chooses action card AnimalsI with strength 5
+Move 85 :17:36:00
+BlackSheep42 plays Ring-tailed Lemur for 12 and places it in a size-3 enclosure
+Move 86 :17:36:05
+BlackSheep42 gains 6 appeal (Ring-tailed Lemur)
+Move 88 :17:36:25
+BlackSheep42 places action card Animals at position 1 (finishing action)
+Move 90 :17:48:21
+GwyndolinCinder chooses action card BuildI with strength 1
+Move 91 :17:48:26
+GwyndolinCinder pays 2 for building a size-1 enclosure
+GwyndolinCinder places action card Build at position 1 (finishing action)
+Move 93 :18:35:36
+Drewbag84 chooses action card CardsI with strength 5
+Drewbag84 advances break token of 2 space(s), now at 8/15
+Move 94 :18:35:44
+You draw Zoo School, Red Kangaroo, Japanese Macaque from the deck
+Drewbag84 draws 3 card(s) from the deck
+Drewbag84 places action card Cards at position 1 (finishing action)
+Move 98 :20:09:56
+Skelcher gains 1 xtoken
+Skelcher places action card Animals at position 1 (finishing action)
+Move 100 :20:17:51
+BlackSheep42 chooses action card CardsI with strength 5
+BlackSheep42 advances break token of 2 space(s), now at 10/15
+Move 101 :20:17:56
+BlackSheep42 snaps Northern Plains Gray Langur from the display
+BlackSheep42 places action card Cards at position 1 (finishing action)
+Move 102 :20:18:00
+The display is replenished with Marabou
+Move 103 :20:45:22
+GwyndolinCinder chooses action card AnimalsI with strength 5
+Move 104 :20:45:37
+GwyndolinCinder plays Crested Porcupine for 8 and places it in a size-1 enclosure
+Move 105 :20:45:42
+GwyndolinCinder gains 2 appeal (Map 1 bonus)
+Move 106 :20:45:44
+GwyndolinCinder gains 3 appeal (Crested Porcupine)
+Move 107 :20:45:55
+GwyndolinCinder digs Slow Worm from the display
+The display is replenished with Thorny Devil
+Move 108 :20:46:05
+GwyndolinCinder digs Thorny Devil from the display
+The display is replenished with African Bush Elephant
+Move 109 :20:46:10
+GwyndolinCinder plays Stoat for 4 and places it in a size-2 enclosure
+Move 110 :20:46:14
+GwyndolinCinder gains 2 appeal (Map 1 bonus)
+Move 111 :20:46:16
+GwyndolinCinder gains 3 appeal (Stoat)
+Move 112 :20:46:20
+You draw Northern Muriqui for hunter effect
+You keep Northern Muriqui for hunter effect
+GwyndolinCinder draws 1 card(s) for hunter effect
+GwyndolinCinder keeps Northern Muriqui card for hunter effect
+GwyndolinCinder places action card Animals at position 1 (finishing action)
+Move 113 :20:47:08
+GwyndolinCinder marks Common Wombat from display
+Move 115 :21:46:19
+Drewbag84 chooses action card BuildI with strength 3
+Move 116 :21:46:25
+Drewbag84 pays 2 for building a Kiosk
+Drewbag84 places action card Build at position 1 (finishing action)
+Move 118 :22:20:51
+Skelcher pays 1 xtoken for increasing card strength
+Skelcher chooses action card SponsorsI with strength 6
+Move 119 :22:20:55
+Skelcher advances break token of 6 space(s) and reaches the last space of the Break track. At the end of the turn, all players must take a break
+Skelcher gains 1 xtoken (triggering break)
+Skelcher gains 6 money
+Skelcher places action card Sponsors at position 1 (finishing action)
+Move 120 :22:21:02
+Starting a new break
+Move 123 :22:50:38
+You discard Northern Muriqui
+You discard Red Kangaroo, Japanese Macaque
+You discard Lesser Bird-of-paradise, Golden Eagle
+Drewbag84 discards 2 cards during break
+Skelcher discards 2 cards during break
+GwyndolinCinder discards 1 cards during break
+All tokens are removed from player cards
+All workers go back to each player's reserve
+Replenishing partner zoos and universities
+Removing first two cards of the display: Amazon House
+Common Wombat is not discarded and given to GwyndolinCinder (Mark effect)
+The display is replenished with Sponsorship: Primates, Aquatic
+Skelcher gains 6 money (appeal income)
+BlackSheep42 gains 12 money (appeal income)
+GwyndolinCinder gains 14 money (appeal income)
+Drewbag84 gains 11 money (appeal income)
+Drewbag84 gains 1 money (kiosk income)
+End of the break
+Move 124 :19/07/2026 05:24:58
+BlackSheep42 chooses action card AssociationI with strength 5
+Move 125 :05:25:01
+BlackSheep42 hires a new worker (Association2 effect)
+BlackSheep42 places action card Association at position 1 (finishing action)
+Move 127 :08:42:44
+GwyndolinCinder chooses action card BuildI with strength 2
+Move 128 :08:42:53
+GwyndolinCinder pays 4 for building the small aquarium
+Move 129 :08:43:00
+GwyndolinCinder places action card Build at position 1 (finishing action)
+Move 134 :10:20:16
+Drewbag84 chooses action card AssociationI with strength 4
+Move 135 :10:20:22
+Drewbag84 takes a new university
+Move 136 :10:20:26
+Drewbag84 gains 1 reputation ( from university)
+Move 137 :10:20:50
+Drewbag84 upgrades CardsII
+Drewbag84 places action card Association at position 1 (finishing action)
+Move 146 :10:29:59
+Skelcher pays 1 xtoken for increasing card strength
+Skelcher chooses action card AssociationI with strength 4
+Move 147 :10:30:37
+Skelcher takes a new university
+Move 148 :10:30:51
+Skelcher upgrades BuildII
+Skelcher places action card Association at position 1 (finishing action)
+Move 150 :10:40:44
+BlackSheep42 chooses action card BuildI with strength 5
+Move 151 :10:40:56
+BlackSheep42 pays 6 for building a size-3 enclosure
+Move 152 :10:41:01
+BlackSheep42 takes Serengeti national park in reputation range from the display
+BlackSheep42 places action card Build at position 1 (finishing action)
+Move 153 :10:41:05
+The display is replenished with Coconut Lorikeet
+Move 154 :10:59:11
+GwyndolinCinder chooses action card AnimalsI with strength 2
+Move 155 :10:59:15
+GwyndolinCinder plays Green Sea Turtle for 17 and places it in the small aquarium
+Move 156 :10:59:20
+GwyndolinCinder gains 6 appeal (Green Sea Turtle)
+Move 157 :10:59:24
+You draw Victory Column, Emu for scuba dive effect
+You keep Victory Column and discard Emu for scuba dive effect
+GwyndolinCinder draws 2 cards for scuba dive effect
+GwyndolinCinder keeps Victory Column card and discard 1 card(s) for scuba dive effect
+GwyndolinCinder places action card Animals at position 1 (finishing action)
+Move 158 :10:59:43
+GwyndolinCinder marks African Bush Elephant from display
+Move 160 :11:01:23
+Drewbag84 chooses action card AnimalsI with strength 5
+Move 161 :11:03:13
+Drewbag84 plays Tasmanian Devil for 11 and places it in a size-1 enclosure
+Move 162 :11:03:17
+Drewbag84 gains 2 appeal (Map 1 bonus)
+Move 163 :11:03:19
+Drewbag84 gains 4 appeal (Tasmanian Devil)
+Move 164 :11:03:22
+Drewbag84 gains 1 reputation (Tasmanian Devil)
+Move 166 :11:03:32
+Drewbag84 places action card Animals at position 1 (finishing action)
+Move 174 :11:49:10
+Skelcher chooses action card AnimalsI with strength 3
+Move 175 :11:49:16
+Skelcher plays Sumatran Tiger for 26 and places it in a size-5 enclosure
+Move 176 :11:49:21
+Skelcher gains 1 reputation (Sumatran Tiger)
+Move 177 :11:49:25
+Skelcher gains 8 appeal (Sumatran Tiger)
+Skelcher gains 2 conservation (Sumatran Tiger)
+Move 178 :11:49:33
+Skelcher gets 1 x upgrade-card
+Move 179 :11:49:39
+Skelcher upgrades AssociationII
+Skelcher places action card Animals at position 1 (finishing action)
+Move 181 :17:14:26
+BlackSheep42 chooses action card AnimalsI with strength 4
+Move 182 :17:14:32
+BlackSheep42 plays Northern Plains Gray Langur for 13 and places it in a size-3 enclosure
+Move 183 :17:14:36
+BlackSheep42 gains 6 appeal (Northern Plains Gray Langur)
+BlackSheep42 advances break token of 3 space(s), now at 3/15
+BlackSheep42 gains 3 money (Jumping action)
+BlackSheep42 places action card Animals at position 1 (finishing action)
+Move 185 :17:41:18
+GwyndolinCinder chooses action card AssociationI with strength 5
+Move 186 :18:37:23
+GwyndolinCinder supports a conservation project on the first slot : Species Diversity
+Move 187 :18:37:27
+GwyndolinCinder gains 5 conservation (Species Diversity)
+Move 189 :18:37:41
+GwyndolinCinder gets 3 x xtoken
+GwyndolinCinder gains 3 xtoken
+Move 190 :18:37:46
+GwyndolinCinder gets 1 x upgrade-card
+Move 191 :18:37:53
+GwyndolinCinder upgrades SponsorsII
+Move 192 :18:37:59
+GwyndolinCinder snaps Marabou from the display
+GwyndolinCinder places action card Association at position 1 (finishing action)
+Move 193 :18:38:21
+The display is replenished with Domestic Rabbit
+Move 194 :18:47:53
+Drewbag84 chooses action card SponsorsI with strength 5
+Move 195 :18:48:02
+Drewbag84 plays Zoo School
+Move 196 :18:48:05
+Drewbag84 gains 1 conservation (Zoo School)
+Move 197 :18:48:08
+Drewbag84 gains 1 reputation (Zoo School)
+Move 199 :18:48:23
+Drewbag84 adds a unique building for free
+Drewbag84 gains 1 xtoken (placement bonus)
+Move 200 :18:49:06
+You draw Horsfield's Tarsier from the deck
+Drewbag84 draws 1 card(s) from the deck
+Drewbag84 places action card Sponsors at position 1 (finishing action)
+Move 201 :19:20:21
+Skelcher chooses action card BuildII with strength 5
+Move 202 :19:20:29
+Skelcher pays 2 for building a size-1 enclosure
+Move 203 :19:20:35
+Skelcher pays 2 for building a Kiosk
+Move 204 :19:20:40
+Skelcher pays 2 for building a pavilion
+Skelcher gains 1 appeal (building a pavilion)
+Move 205 :19:20:49
+Skelcher takes African Bush Elephant in reputation range from the display
+GwyndolinCinder gains 2 money for their mark on African Bush Elephant
+Skelcher places action card Build at position 1 (finishing action)
+Move 206 :19:20:57
+The display is replenished with Quarantine Lab
+Move 207 :19:36:10
+BlackSheep42 chooses action card SponsorsI with strength 5
+Move 208 :19:36:13
+BlackSheep42 advances break token of 5 space(s), now at 8/15
+BlackSheep42 gains 5 money
+BlackSheep42 gains 3 money (Sponsors2 effect)
+BlackSheep42 places action card Sponsors at position 1 (finishing action)
+Move 210 :20:57:49
+GwyndolinCinder pays 1 xtoken for increasing card strength
+GwyndolinCinder chooses action card SponsorsII with strength 5
+Move 211 :20:57:56
+GwyndolinCinder plays Guided School Tours
+Move 212 :20:57:59
+GwyndolinCinder gains 1 appeal (Guided School Tours)
+GwyndolinCinder gains 1 conservation (Guided School Tours)
+Move 213 :20:58:06
+GwyndolinCinder plays Victory Column
+Move 214 :20:58:08
+GwyndolinCinder gains 1 appeal (Victory Column)
+Move 215 :20:58:19
+GwyndolinCinder adds a size-1 enclosure for free
+GwyndolinCinder gains 1 xtoken (placement bonus)
+GwyndolinCinder places action card Sponsors at position 1 (finishing action)
+Move 217 :21:23:46
+Drewbag84 chooses action card CardsII with strength 5
+Drewbag84 advances break token of 2 space(s), now at 10/15
+Move 218 :21:24:32
+You draw Reindeer from the deck
+Drewbag84 draws 1 card(s) from the deck
+Move 219 :21:24:46
+You draw White Stork from the deck
+Drewbag84 draws 1 card(s) from the deck
+Move 220 :21:24:54
+You draw European Bison from the deck
+Drewbag84 draws 1 card(s) from the deck
+Move 221 :21:25:02
+You draw Greater Flamingo from the deck
+Drewbag84 draws 1 card(s) from the deck
+Drewbag84 places action card Cards at position 1 (finishing action)
+Move 222 :21:33:45
+Skelcher pays 1 xtoken for increasing card strength
+Skelcher chooses action card SponsorsI with strength 5
+Move 223 :21:33:51
+Skelcher plays Release Of Patents
+Drewbag84 gains 6 money (Release Of Patents)
+BlackSheep42 gains 6 money (Release Of Patents)
+GwyndolinCinder gains 6 money (Release Of Patents)
+Skelcher gains 3 conservation (Release Of Patents)
+Move 224 :21:34:29
+Skelcher gets 3 x bonus-ignore-conditions
+Skelcher places action card Sponsors at position 1 (finishing action)
+Move 226 :20/07/2026 05:52:38
+BlackSheep42 chooses action card CardsI with strength 5
+BlackSheep42 advances break token of 2 space(s), now at 12/15
+Move 227 :05:52:43
+BlackSheep42 snaps Quarantine Lab from the display
+BlackSheep42 places action card Cards at position 1 (finishing action)
+Move 228 :05:52:47
+The display is replenished with Golden Snub-nosed Monkey
+Move 229 :09:00:56
+GwyndolinCinder chooses action card BuildI with strength 4
+Move 230 :09:01:05
+GwyndolinCinder pays 4 for building a size-2 enclosure
+Move 231 :09:01:11
+You draw Vietnamese Pot-bellied Pig from the deck
+GwyndolinCinder draws 1 card(s) from the deck
+GwyndolinCinder places action card Build at position 1 (finishing action)
+Move 232 :09:11:20
+Drewbag84 chooses action card BuildI with strength 5
+Move 233 :09:11:26
+Drewbag84 pays 6 for building a size-3 enclosure
+Drewbag84 gains 1 reputation (placement bonus)
+Drewbag84 gets 1 x upgrade-card (reputation track bonus)
+Move 234 :09:11:40
+Drewbag84 upgrades AssociationII
+Drewbag84 places action card Build at position 1 (finishing action)
+Move 236 :09:45:49
+Skelcher chooses action card CardsI with strength 5
+Skelcher advances break token of 2 space(s), now at 14/15
+Move 237 :09:45:56
+Skelcher snaps Aquatic from the display
+Skelcher places action card Cards at position 1 (finishing action)
+Move 238 :09:46:00
+The display is replenished with Loggerhead Sea Turtle
+Removing 1 cards of the display due to Wave icons reveal: Wolf
+The display is replenished with Mangalica
+Move 239 :13:35:23
+BlackSheep42 gains 1 xtoken
+BlackSheep42 places action card Build at position 1 (finishing action)
+Move 241 :13:53:23
+GwyndolinCinder chooses action card SponsorsII with strength 2
+Move 242 :13:53:27
+GwyndolinCinder advances break token of 2 space(s) and reaches the last space of the Break track. At the end of the turn, all players must take a break
+GwyndolinCinder gains 1 xtoken (triggering break)
+GwyndolinCinder gains 4 money
+GwyndolinCinder places action card Sponsors at position 1 (finishing action)
+Move 243 :13:53:33
+Starting a new break
+Move 245 :14:04:46
+You discard European Bison
+You discard Marabou
+Drewbag84 discards 1 cards during break
+GwyndolinCinder discards 1 cards during break
+All tokens are removed from player cards
+All workers go back to each player's reserve
+Replenishing partner zoos and universities
+Removing first two cards of the display: Coconut Lorikeet, Sponsorship: Primates
+The display is replenished with Nile Crocodile, Magnificent Sea Anemone
+Removing 1 cards of the display due to Wave icons reveal: Domestic Rabbit
+The display is replenished with Sponsorship: Vultures
+Move 246 :14:05:24
+GwyndolinCinder gains 1 appeal (Victory Column)
+Move 247 :14:05:27
+GwyndolinCinder gains 17 money (appeal income)
+Move 248 :14:05:29
+GwyndolinCinder gets 1 x Snapping (map bonus space)
+Move 249 :14:06:14
+GwyndolinCinder snaps Mangalica from the display
+Move 250 :14:06:28
+The display is replenished with Jungle
+Drewbag84 gains 14 money (appeal income)
+Drewbag84 gains 3 money (kiosk income)
+Skelcher gains 12 money (appeal income)
+Skelcher gains 2 money (kiosk income)
+BlackSheep42 gains 15 money (appeal income)
+End of the break
+Move 251 :14:08:41
+Drewbag84 chooses action card AssociationII with strength 5
+Move 252 :14:09:14
+Drewbag84 supports a conservation project on the third slot : Asia
+Drewbag84 uses 1 token(s) from sponsor card(s)
+Move 254 :14:10:00
+Drewbag84 snaps Jungle from the display
+Drewbag84 gains 2 conservation (Asia)
+Move 255 :14:10:06
+Drewbag84 gets 1 x add-worker
+Drewbag84 gains a new Association worker
+Move 256 :14:10:21
+Drewbag84 donates 5 money to get 1 conservation
+Drewbag84 places action card Association at position 1 (finishing action)
+Move 257 :14:10:27
+The display is replenished with New Zealand Sea Lion
+Move 258 :14:10:30
+Skelcher chooses action card AssociationII with strength 5
+Move 259 :14:10:46
+Skelcher supports a conservation project on the third slot : Aquatic
+Skelcher plays a new conservation project: Aquatic
+Move 263 :14:11:03
+Skelcher gains a new Association worker
+Skelcher gains 2 conservation (Aquatic)
+Move 267 :14:13:27
+Skelcher gets 1 x bonus-extra-shift
+Move 268 :14:20:48
+Skelcher donates 1 money to get 1 conservation
+Skelcher places action card Association at position 1 (finishing action)
+Move 270 :17:16:32
+BlackSheep42 chooses action card AssociationI with strength 5
+Move 271 :17:16:35
+BlackSheep42 takes a new university
+Move 275 :17:17:20
+BlackSheep42 upgrades BuildII
+BlackSheep42 places action card Association at position 1 (finishing action)
+Move 277 :17:32:48
+GwyndolinCinder pays 2 xtoken for increasing card strength
+GwyndolinCinder chooses action card AssociationI with strength 5
+Move 278 :17:33:44
+GwyndolinCinder supports a conservation project on the first slot : Bird Management Plan
+GwyndolinCinder plays a new conservation project: Bird Management Plan
+Move 280 :17:33:57
+GwyndolinCinder adds a Kiosk for free
+Move 282 :17:34:05
+GwyndolinCinder adds a pavilion for free
+GwyndolinCinder gains 1 appeal (building a pavilion)
+Move 283 :17:34:10
+GwyndolinCinder gains a new Association worker
+GwyndolinCinder gains 2 conservation (Bird Management Plan)
+Move 284 :17:35:22
+GwyndolinCinder gets 1 x Multiplier
+Move 285 :17:35:27
+GwyndolinCinder adds a multiplier token on action card BuildI
+GwyndolinCinder places action card Association at position 1 (finishing action)
+Move 290 :17:52:37
+Drewbag84 chooses action card SponsorsI with strength 4
+Move 291 :17:52:39
+Drewbag84 advances break token of 4 space(s), now at 4/15
+Drewbag84 gains 4 money
+Drewbag84 places action card Sponsors at position 1 (finishing action)
+Move 293 :18:09:57
+Skelcher chooses action card BuildII with strength 4
+Move 294 :18:10:05
+Skelcher pays 2 for building a pavilion
+Skelcher gains 1 appeal (building a pavilion)
+Move 295 :18:10:14
+Skelcher pays 2 for building a Kiosk
+Move 296 :18:10:20
+Skelcher pays 2 for building a size-1 enclosure
+Skelcher gains 1 reputation (placement bonus)
+Skelcher gets 1 x upgrade-card (reputation track bonus)
+Move 297 :18:10:25
+Skelcher upgrades AnimalsII
+Skelcher places action card Build at position 1 (finishing action)
+Move 299 :18:13:23
+BlackSheep42 chooses action card SponsorsI with strength 4
+Move 300 :18:13:27
+BlackSheep42 plays Quarantine Lab
+BlackSheep42 gains 1 xtoken (Quarantine Lab)
+BlackSheep42 places action card Sponsors at position 1 (finishing action)
+Move 307 :18:24:34
+GwyndolinCinder chooses action card CardsI with strength 5
+GwyndolinCinder advances break token of 2 space(s), now at 6/15
+Move 308 :18:24:49
+GwyndolinCinder digs Nile Crocodile from the display
+The display is replenished with Moose
+Move 309 :18:25:00
+You draw Devil Firefish, Bolivian Red Howler, Veiled Chameleon from the deck
+GwyndolinCinder draws 3 card(s) from the deck
+Move 310 :18:26:25
+You discard Bolivian Red Howler
+GwyndolinCinder discards 1 card(s)
+GwyndolinCinder places action card Cards at position 1 (finishing action)
+Move 312 :19:09:52
+Drewbag84 chooses action card AnimalsI with strength 5
+Move 313 :19:10:02
+Drewbag84 plays Greater Flamingo for 16 and places it in a size-3 enclosure
+GwyndolinCinder gains 3 money (Ornithologist)
+Move 314 :19:10:07
+Drewbag84 gains 7 appeal (Greater Flamingo)
+Move 315 :19:10:18
+Drewbag84 adds a Kiosk (Greater Flamingo)
+Move 316 :19:10:24
+Drewbag84 places action card Animals at position 1 (finishing action)
+Move 318 :19:21:07
+Skelcher chooses action card AnimalsII with strength 5
+Skelcher gains 1 reputation (max strength Animals)
+Move 319 :19:21:32
+Skelcher plays Yellow-throated Marten for 7 and places it in a size-1 enclosure
+Move 320 :19:21:39
+Skelcher gains 2 appeal (Map 1 bonus)
+Move 321 :19:21:42
+Skelcher gains 3 appeal (Yellow-throated Marten)
+Move 322 :19:21:54
+You draw Coquerel's Sifaka for hunter effect
+You keep Coquerel's Sifaka for hunter effect
+Skelcher draws 1 card(s) for hunter effect
+Skelcher keeps Coquerel's Sifaka card for hunter effect
+Move 323 :19:22:05
+Skelcher places action card Animals at position 1 (finishing action)
+Move 330 :19:32:54
+BlackSheep42 chooses action card BuildII with strength 3
+Move 331 :19:33:00
+BlackSheep42 pays 4 for building a size-2 enclosure
+Move 332 :19:33:07
+BlackSheep42 pays 2 for building a size-1 enclosure
+BlackSheep42 places action card Build at position 1 (finishing action)
+Move 340 :19:46:33
+GwyndolinCinder pays 1 xtoken for increasing card strength
+GwyndolinCinder chooses action card BuildI with strength 5
+Move 341 :19:47:15
+GwyndolinCinder pays 10 for building the large aquarium
+GwyndolinCinder gains 5 money (placement bonus)
+Move 342 :19:47:22
+GwyndolinCinder chooses action card BuildI with strength 4
+GwyndolinCinder uses a multiplier token
+Move 343 :19:48:29
+GwyndolinCinder pays 6 for building the Petting Zoo
+Move 344 :19:49:30
+You draw Muskox from the deck
+GwyndolinCinder draws 1 card(s) from the deck
+GwyndolinCinder places action card Build at position 1 (finishing action)
+Move 345 :20:37:16
+Drewbag84 pays 1 xtoken for increasing card strength
+Drewbag84 chooses action card AssociationII with strength 4
+Move 346 :20:38:52
+Drewbag84 takes a new university
+Move 347 :20:38:57
+Drewbag84 gains 1 conservation (university)
+Drewbag84 gets 5 x money
+Drewbag84 gains 5 money
+Drewbag84 gains 2 reputation ( from university)
+Move 348 :20:39:11
+Drewbag84 donates 7 money to get 1 conservation
+Drewbag84 places action card Association at position 1 (finishing action)
+Move 354 :20:45:01
+Skelcher chooses action card SponsorsI with strength 5
+Move 355 :20:45:08
+Skelcher advances break token of 5 space(s), now at 11/15
+Skelcher gains 5 money
+Skelcher places action card Sponsors at position 1 (finishing action)
+Move 357 :21:29:08
+BlackSheep42 chooses action card AnimalsI with strength 5
+Move 358 :21:29:15
+BlackSheep42 plays Inland Taipan for 10 and places it in a size-2 enclosure
+Move 359 :21:29:22
+BlackSheep42 uses Venom effect and gives Venom token(s) to Drewbag84, Skelcher, GwyndolinCinder
+Move 360 :21:29:43
+BlackSheep42 gains 5 appeal (Inland Taipan)
+Move 361 :21:29:45
+BlackSheep42 gains 2 appeal (Map 1 bonus)
+Move 363 :21:30:04
+BlackSheep42 plays Shoebill for 9 and places it in a size-1 enclosure
+GwyndolinCinder gains 3 money (Ornithologist)
+Move 364 :21:30:10
+BlackSheep42 gains 3 appeal (Shoebill)
+Move 365 :21:30:13
+BlackSheep42 gains 2 appeal (Map 1 bonus)
+BlackSheep42 gains 1 conservation (Shoebill)
+BlackSheep42 places action card Animals at position 1 (finishing action)
+Move 378 :21:52:20
+GwyndolinCinder chooses action card AnimalsI with strength 5
+Move 379 :21:52:27
+GwyndolinCinder plays Common Wombat for 9 and places it in a size-2 enclosure
+Move 381 :21:52:39
+You pouch Muskox cards for 2 appeal
+GwyndolinCinder pouches 1 card(s) for 2 appeal
+Move 382 :21:52:43
+GwyndolinCinder gains 2 appeal (Map 1 bonus)
+GwyndolinCinder gains 4 appeal (Common Wombat)
+Move 383 :21:53:00
+GwyndolinCinder plays Vietnamese Pot-bellied Pig for 7 and places it in the Petting Zoo
+GwyndolinCinder gains 3 appeal (Petting Zoo Animal action)
+GwyndolinCinder places action card Animals at position 1 (finishing action)
+Move 384 :21:53:39
+GwyndolinCinder marks Loggerhead Sea Turtle from display
+GwyndolinCinder pays 2 money for Venom
+Move 386 :22:59:19
+Drewbag84 chooses action card SponsorsI with strength 3
+Move 387 :22:59:22
+Drewbag84 advances break token of 3 space(s), now at 14/15
+Drewbag84 gains 3 money
+Drewbag84 places action card Sponsors at position 1 (finishing action)
+Drewbag84 pays 2 money for Venom
+Move 400 :23:12:08
+Skelcher chooses action card AssociationII with strength 4
+Move 401 :23:12:20
+Skelcher takes a new university
+Move 402 :23:12:25
+Skelcher gains 1 reputation ( from university)
+Skelcher gains 1 conservation (university)
+Move 403 :23:12:31
+Skelcher triggers scoring card discard by reaching 10 conservation points
+Move 404 :23:12:40
+You discard Sponsored Zoo (scoring card)
+Skelcher discards 1 scoring card
+Move 405 :23:23:42
+You discard Naturalists' Zoo (scoring card)
+GwyndolinCinder discards 1 scoring card
+Move 406 :23:30:50
+You discard Aquatic Park (scoring card)
+Drewbag84 discards 1 scoring card
+Move 407 :21/07/2026 04:46:30
+You discard Large Animal Zoo (scoring card)
+BlackSheep42 discards 1 scoring card
+Move 408 :06:15:28
+Skelcher donates 3 money to get 1 conservation
+Skelcher places action card Association at position 1 (finishing action)
+Skelcher pays 2 money for Venom
+Move 410 :06:23:17
+BlackSheep42 pays 1 xtoken for increasing card strength
+BlackSheep42 chooses action card AssociationI with strength 5
+Move 411 :06:23:33
+BlackSheep42 supports a conservation project on the third slot : Species Diversity
+Move 412 :06:23:41
+BlackSheep42 gains a new Association worker
+BlackSheep42 gains 2 conservation (Species Diversity)
+Move 413 :06:23:45
+BlackSheep42 gets 1 x upgrade-card
+Move 414 :06:23:47
+BlackSheep42 upgrades AssociationII
+BlackSheep42 places action card Association at position 1 (finishing action)
+Move 416 :08:48:15
+GwyndolinCinder chooses action card AssociationI with strength 4
+Move 417 :08:48:19
+GwyndolinCinder takes a new Partner zoo
+GwyndolinCinder places action card Association at position 1 (finishing action)
+GwyndolinCinder pays 2 money for Venom
+Move 425 :11:29:59
+Drewbag84 chooses action card SponsorsI with strength 1
+Move 426 :11:30:03
+Drewbag84 advances break token of 1 space(s) and reaches the last space of the Break track. At the end of the turn, all players must take a break
+Drewbag84 gains 1 xtoken (triggering break)
+Drewbag84 gains 1 money
+Drewbag84 places action card Sponsors at position 1 (finishing action)
+Drewbag84 pays 2 money for Venom
+Move 427 :11:30:13
+Starting a new break
+All tokens are removed from player cards
+All workers go back to each player's reserve
+Replenishing partner zoos and universities
+Removing first two cards of the display: Golden Snub-nosed Monkey
+Loggerhead Sea Turtle is not discarded and given to GwyndolinCinder (Mark effect)
+The display is replenished with Alpaca, Meerkat Den
+Move 428 :11:30:25
+Drewbag84 gains 17 money (appeal income)
+Move 429 :11:30:28
+Drewbag84 gains 5 money (kiosk income)
+Drewbag84 gets 1 x Snapping (map bonus space)
+Move 430 :11:32:07
+Drewbag84 snaps Sponsorship: Vultures from the display
+Move 431 :11:32:09
+The display is replenished with Science Institute
+Skelcher gains 15 money (appeal income)
+Skelcher gains 3 money (kiosk income)
+BlackSheep42 gains 19 money (appeal income)
+Move 432 :11:44:59
+GwyndolinCinder gains 1 appeal (Victory Column)
+Move 433 :11:45:10
+GwyndolinCinder gains 21 money (appeal income)
+Move 434 :11:45:13
+GwyndolinCinder gains 4 money (kiosk income)
+GwyndolinCinder gets 1 x Snapping (map bonus space)
+Move 435 :11:45:56
+GwyndolinCinder snaps Alpaca from the display
+Move 436 :11:45:58
+End of the break
+The display is replenished with Basic Research
+Move 437 :11:46:59
+Skelcher chooses action card CardsI with strength 5
+Skelcher advances break token of 2 space(s), now at 2/15
+Move 438 :11:47:07
+You draw Bennett's Wallaby, Yosemite national park, Mountain Tapir from the deck
+Skelcher draws 3 card(s) from the deck
+Move 439 :11:47:29
+You discard Bennett's Wallaby
+Skelcher discards 1 card(s)
+Skelcher places action card Cards at position 1 (finishing action)
+Move 441 :12:18:42
+BlackSheep42 chooses action card CardsI with strength 5
+BlackSheep42 advances break token of 2 space(s), now at 4/15
+Move 442 :12:19:13
+You draw Galapagos Giant Tortoise, Expert On Europe, Komodo Dragon from the deck
+BlackSheep42 draws 3 card(s) from the deck
+Move 443 :12:19:32
+You discard Galapagos Giant Tortoise
+BlackSheep42 discards 1 card(s)
+BlackSheep42 places action card Cards at position 1 (finishing action)
+Move 445 :12:56:04
+GwyndolinCinder chooses action card AnimalsI with strength 2
+Move 446 :12:56:14
+GwyndolinCinder plays Devil Firefish for 16 and places it in the large aquarium
+GwyndolinCinder triggers its reef abilities
+Move 448 :12:56:23
+GwyndolinCinder gains 6 appeal (Devil Firefish)
+GwyndolinCinder gains 1 xtoken (Inventive)
+GwyndolinCinder places action card Animals at position 1 (finishing action)
+Move 449 :12:56:53
+GwyndolinCinder marks Moose from display
+Move 451 :13:22:16
+Drewbag84 chooses action card BuildI with strength 4
+Move 452 :13:23:09
+Drewbag84 pays 4 for building a size-2 enclosure
+Move 453 :13:23:25
+You draw (domestic) Goat from the deck
+Drewbag84 draws 1 card(s) from the deck
+Drewbag84 places action card Build at position 1 (finishing action)
+Move 454 :13:57:09
+Skelcher chooses action card BuildII with strength 5
+Move 455 :13:57:16
+Skelcher uses Build4 effect to build over rock/water
+Skelcher pays 6 for building a size-3 enclosure
+Skelcher gains 2 money (Build4)
+Move 456 :13:57:29
+Skelcher places action card Build at position 1 (finishing action)
+Move 458 :14:05:56
+BlackSheep42 chooses action card SponsorsI with strength 5
+Move 459 :14:06:01
+BlackSheep42 plays Expert On Europe
+Move 460 :14:06:15
+BlackSheep42 gains 1 appeal (Expert On Europe)
+Move 462 :14:06:34
+BlackSheep42 adds a size-1 enclosure for free
+BlackSheep42 gains 1 xtoken (placement bonus)
+BlackSheep42 places action card Sponsors at position 1 (finishing action)
+Move 464 :14:27:15
+GwyndolinCinder chooses action card CardsI with strength 4
+GwyndolinCinder advances break token of 2 space(s), now at 6/15
+Move 465 :14:27:29
+GwyndolinCinder digs from the display
+Moose is not discarded and given to GwyndolinCinder (Mark effect)
+The display is replenished with New Zealand Fur Seal
+Move 466 :14:27:34
+You draw Marine Research Expedition, Caracal from the deck
+GwyndolinCinder draws 2 card(s) from the deck
+GwyndolinCinder places action card Cards at position 1 (finishing action)
+Move 467 :16:16:07
+Drewbag84 chooses action card AnimalsI with strength 4
+Move 468 :16:16:12
+Drewbag84 plays Boa Constrictor for 16 and places it in a size-2 enclosure
+Move 469 :16:16:16
+Drewbag84 gains 2 appeal (Map 1 bonus)
+Move 470 :16:16:18
+Drewbag84 gains 7 appeal (Boa Constrictor)
+Drewbag84 uses Constriction effect and gives constriction token(s) to Skelcher, GwyndolinCinder
+Drewbag84 places action card Animals at position 1 (finishing action)
+Move 472 :16:27:55
+Skelcher chooses action card AssociationII with strength 3
+Move 473 :16:28:02
+Skelcher takes a new Partner zoo
+Move 474 :16:28:18
+Skelcher places action card Association at position 1 (finishing action)
+Move 476 :18:23:47
+BlackSheep42 chooses action card BuildII with strength 5
+Move 477 :18:24:32
+BlackSheep42 pays 6 for building a size-3 enclosure
+BlackSheep42 gains 1 xtoken (placement bonus)
+Move 478 :18:24:40
+BlackSheep42 pays 2 for building a Kiosk
+Move 479 :18:25:13
+BlackSheep42 pays 2 for building a pavilion
+BlackSheep42 gains 1 appeal (building a pavilion)
+BlackSheep42 places action card Build at position 1 (finishing action)
+Move 481 :18:26:34
+GwyndolinCinder pays 2 xtoken for increasing card strength
+GwyndolinCinder chooses action card AssociationI with strength 5
+Move 482 :18:35:09
+GwyndolinCinder supports a conservation project on the first slot : Habitat Diversity
+Move 483 :18:35:13
+GwyndolinCinder gains 5 conservation (Habitat Diversity)
+Move 484 :18:35:35
+GwyndolinCinder adds a size-2 enclosure for free
+GwyndolinCinder gains 1 xtoken (placement bonus)
+GwyndolinCinder places action card Association at position 1 (finishing action)
+Move 490 :19:07:03
+Drewbag84 pays 1 xtoken for increasing card strength
+Drewbag84 chooses action card AssociationII with strength 5
+Move 491 :19:07:35
+Drewbag84 supports a conservation project on the second slot : Species Diversity
+Drewbag84 gains 5 money (map bonus space)
+Drewbag84 gains 3 conservation (Species Diversity)
+Drewbag84 gets 5 x money
+Drewbag84 gains 5 money
+Move 492 :19:07:56
+Drewbag84 places action card Association at position 1 (finishing action)
+Move 494 :19:11:21
+Skelcher chooses action card AnimalsII with strength 3
+Move 495 :19:11:27
+Skelcher plays Coquerel's Sifaka for 14 and places it in a size-3 enclosure
+Move 496 :19:11:34
+Skelcher gains 2 appeal (Map 1 bonus)
+Move 497 :19:11:40
+Skelcher gains 7 appeal (Coquerel's Sifaka)
+Move 498 :19:11:44
+Skelcher advances break token of 2 space(s), now at 8/15
+Skelcher gains 2 money (Jumping action)
+Move 499 :19:11:49
+You draw Rhesus Monkey Park for monkey gang effect
+Skelcher draws 1 card for monkey gang effect: Rhesus Monkey Park
+Move 500 :19:12:08
+Skelcher places action card Animals at position 1 (finishing action)
+Skelcher discards their Constriction token
+Move 502 :19:25:24
+BlackSheep42 pays 1 xtoken for increasing card strength
+BlackSheep42 chooses action card AssociationII with strength 5
+Move 503 :19:26:42
+BlackSheep42 supports a conservation project on the second slot : Habitat Diversity
+BlackSheep42 gains 5 money (map bonus space)
+BlackSheep42 gains 3 conservation (Habitat Diversity)
+BlackSheep42 gets 5 x money
+BlackSheep42 gains 5 money
+Move 504 :19:27:12
+BlackSheep42 donates 10 money to get 1 conservation
+BlackSheep42 places action card Association at position 1 (finishing action)
+Move 506 :19:31:35
+GwyndolinCinder chooses action card AnimalsI with strength 3
+Move 507 :19:31:47
+GwyndolinCinder plays Alpaca for 7 and places it in the Petting Zoo
+GwyndolinCinder gains 6 appeal (Petting Zoo Animal action)
+GwyndolinCinder places action card Animals at position 1 (finishing action)
+Move 508 :19:31:55
+GwyndolinCinder marks Magnificent Sea Anemone from display
+Move 510 :23:19:21
+Drewbag84 chooses action card BuildI with strength 3
+Move 511 :23:19:34
+Drewbag84 pays 2 for building a size-1 enclosure
+Drewbag84 places action card Build at position 1 (finishing action)
+Move 513 :23:26:25
+Skelcher chooses action card SponsorsI with strength 5
+Move 514 :23:26:28
+Skelcher advances break token of 5 space(s), now at 13/15
+Skelcher gains 5 money
+Skelcher places action card Sponsors at position 1 (finishing action)
+Move 516 :22/07/2026 05:24:32
+BlackSheep42 gains 1 xtoken
+BlackSheep42 places action card Animals at position 1 (finishing action)
+Move 518 :08:33:35
+GwyndolinCinder pays 1 xtoken for increasing card strength
+GwyndolinCinder chooses action card AssociationI with strength 3
+Move 519 :08:34:27
+GwyndolinCinder takes a new Partner zoo
+Move 520 :08:34:32
+GwyndolinCinder upgrades AnimalsII
+GwyndolinCinder places action card Association at position 1 (finishing action)
+Move 522 :13:21:48
+Drewbag84 chooses action card SponsorsI with strength 4
+Move 523 :13:21:56
+Drewbag84 plays Sponsorship: Vultures
+Drewbag84 gains 1 appeal (Sponsorship: Vultures)
+Drewbag84 places action card Sponsors at position 1 (finishing action)
+Move 528 :14:07:34
+Skelcher uses 1 x bonus-extra-shift
+Move 529 :14:07:40
+Skelcher takes 1 worker(s) back from the partner zoo zone to their notepad (Extra Shift effect)
+Move 530 :14:07:43
+Skelcher chooses action card AssociationII with strength 3
+Move 531 :14:07:47
+Skelcher takes a new Partner zoo
+Move 532 :14:07:52
+Skelcher upgrades CardsII
+Move 533 :14:08:29
+Skelcher donates 6 money to get 1 conservation
+Skelcher places action card Association at position 1 (finishing action)
+Move 538 :16:09:58
+BlackSheep42 chooses action card AssociationII with strength 2
+Move 539 :16:14:04
+BlackSheep42 uses Association2 effect to reduce the strength of the task
+BlackSheep42 takes a new university
+Move 540 :16:14:44
+BlackSheep42 gains 1 conservation (university)
+BlackSheep42 gets 5 x money
+BlackSheep42 gains 5 money
+BlackSheep42 gains 2 reputation ( from university)
+BlackSheep42 gets 1 x upgrade-card (reputation track bonus)
+Move 541 :16:14:57
+BlackSheep42 upgrades CardsII
+Move 542 :16:15:14
+BlackSheep42 donates 12 money to get 1 conservation
+BlackSheep42 places action card Association at position 1 (finishing action)
+Move 544 :16:23:35
+GwyndolinCinder chooses action card SponsorsII with strength 3
+Move 545 :16:23:46
+GwyndolinCinder advances break token of 3 space(s) and reaches the last space of the Break track. At the end of the turn, all players must take a break
+GwyndolinCinder gains 1 xtoken (triggering break)
+GwyndolinCinder gains 6 money
+GwyndolinCinder places action card Sponsors at position 1 (finishing action)
+GwyndolinCinder discards their Constriction token
+Move 546 :16:23:54
+Starting a new break
+Move 547 :16:24:16
+You discard Moose, Marine Research Expedition, Caracal
+GwyndolinCinder discards 3 cards during break
+All tokens are removed from player cards
+All workers go back to each player's reserve
+Replenishing partner zoos and universities
+Removing first two cards of the display: New Zealand Sea Lion
+Magnificent Sea Anemone is not discarded and given to GwyndolinCinder (Mark effect)
+The display is replenished with Science Lab, Australian Pelican
+Move 548 :16:24:27
+GwyndolinCinder gains 1 appeal (Victory Column)
+Move 549 :16:27:47
+GwyndolinCinder gets 1 x Snapping (map bonus space)
+Move 550 :16:27:50
+GwyndolinCinder snaps Australian Pelican from the display
+Move 551 :16:27:55
+GwyndolinCinder gains 25 money (appeal income)
+Move 552 :16:27:59
+GwyndolinCinder gains 4 money (kiosk income)
+Move 553 :16:28:02
+GwyndolinCinder gets 1 x size-2 (map bonus space)
+Move 554 :16:31:31
+GwyndolinCinder adds a size-2 enclosure for free
+GwyndolinCinder gains 1 xtoken (placement bonus)
+Move 555 :16:31:37
+The display is replenished with Herbivore Management Plan
+Drewbag84 gets 5 x money (map bonus space)
+Drewbag84 gains 5 money (map bonus space)
+Move 556 :23/07/2026 08:00:41
+Drewbag84 gains 20 money (appeal income)
+Move 557 :08:00:44
+Drewbag84 gains 5 money (kiosk income)
+Move 558 :08:00:47
+Drewbag84 gains 3 money (Sponsorship: Vultures)
+Drewbag84 gets 1 x Snapping (map bonus space)
+Move 559 :08:01:50
+Drewbag84 snaps Science Lab from the display
+Move 560 :08:01:54
+The display is replenished with Chinese Water Dragon
+Skelcher gains 18 money (appeal income)
+Skelcher gains 4 money (kiosk income)
+BlackSheep42 gets 5 x money (map bonus space)
+BlackSheep42 gains 5 money (map bonus space)
+BlackSheep42 gains 20 money (appeal income)
+BlackSheep42 gains 2 money (kiosk income)
+End of the break
+Move 561 :08:02:45
+Drewbag84 gains 1 xtoken
+Drewbag84 places action card Cards at position 1 (finishing action)
+Move 563 :08:37:24
+Skelcher chooses action card CardsII with strength 5
+Skelcher advances break token of 2 space(s), now at 2/15
+Move 564 :08:37:38
+Skelcher takes Basic Research in reputation range from the display
+Move 565 :08:37:58
+You draw Raccoon, Explorer, Mandrill from the deck
+Skelcher draws 3 card(s) from the deck
+Move 566 :08:38:16
+You discard Explorer
+Skelcher discards 1 card(s)
+Skelcher places action card Cards at position 1 (finishing action)
+Move 567 :08:40:45
+The display is replenished with Archaeologist
+Move 568 :16:26:27
+BlackSheep42 chooses action card CardsII with strength 5
+BlackSheep42 advances break token of 2 space(s), now at 4/15
+Move 569 :16:26:36
+BlackSheep42 takes Meerkat Den in reputation range from the display
+Move 570 :16:26:53
+You draw Farm Cat from the deck
+BlackSheep42 draws 1 card(s) from the deck
+Move 571 :16:27:20
+You draw Science Museum from the deck
+BlackSheep42 draws 1 card(s) from the deck
+Move 572 :16:27:29
+BlackSheep42 takes Science Institute in reputation range from the display
+Move 573 :16:27:33
+You discard Farm Cat
+BlackSheep42 discards 1 card(s)
+BlackSheep42 places action card Cards at position 1 (finishing action)
+Move 574 :16:27:39
+The display is replenished with Longhorn Cowfish, Western Green Mamba
+Removing 1 cards of the display due to Wave icons reveal: New Zealand Fur Seal
+The display is replenished with Expert On Asia
+Move 575 :16:38:01
+GwyndolinCinder chooses action card AnimalsII with strength 3
+Move 576 :16:38:11
+GwyndolinCinder plays Veiled Chameleon for 11 and places it in a size-2 enclosure
+Move 577 :16:38:15
+GwyndolinCinder gains 4 appeal (Veiled Chameleon)
+Move 578 :16:38:21
+GwyndolinCinder snaps Chinese Water Dragon from the display
+Move 579 :16:38:26
+GwyndolinCinder plays Chinese Water Dragon for 5 and places it in a size-2 enclosure
+Move 580 :16:38:32
+GwyndolinCinder gains 3 appeal (Chinese Water Dragon)
+Move 581 :16:40:25
+You sell Loggerhead Sea Turtle, Magnificent Sea Anemone cards for 8 money
+GwyndolinCinder sells 2 card(s) for 8 money
+GwyndolinCinder places action card Animals at position 1 (finishing action)
+Move 582 :16:42:30
+GwyndolinCinder marks Longhorn Cowfish from display
+Move 583 :16:42:36
+The display is replenished with Expert On The Americas
+Move 584 :22:20:21
+Drewbag84 pays 1 xtoken for increasing card strength
+Drewbag84 chooses action card AssociationII with strength 5
+Move 585 :22:20:52
+Drewbag84 supports a conservation project on the third slot : Habitat Diversity
+Move 586 :22:20:58
+Drewbag84 gains 2 conservation (Habitat Diversity)
+Drewbag84 gains a new Association worker
+Move 587 :22:21:08
+Drewbag84 donates 12 money to get 1 conservation
+Drewbag84 places action card Association at position 1 (finishing action)
+Move 589 :22:25:48
+Skelcher chooses action card BuildII with strength 5
+Move 590 :22:26:01
+Skelcher uses Build4 effect to build over rock/water
+Skelcher pays 4 for building a size-2 enclosure
+Skelcher gains 2 money (Build4)
+Move 591 :22:26:47
+Skelcher places action card Build at position 1 (finishing action)
+Move 593 :24/07/2026 04:53:47
+BlackSheep42 chooses action card SponsorsI with strength 5
+Move 594 :04:54:47
+BlackSheep42 plays Meerkat Den
+Move 596 :04:54:56
+BlackSheep42 adds a unique building for free
+BlackSheep42 gains 5 money (placement bonus)
+BlackSheep42 gains 3 money (Sponsors2 effect)
+BlackSheep42 gains 2 appeal (Meerkat Den)
+BlackSheep42 places action card Sponsors at position 1 (finishing action)
+Move 598 :07:44:26
+GwyndolinCinder chooses action card BuildI with strength 5
+Move 599 :07:44:45
+GwyndolinCinder pays 8 for building a size-4 enclosure
+GwyndolinCinder places action card Build at position 1 (finishing action)
+Move 601 :08:02:18
+Drewbag84 chooses action card BuildI with strength 4
+Move 602 :08:02:41
+Drewbag84 pays 6 for building the Petting Zoo
+Move 603 :08:03:11
+Drewbag84 takes Western Green Mamba in reputation range from the display
+Drewbag84 places action card Build at position 1 (finishing action)
+Move 604 :08:03:15
+The display is replenished with Lesser Flamingo
+Move 605 :08:20:56
+Skelcher chooses action card AssociationII with strength 3
+Move 606 :08:21:00
+Skelcher increases reputation
+Skelcher gains 2 reputation (association board)
+Skelcher gets 1 x add-worker (reputation track bonus)
+Skelcher gains a new Association worker
+Move 607 :08:21:13
+Skelcher places action card Association at position 1 (finishing action)
+Move 609 :12:19:04
+BlackSheep42 chooses action card AssociationII with strength 3
+Move 610 :12:19:10
+BlackSheep42 takes a new Partner zoo
+Move 611 :12:19:16
+BlackSheep42 places action card Association at position 1 (finishing action)
+Move 613 :12:23:57
+GwyndolinCinder pays 1 xtoken for increasing card strength
+GwyndolinCinder chooses action card AnimalsII with strength 3
+Move 614 :12:24:19
+GwyndolinCinder plays Australian Pelican for 13 and places it in a size-4 enclosure
+GwyndolinCinder gains 3 money (Ornithologist)
+Move 615 :12:24:24
+GwyndolinCinder gains 2 appeal (Map 1 bonus)
+GwyndolinCinder gains 5 appeal (Australian Pelican)
+Move 616 :12:24:30
+GwyndolinCinder plays Mangalica for 7 and places it in the Petting Zoo
+Move 617 :12:24:34
+GwyndolinCinder gains 9 appeal (Petting Zoo Animal action)
+Move 618 :12:24:39
+GwyndolinCinder digs from the display
+Longhorn Cowfish is not discarded and given to GwyndolinCinder (Mark effect)
+The display is replenished with Secretary Bird
+GwyndolinCinder places action card Animals at position 1 (finishing action)
+Move 620 :12:24:59
+GwyndolinCinder marks Secretary Bird from display
+Move 621 :12:25:03
+GwyndolinCinder chooses action card BuildI with strength 2
+Move 622 :12:25:07
+GwyndolinCinder pays 2 for building a pavilion
+GwyndolinCinder gains 1 appeal (building a pavilion)
+GwyndolinCinder places action card Build at position 1 (finishing action)
+Move 623 :12:25:20
+GwyndolinCinder places Cards at position 1 (Clever effect)
+Move 628 :12:38:27
+Drewbag84 gains 1 xtoken
+Drewbag84 places action card Sponsors at position 1 (finishing action)
+Move 630 :12:58:49
+Skelcher chooses action card AnimalsII with strength 5
+Skelcher gains 1 reputation (max strength Animals)
+Skelcher gets 1 x take-in-range-or-deck (reputation track bonus)
+Move 631 :12:59:03
+Skelcher takes Lesser Flamingo in reputation range from the display
+Move 632 :13:04:35
+Skelcher plays Raccoon for 8 and places it in a size-1 enclosure
+Skelcher gains 4 appeal (Raccoon)
+Move 633 :13:04:47
+Skelcher plays Mountain Tapir for 12 and places it in a size-2 enclosure
+Move 634 :13:04:58
+Skelcher gains 4 appeal (Mountain Tapir)
+Move 635 :13:05:01
+Skelcher gains 1 conservation (Mountain Tapir)
+Move 637 :13:05:34
+You dig Basic Research from your hand
+You draw Conference On Australia from the deck
+Skelcher digs 1 card from their hand
+Skelcher draws 1 card(s) from the deck
+Move 638 :13:07:44
+You dig Conference On Australia from your hand
+You draw Australian Dingo from the deck
+Skelcher digs 1 card from their hand
+Skelcher draws 1 card(s) from the deck
+Skelcher gains 2 appeal (Map 1 bonus)
+Skelcher places action card Animals at position 1 (finishing action)
+Move 639 :13:07:52
+Skelcher places Association at position 5 (Boost effect)
+Move 640 :13:08:02
+The display is replenished with South American Coati
+Move 641 :13:11:09
+BlackSheep42 chooses action card AnimalsI with strength 4
+Move 642 :13:11:13
+BlackSheep42 plays Komodo Dragon for 11 and places it in a size-3 enclosure
+Move 643 :13:11:18
+BlackSheep42 gains 2 appeal (Komodo Dragon)
+BlackSheep42 gains 8 appeal (Iconic animal)
+BlackSheep42 places action card Animals at position 1 (finishing action)
+Move 645 :13:12:11
+GwyndolinCinder chooses action card AssociationI with strength 5
+Move 646 :13:12:58
+GwyndolinCinder supports a conservation project on the first slot : Aquatic
+GwyndolinCinder gains 12 money (map bonus space)
+GwyndolinCinder gains 4 conservation (Aquatic)
+GwyndolinCinder places action card Association at position 1 (finishing action)
+Move 654 :13:38:50
+Drewbag84 chooses action card AnimalsI with strength 5
+Move 655 :13:38:56
+Drewbag84 plays (domestic) Goat for 7 and places it in the Petting Zoo
+Drewbag84 gains 3 appeal (Petting Zoo Animal action)
+Move 656 :13:39:27
+Drewbag84 places action card Animals at position 1 (finishing action)
+Move 658 :15:03:53
+Skelcher chooses action card AssociationII with strength 5
+Move 659 :17:47:37
+Skelcher supports a conservation project on the third slot : Yosemite national park
+Skelcher plays a new conservation project: Yosemite national park
+Skelcher releases Mountain Tapir into the wild and loses 4 appeal and frees a size-2 enclosure
+Skelcher gains 12 money (map bonus space)
+Move 660 :17:48:03
+Skelcher gains 1 reputation (adding a new conservation project)
+Skelcher gets 1 x conservation (reputation track bonus)
+Skelcher gains 1 conservation (reputation track bonus)
+Skelcher gains 3 conservation (Yosemite national park)
+Move 661 :17:48:44
+Skelcher places action card Association at position 1 (finishing action)
+Move 663 :25/07/2026 05:33:27
+BlackSheep42 pays 1 xtoken for increasing card strength
+BlackSheep42 chooses action card SponsorsI with strength 4
+Move 664 :05:33:34
+BlackSheep42 plays Science Museum
+BlackSheep42 gains 10 money (Science Museum)
+BlackSheep42 gains 3 money (Sponsors2 effect)
+BlackSheep42 gains 1 conservation (Science Museum)
+BlackSheep42 places action card Sponsors at position 1 (finishing action)
+Move 666 :07:13:31
+GwyndolinCinder chooses action card AnimalsII with strength 4
+Move 667 :07:13:49
+GwyndolinCinder plays Longhorn Cowfish for 6 and places it in the large aquarium
+GwyndolinCinder triggers its reef abilities
+Move 668 :07:13:55
+GwyndolinCinder gains 1 xtoken (Inventive)
+End of game triggered: everyone except GwyndolinCinder will get a last turn to play
+GwyndolinCinder gains 4 appeal (Longhorn Cowfish)
+Move 669 :07:15:01
+GwyndolinCinder places action card Animals at position 1 (finishing action)
+Move 671 :07:15:09
+GwyndolinCinder places Sponsors at position 1 (Boost effect)
+GwyndolinCinder marks South American Coati from display
+Move 676 :12:11:52
+Drewbag84 gains 1 xtoken
+Drewbag84 places action card Build at position 1 (finishing action)
+Move 678 :12:22:43
+Skelcher chooses action card AnimalsII with strength 2
+Move 679 :12:22:55
+Skelcher plays Lesser Flamingo for 12 and places it in a size-2 enclosure
+GwyndolinCinder gains 3 money (Ornithologist)
+Move 680 :12:23:00
+Skelcher gains 2 appeal (Map 1 bonus)
+Move 681 :12:23:04
+Skelcher gains 6 appeal (Lesser Flamingo)
+Move 682 :12:23:20
+Skelcher adds a pavilion (Lesser Flamingo)
+Skelcher gains 1 appeal (building a pavilion)
+Skelcher places action card Animals at position 1 (finishing action)
+Move 684 :12:26:12
+BlackSheep42 chooses action card AssociationII with strength 3
+Move 685 :12:26:33
+BlackSheep42 uses Association2 effect to reduce the strength of the task
+BlackSheep42 supports a conservation project on the second slot : Geological
+BlackSheep42 plays a new conservation project: Geological
+Move 686 :12:26:39
+BlackSheep42 gains 3 conservation (Geological)
+Move 687 :12:26:44
+BlackSheep42 pays 3 money for buying sponsor card
+BlackSheep42 plays Science Institute
+BlackSheep42 gains 2 conservation (Science Museum)
+Move 688 :12:26:52
+BlackSheep42 donates 12 money to get 1 conservation
+BlackSheep42 places action card Association at position 1 (finishing action)
+Move 689 :12:26:58
+Drewbag84 gains 2 conservation (Diverse species Zoo)
+Skelcher gains 2 conservation (Favorite Zoo)
+BlackSheep42 gains 2 conservation (Climbing Park)
+GwyndolinCinder gains 1 conservation (Guided School Tours)
+GwyndolinCinder gains 4 conservation (International Zoo)
+Drewbag84 has 34 and scores 18 for having 14. Drewbag84 scores 52.
+Skelcher has 40 and scores 33 for having 19. Skelcher scores 73.
+BlackSheep42 has 41 and scores 30 for having 18. BlackSheep42 scores 71.
+GwyndolinCinder has 76 and scores 42 for having 22. GwyndolinCinder scores 118.
+End of game

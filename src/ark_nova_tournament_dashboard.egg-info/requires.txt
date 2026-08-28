@@ -1,0 +1,8 @@
+pandas<3,>=2.2
+playwright<2,>=1.47
+plotly<7,>=5.24
+streamlit<2,>=1.38
+
+[dev]
+pytest<9,>=8
+ruff<1,>=0.6

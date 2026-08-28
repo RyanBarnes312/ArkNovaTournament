@@ -1,0 +1,1613 @@
+Move 1 :16/07/2026 22:31:12
+The colors of andyhowman, jimmygstar, MoonageDaydream have been chosen according to their preferences. Change my preferences.
+Starting the first round of action cards draft phase.
+Move 5 :17/07/2026 08:57:57
+Starting the second round of action cards draft phase.
+Move 13 :16:19:35
+You draw Sponsorship: Elephants, Caracal, Secretary Bird, Marabou, Sloth Bear, Chinese Water Dragon, Amazon House, Farm Cat from the deck
+You draw Aquatic Park, Small Animal Zoo from the deck (scoring cards)
+You draw Quarantine Lab, Anaconda, White Rhinoceros, Bird breeding program, South American Coati, Asian Elephant, American Alligator, Bolivian Red Howler from the deck
+You draw Sponsored Zoo, Conservation Zoo from the deck (scoring cards)
+You draw Grevy's Zebra, Komodo Dragon, New Zealand Sea Lion, Jaguar, Mantled Guereza, Dusky-leaf Monkey, Nile Crocodile, Northern Plains Gray Langur from the deck
+You draw Favorite Zoo, Specialized Species Zoo from the deck (scoring cards)
+You draw Vietnamese Pot-bellied Pig, African Ostrich, Dugong, Laughing Kookaburra, Tasmanian Devil, Proboscis Monkey, Loggerhead Sea Turtle, Golden Eagle from the deck
+You draw International Zoo, Specialized Habitat Zoo from the deck (scoring cards)
+andyhowman will play with action cards: Build 4, Cards, Animals 1, Association and Sponsors
+jimmygstar will play with action cards: Build, Cards 2, Animals, Association and Sponsors 3
+CloverJane will play with action cards: Build, Cards, Animals 2, Association 3 and Sponsors
+MoonageDaydream will play with action cards: Build, Cards, Animals 4, Association and Sponsors 2
+andyhowman draws 8 card(s) from the deck
+andyhowman draws 2 scoring cards from the deck
+jimmygstar draws 8 card(s) from the deck
+jimmygstar draws 2 scoring cards from the deck
+CloverJane draws 8 card(s) from the deck
+CloverJane draws 2 scoring cards from the deck
+MoonageDaydream draws 8 card(s) from the deck
+MoonageDaydream draws 2 scoring cards from the deck
+Move 17 :18:09:03
+You discard Grevy's Zebra, New Zealand Sea Lion, Jaguar, Nile Crocodile
+You discard Quarantine Lab, White Rhinoceros, Bird breeding program, Asian Elephant
+You discard Sponsorship: Elephants, Sloth Bear, Amazon House, Farm Cat
+You discard Vietnamese Pot-bellied Pig, Dugong, Proboscis Monkey, Loggerhead Sea Turtle
+andyhowman discards 4 cards (initial selection)
+jimmygstar discards 4 cards (initial selection)
+CloverJane discards 4 cards (initial selection)
+MoonageDaydream discards 4 cards (initial selection)
+The display is replenished with Spotted Hyena Compound, New Zealand Fur Seal, American Bison, Serengeti national park, Sponsorship: Lions, Savanna
+Move 18 :18:34:46
+andyhowman chooses action card AssociationI with strength 4
+Move 19 :18:34:52
+andyhowman takes a new Partner zoo
+andyhowman places action card Association at position 1 (finishing action)
+Move 21 :22:29:28
+jimmygstar chooses action card AssociationI with strength 3
+Move 22 :22:29:33
+jimmygstar takes a new Partner zoo
+jimmygstar places action card Association at position 1 (finishing action)
+Move 24 :18/07/2026 11:11:51
+CloverJane chooses action card BuildI with strength 5
+Move 25 :11:11:57
+CloverJane pays 6 for building a size-3 enclosure
+CloverJane places action card Build at position 1 (finishing action)
+Move 27 :18:55:33
+MoonageDaydream chooses action card AssociationI with strength 5
+Move 28 :18:55:37
+MoonageDaydream takes a new university
+Move 29 :18:55:47
+You draw Shoebill for gaining a new university with
+MoonageDaydream draws 1 card for gaining a new university: Shoebill
+MoonageDaydream places action card Association at position 1 (finishing action)
+Move 33 :19:21:53
+andyhowman chooses action card BuildI with strength 4
+Move 34 :19:22:07
+andyhowman pays 6 for building a size-3 enclosure
+andyhowman gains 1 xtoken (placement bonus)
+andyhowman places action card Build at position 1 (finishing action)
+Move 39 :21:13:40
+jimmygstar chooses action card BuildI with strength 4
+Move 40 :21:14:34
+jimmygstar pays 8 for building a size-4 enclosure
+jimmygstar places action card Build at position 1 (finishing action)
+Move 42 :21:19:10
+CloverJane chooses action card AssociationI with strength 5
+Move 43 :21:19:16
+CloverJane takes a new Partner zoo
+CloverJane gains 1 xtoken (Association3 effect)
+CloverJane places action card Association at position 1 (finishing action)
+Move 45 :21:21:01
+MoonageDaydream chooses action card BuildI with strength 3
+Move 46 :21:21:29
+MoonageDaydream pays 4 for building a size-2 enclosure
+MoonageDaydream gains 5 money (placement bonus)
+MoonageDaydream places action card Build at position 1 (finishing action)
+Move 48 :19/07/2026 07:48:15
+andyhowman chooses action card BuildI with strength 1
+Move 49 :07:48:35
+andyhowman pays 2 for building a size-1 enclosure
+andyhowman places action card Build at position 1 (finishing action)
+Move 57 :08:04:57
+jimmygstar chooses action card CardsI with strength 5
+jimmygstar advances break token of 2 space(s), now at 2/15
+Move 58 :08:05:07
+You dig Caracal from your hand
+You draw Lesser Flamingo from the deck
+jimmygstar digs 1 card from their hand
+jimmygstar draws 1 card(s) from the deck
+Move 59 :08:05:34
+jimmygstar snaps Serengeti national park from the display
+jimmygstar places action card Cards at position 1 (finishing action)
+Move 60 :08:05:38
+The display is replenished with Emu
+Move 61 :09:22:29
+CloverJane chooses action card AnimalsI with strength 3
+Move 62 :09:22:34
+CloverJane plays Northern Plains Gray Langur for 10 and places it in a size-3 enclosure
+Move 63 :09:22:39
+CloverJane gains 2 appeal (Map 1 bonus)
+Move 64 :09:22:41
+CloverJane gains 6 appeal (Northern Plains Gray Langur)
+CloverJane advances break token of 3 space(s), now at 5/15
+CloverJane gains 3 money (Jumping action)
+CloverJane places action card Animals at position 1 (finishing action)
+Move 67 :11:12:46
+MoonageDaydream chooses action card BuildI with strength 1
+Move 68 :11:13:02
+MoonageDaydream pays 2 for building a size-1 enclosure
+MoonageDaydream places action card Build at position 1 (finishing action)
+Move 70 :12:26:45
+andyhowman chooses action card SponsorsI with strength 5
+Move 71 :12:26:48
+andyhowman advances break token of 5 space(s), now at 10/15
+andyhowman gains 5 money
+andyhowman places action card Sponsors at position 1 (finishing action)
+Move 73 :21:20:03
+jimmygstar chooses action card AnimalsI with strength 4
+Move 74 :21:20:20
+jimmygstar plays Secretary Bird for 11 and places it in a size-4 enclosure
+Move 75 :21:20:25
+jimmygstar gains 2 appeal (Map 1 bonus)
+Move 76 :21:20:28
+jimmygstar gains 4 appeal (Secretary Bird)
+jimmygstar gains 1 conservation (Secretary Bird)
+jimmygstar places action card Animals at position 1 (finishing action)
+Move 78 :20/07/2026 08:21:05
+CloverJane chooses action card BuildI with strength 3
+Move 79 :08:21:11
+CloverJane pays 4 for building a size-2 enclosure
+CloverJane places action card Build at position 1 (finishing action)
+Move 81 :11:14:37
+MoonageDaydream chooses action card AnimalsI with strength 3
+Move 82 :11:14:47
+MoonageDaydream plays Tasmanian Devil for 11 and places it in a size-1 enclosure
+Move 83 :11:14:53
+MoonageDaydream gains 4 appeal (Tasmanian Devil)
+Move 84 :11:14:56
+MoonageDaydream gains 1 reputation (Tasmanian Devil)
+Move 85 :11:15:04
+You pouch African Ostrich cards for 2 appeal
+MoonageDaydream pouches 1 card(s) for 2 appeal
+MoonageDaydream places action card Animals at position 1 (finishing action)
+Move 86 :11:15:29
+MoonageDaydream marks New Zealand Fur Seal from display
+Move 92 :12:13:58
+andyhowman chooses action card BuildI with strength 2
+Move 93 :12:14:16
+andyhowman pays 4 for building a size-2 enclosure
+andyhowman places action card Build at position 1 (finishing action)
+Move 95 :15:01:04
+jimmygstar chooses action card SponsorsI with strength 5
+Move 97 :15:01:13
+jimmygstar advances break token of 5 space(s) and reaches the last space of the Break track. At the end of the turn, all players must take a break
+jimmygstar gains 1 xtoken (triggering break)
+jimmygstar gains 5 money
+Move 98 :15:01:21
+jimmygstar places action card Sponsors at position 1 (finishing action)
+Move 99 :15:01:25
+Starting a new break
+Move 101 :15:12:04
+You discard South American Coati
+You discard Chinese Water Dragon
+andyhowman discards 1 cards during break
+jimmygstar discards 1 cards during break
+All tokens are removed from player cards
+All workers go back to each player's reserve
+Replenishing partner zoos and universities
+Removing first two cards of the display: Spotted Hyena Compound
+New Zealand Fur Seal is not discarded and given to MoonageDaydream (Mark effect)
+The display is replenished with Alpine Ibex, Southern Blue-ringed Octopus
+Removing 1 cards of the display due to Wave icons reveal: American Bison
+The display is replenished with Caribbean Reef Shark
+Removing 1 cards of the display due to Wave icons reveal: Sponsorship: Lions
+The display is replenished with African Spurred Tortoise
+jimmygstar gains 11 money (appeal income)
+CloverJane gains 12 money (appeal income)
+MoonageDaydream gains 12 money (appeal income)
+andyhowman gains 5 money (appeal income)
+End of the break
+Move 102 :17:04:03
+CloverJane chooses action card AssociationI with strength 3
+Move 103 :17:04:11
+CloverJane takes a new Partner zoo
+Move 104 :17:04:18
+CloverJane upgrades BuildII
+CloverJane places action card Association at position 1 (finishing action)
+Move 106 :20:32:08
+MoonageDaydream gains 1 xtoken
+MoonageDaydream places action card Sponsors at position 1 (finishing action)
+Move 108 :21:28:28
+andyhowman chooses action card CardsI with strength 5
+andyhowman advances break token of 2 space(s), now at 2/15
+Move 109 :21:28:34
+You draw European Grass Snake, Common Wombat, Yosemite national park from the deck
+andyhowman draws 3 card(s) from the deck
+Move 110 :21:28:48
+You discard Common Wombat
+andyhowman discards 1 card(s)
+andyhowman places action card Cards at position 1 (finishing action)
+Move 112 :21/07/2026 08:30:56
+jimmygstar chooses action card AssociationI with strength 5
+Move 113 :08:31:09
+jimmygstar takes a new Partner zoo
+Move 114 :08:31:16
+jimmygstar upgrades BuildII
+jimmygstar places action card Association at position 1 (finishing action)
+Move 116 :17:38:45
+CloverJane pays 1 xtoken for increasing card strength
+CloverJane chooses action card CardsI with strength 5
+CloverJane advances break token of 2 space(s), now at 4/15
+Move 117 :17:38:51
+CloverJane snaps African Spurred Tortoise from the display
+CloverJane places action card Cards at position 1 (finishing action)
+Move 118 :17:39:05
+The display is replenished with Ring-tailed Lemur
+Move 119 :18:31:24
+MoonageDaydream chooses action card AssociationI with strength 4
+Move 120 :18:31:34
+MoonageDaydream takes a new university
+Move 122 :18:31:42
+MoonageDaydream upgrades BuildII
+MoonageDaydream gains 1 reputation ( from university)
+MoonageDaydream places action card Association at position 1 (finishing action)
+Move 124 :19:02:40
+andyhowman chooses action card AnimalsI with strength 5
+Move 126 :19:03:09
+andyhowman plays Anaconda for 10 and places it in a size-2 enclosure
+Move 127 :19:03:20
+andyhowman gains 2 appeal (Map 1 bonus)
+Move 128 :19:03:24
+andyhowman uses Constriction effect and gives constriction token(s) to jimmygstar, CloverJane, MoonageDaydream
+andyhowman gains 6 appeal (Anaconda)
+Move 129 :19:03:39
+andyhowman plays European Grass Snake for 8 and places it in a size-1 enclosure
+Move 130 :19:03:45
+andyhowman gains 2 appeal (Map 1 bonus)
+andyhowman gains 3 appeal (European Grass Snake)
+andyhowman places action card Animals at position 1 (finishing action)
+Move 131 :19:04:07
+andyhowman places Build at position 1 (Clever effect)
+Move 136 :23:33:18
+jimmygstar chooses action card BuildII with strength 3
+Move 137 :23:33:47
+jimmygstar pays 6 for building a size-3 enclosure
+jimmygstar places action card Build at position 1 (finishing action)
+jimmygstar discards their Constriction token
+Move 139 :22/07/2026 08:24:09
+CloverJane chooses action card AnimalsI with strength 4
+Move 140 :08:24:14
+CloverJane plays Dusky-leaf Monkey for 9 and places it in a size-2 enclosure
+Move 141 :08:24:20
+CloverJane gains 2 appeal (Map 1 bonus)
+CloverJane gains 5 appeal (Dusky-leaf Monkey)
+CloverJane places action card Animals at position 1 (finishing action)
+Move 143 :08:24:36
+CloverJane places Sponsors at position 1 (Clever effect)
+Move 146 :17:34:34
+MoonageDaydream pays 1 xtoken for increasing card strength
+MoonageDaydream chooses action card BuildII with strength 5
+Move 147 :17:35:21
+MoonageDaydream pays 10 for building the Large Bird Aviary
+MoonageDaydream gains 1 xtoken (placement bonus)
+Move 149 :17:35:44
+You draw Brahminy Kite from the deck
+MoonageDaydream draws 1 card(s) from the deck
+Move 150 :17:35:50
+MoonageDaydream places action card Build at position 1 (finishing action)
+Move 152 :18:11:21
+andyhowman chooses action card AssociationI with strength 5
+Move 153 :18:11:30
+andyhowman takes a new university
+andyhowman gains 2 reputation ( from university)
+andyhowman places action card Association at position 1 (finishing action)
+Move 155 :21:55:42
+jimmygstar chooses action card AnimalsI with strength 4
+Move 156 :21:55:59
+jimmygstar plays Marabou for 7 and places it in a size-3 enclosure
+Move 157 :21:56:06
+jimmygstar gains 2 appeal (Map 1 bonus)
+Move 158 :21:56:09
+jimmygstar gains 4 appeal (Marabou)
+Move 159 :21:56:13
+You draw Chinese Water Dragon, Farm Cat from discard for scavenging effect
+jimmygstar draws 2 card(s) from discard for scavenging effect
+Move 160 :21:56:40
+You keep Chinese Water Dragon and discard Farm Cat for scavenging effect
+jimmygstar keeps 1 card and discards 1 card(s) for scavenging effect
+jimmygstar places action card Animals at position 1 (finishing action)
+Move 162 :22:28:47
+CloverJane chooses action card BuildII with strength 5
+Move 163 :22:28:59
+CloverJane pays 10 for building the Reptile House
+Move 164 :22:29:25
+CloverJane gains 1 reputation (placement bonus)
+Move 165 :22:31:16
+CloverJane places action card Build at position 1 (finishing action)
+Move 167 :23/07/2026 18:05:56
+MoonageDaydream chooses action card AnimalsI with strength 4
+Move 168 :18:06:04
+MoonageDaydream plays Brahminy Kite for 12 and places it in the Large Bird Aviary
+Move 169 :18:06:10
+MoonageDaydream gains 6 appeal (Brahminy Kite)
+Move 170 :18:06:16
+You draw Devil Firefish, Boa Constrictor for hunter effect
+MoonageDaydream draws 2 card(s) for hunter effect
+Move 171 :18:06:41
+You keep Boa Constrictor and discard Devil Firefish for hunter effect
+MoonageDaydream keeps Boa Constrictor card and discard 1 card(s) for hunter effect
+MoonageDaydream places action card Animals at position 1 (finishing action)
+Move 172 :18:06:57
+MoonageDaydream marks Emu from display
+Move 174 :19:19:30
+andyhowman chooses action card SponsorsI with strength 5
+Move 175 :19:19:32
+andyhowman advances break token of 5 space(s), now at 9/15
+andyhowman gains 5 money
+andyhowman places action card Sponsors at position 1 (finishing action)
+Move 177 :19:23:36
+jimmygstar chooses action card BuildII with strength 2
+Move 178 :19:24:10
+jimmygstar pays 4 for building a size-2 enclosure
+Move 179 :19:24:28
+You draw Underwater Tunnel from the deck
+jimmygstar draws 1 card(s) from the deck
+jimmygstar places action card Build at position 1 (finishing action)
+Move 180 :19:28:47
+CloverJane chooses action card CardsI with strength 4
+CloverJane advances break token of 2 space(s), now at 11/15
+Move 181 :19:28:54
+You draw Saltwater Crocodile, Raccoon from the deck
+CloverJane draws 2 card(s) from the deck
+CloverJane places action card Cards at position 1 (finishing action)
+Move 182 :22:42:02
+MoonageDaydream chooses action card SponsorsI with strength 4
+Move 183 :22:42:05
+MoonageDaydream advances break token of 4 space(s) and reaches the last space of the Break track. At the end of the turn, all players must take a break
+MoonageDaydream gains 1 xtoken (triggering break)
+MoonageDaydream gains 4 money
+MoonageDaydream gains 3 money (Sponsors2 effect)
+MoonageDaydream places action card Sponsors at position 1 (finishing action)
+Move 184 :22:42:14
+Starting a new break
+Move 186 :24/07/2026 07:57:41
+You discard Raccoon, Saltwater Crocodile
+You discard Underwater Tunnel
+jimmygstar discards 1 cards during break
+CloverJane discards 2 cards during break
+All tokens are removed from player cards
+All workers go back to each player's reserve
+Replenishing partner zoos and universities
+Removing first two cards of the display: Savanna
+Emu is not discarded and given to MoonageDaydream (Mark effect)
+The display is replenished with Sponsorship: Primates, Jungle
+MoonageDaydream gains 15 money (appeal income)
+andyhowman gains 14 money (appeal income)
+jimmygstar gains 14 money (appeal income)
+CloverJane gains 16 money (appeal income)
+End of the break
+Move 187 :09:04:21
+andyhowman chooses action card AnimalsI with strength 4
+Move 188 :09:04:25
+andyhowman plays Bolivian Red Howler for 9 and places it in a size-3 enclosure
+andyhowman gains 6 appeal (Bolivian Red Howler)
+andyhowman places action card Animals at position 1 (finishing action)
+Move 189 :09:04:32
+andyhowman places Cards at position 1 (Boost effect)
+Move 191 :09:48:29
+jimmygstar chooses action card CardsI with strength 5
+jimmygstar advances break token of 2 space(s), now at 2/15
+Move 192 :09:49:04
+jimmygstar digs Jungle from the display
+The display is replenished with Primate breeding program
+Move 193 :09:49:14
+You draw Llama, Expert In Predators, Science Library from the deck
+jimmygstar draws 3 card(s) from the deck
+Move 194 :09:50:02
+You discard Expert In Predators
+jimmygstar discards 1 card(s)
+jimmygstar places action card Cards at position 1 (finishing action)
+Move 196 :10:50:51
+CloverJane chooses action card AssociationI with strength 5
+Move 197 :10:51:14
+CloverJane takes a new university
+CloverJane gains 1 xtoken (Association3 effect)
+Move 198 :10:51:25
+You draw Rhesus Monkey Park for gaining a new university with
+CloverJane draws 1 card for gaining a new university: Rhesus Monkey Park
+CloverJane places action card Association at position 1 (finishing action)
+Move 199 :15:45:00
+MoonageDaydream chooses action card AssociationI with strength 4
+Move 200 :15:45:26
+MoonageDaydream takes a new university
+Move 201 :15:45:30
+MoonageDaydream gains 1 conservation (university)
+MoonageDaydream gains 2 reputation ( from university)
+MoonageDaydream gets 1 x upgrade-card (reputation track bonus)
+Move 202 :15:45:37
+MoonageDaydream upgrades AnimalsII
+MoonageDaydream places action card Association at position 1 (finishing action)
+Move 204 :17:03:18
+andyhowman chooses action card AssociationI with strength 4
+Move 205 :17:03:29
+andyhowman takes a new university
+Move 206 :17:03:34
+andyhowman gains 1 reputation ( from university)
+Move 207 :17:03:38
+andyhowman upgrades SponsorsII
+andyhowman places action card Association at position 1 (finishing action)
+Move 215 :18:39:48
+jimmygstar pays 1 xtoken for increasing card strength
+jimmygstar chooses action card AssociationI with strength 5
+Move 216 :18:43:28
+jimmygstar supports a conservation project on the first slot : Serengeti national park
+jimmygstar plays a new conservation project: Serengeti national park
+jimmygstar releases Secretary Bird into the wild and loses 4 appeal and frees a size-4 enclosure
+Move 217 :18:43:43
+jimmygstar gains 1 reputation (adding a new conservation project)
+Move 218 :18:43:47
+jimmygstar gains 5 conservation (Serengeti national park)
+Move 220 :18:44:08
+jimmygstar gets 1 x Fac
+Move 222 :18:44:23
+jimmygstar gets 1 x upgrade-card
+Move 223 :18:46:21
+jimmygstar upgrades SponsorsII
+Move 224 :18:46:48
+jimmygstar snaps Ring-tailed Lemur from the display
+jimmygstar places action card Association at position 1 (finishing action)
+Move 225 :18:46:52
+The display is replenished with Expert On Asia
+Move 226 :19:37:12
+CloverJane chooses action card AnimalsI with strength 5
+Move 227 :19:37:20
+CloverJane plays Komodo Dragon for 11 and places it in the Reptile House
+Move 228 :19:37:26
+CloverJane gains 2 appeal (Komodo Dragon)
+CloverJane gains 4 appeal (Iconic animal)
+Move 229 :19:37:35
+CloverJane places action card Animals at position 1 (finishing action)
+Move 232 :22:43:34
+MoonageDaydream pays 2 xtoken for increasing card strength
+MoonageDaydream chooses action card AnimalsII with strength 5
+MoonageDaydream gains 1 reputation (max strength Animals)
+Move 233 :22:43:55
+MoonageDaydream plays Shoebill for 9 and places it in the Large Bird Aviary
+Move 234 :22:44:00
+MoonageDaydream gains 3 appeal (Shoebill)
+MoonageDaydream gains 1 conservation (Shoebill)
+Move 235 :22:44:07
+MoonageDaydream gets 1 x upgrade-card
+Move 236 :22:44:41
+MoonageDaydream upgrades CardsII
+Move 237 :22:44:57
+MoonageDaydream plays Laughing Kookaburra for 9 and places it in a size-2 enclosure
+MoonageDaydream gains 3 appeal (Iconic animal)
+MoonageDaydream places action card Animals at position 1 (finishing action)
+Move 238 :22:45:36
+MoonageDaydream marks Alpine Ibex from display
+Move 240 :25/07/2026 08:15:42
+andyhowman chooses action card BuildI with strength 5
+Move 241 :08:17:09
+andyhowman uses Build4 effect to build over rock/water
+andyhowman pays 10 for building a size-4 enclosure
+Move 242 :08:17:23
+andyhowman takes Caribbean Reef Shark in reputation range from the display
+andyhowman places action card Build at position 1 (finishing action)
+Move 243 :08:17:30
+The display is replenished with Bavarian Forest national park
+Move 244 :10:40:02
+jimmygstar chooses action card SponsorsII with strength 5
+Move 246 :10:43:24
+You discard Science Library to gain money (Sponsors3 effect)
+jimmygstar discards 1 card to gain money (Sponsors3 effect)
+jimmygstar gains 4 money (Sponsors3)
+Move 247 :10:43:36
+jimmygstar advances break token of 5 space(s), now at 7/15
+jimmygstar gains 10 money
+jimmygstar places action card Sponsors at position 1 (finishing action)
+Move 249 :13:58:34
+CloverJane chooses action card SponsorsI with strength 5
+Move 250 :13:58:43
+CloverJane plays Rhesus Monkey Park
+CloverJane gains 1 xtoken (Rhesus Monkey Park)
+Move 251 :13:59:41
+CloverJane adds a unique building for free
+CloverJane gains 1 xtoken (placement bonus)
+Move 252 :14:00:06
+CloverJane takes Alpine Ibex in reputation range from the display
+MoonageDaydream gains 2 money for their mark on Alpine Ibex
+CloverJane places action card Sponsors at position 1 (finishing action)
+Move 253 :14:00:12
+The display is replenished with King Vulture
+Move 254 :19:01:53
+MoonageDaydream chooses action card BuildII with strength 4
+Move 255 :19:02:08
+MoonageDaydream pays 4 for building a size-2 enclosure
+MoonageDaydream gains 5 money (placement bonus)
+Move 256 :19:02:39
+MoonageDaydream places action card Build at position 1 (finishing action)
+Move 258 :19:14:13
+andyhowman chooses action card SponsorsII with strength 5
+Move 259 :19:14:17
+andyhowman advances break token of 5 space(s), now at 12/15
+andyhowman gains 10 money
+andyhowman places action card Sponsors at position 1 (finishing action)
+Move 261 :20:04:25
+jimmygstar chooses action card AnimalsI with strength 5
+Move 262 :20:04:42
+jimmygstar plays Ring-tailed Lemur for 9 and places it in a size-4 enclosure
+Move 263 :20:04:47
+jimmygstar gains 2 appeal (Map 1 bonus)
+Move 264 :20:04:50
+jimmygstar gains 6 appeal (Ring-tailed Lemur)
+Move 265 :20:05:06
+You sell Llama, Chinese Water Dragon cards for 8 money
+jimmygstar sells 2 card(s) for 8 money
+Move 266 :20:05:16
+jimmygstar plays Lesser Flamingo for 12 and places it in a size-2 enclosure
+Move 267 :20:05:20
+jimmygstar gains 2 appeal (Map 1 bonus)
+Move 268 :20:05:23
+jimmygstar gains 6 appeal (Lesser Flamingo)
+Move 269 :20:05:47
+jimmygstar adds a Kiosk (Lesser Flamingo)
+jimmygstar places action card Animals at position 1 (finishing action)
+Move 271 :21:00:58
+CloverJane chooses action card BuildII with strength 5
+Move 278 :21:03:04
+CloverJane pays 2 for building a Kiosk
+Move 279 :21:03:09
+CloverJane pays 2 for building a pavilion
+CloverJane gains 1 appeal (building a pavilion)
+CloverJane gains 5 money (placement bonus)
+Move 280 :21:03:22
+CloverJane pays 6 for building a size-3 enclosure
+Move 281 :21:03:29
+CloverJane takes Sponsorship: Primates in reputation range from the display
+CloverJane places action card Build at position 1 (finishing action)
+Move 282 :21:03:33
+The display is replenished with Adventure Playground
+Move 283 :26/07/2026 17:13:08
+MoonageDaydream chooses action card SponsorsI with strength 4
+Move 284 :17:13:11
+MoonageDaydream advances break token of 4 space(s) and reaches the last space of the Break track. At the end of the turn, all players must take a break
+MoonageDaydream gains 1 xtoken (triggering break)
+MoonageDaydream gains 4 money
+MoonageDaydream gains 3 money (Sponsors2 effect)
+MoonageDaydream places action card Sponsors at position 1 (finishing action)
+Move 285 :17:13:21
+Starting a new break
+Move 286 :22:34:03
+You discard Alpine Ibex
+CloverJane discards 1 cards during break
+All tokens are removed from player cards
+All workers go back to each player's reserve
+Replenishing partner zoos and universities
+Removing first two cards of the display: Southern Blue-ringed Octopus, Primate breeding program
+The display is replenished with Bluespotted Ribbontail Ray, Platypus
+Removing 1 cards of the display due to Wave icons reveal: Expert On Asia
+The display is replenished with Bennett's Wallaby
+MoonageDaydream gains 17 money (appeal income)
+andyhowman gains 16 money (appeal income)
+Move 287 :23:47:40
+jimmygstar gains 18 money (appeal income)
+Move 288 :23:47:43
+jimmygstar gains 2 money (kiosk income)
+jimmygstar gets 1 x Snapping (map bonus space)
+Move 289 :23:48:23
+jimmygstar snaps King Vulture from the display
+Move 290 :23:48:35
+The display is replenished with Compass Jellyfish
+Removing 1 cards of the display due to Wave icons reveal: Bavarian Forest national park
+The display is replenished with Sponsorship: Reptiles
+CloverJane gains 18 money (appeal income)
+CloverJane gains 2 money (kiosk income)
+End of the break
+Move 294 :27/07/2026 08:38:46
+andyhowman chooses action card CardsI with strength 4
+andyhowman advances break token of 2 space(s), now at 2/15
+Move 295 :08:38:53
+You draw Greater Rhea, Lion from the deck
+andyhowman draws 2 card(s) from the deck
+andyhowman places action card Cards at position 1 (finishing action)
+Move 296 :10:25:55
+jimmygstar chooses action card BuildII with strength 5
+Move 297 :10:26:35
+jimmygstar pays 10 for building the Large Bird Aviary
+jimmygstar gains 5 money (placement bonus)
+Move 299 :10:27:25
+jimmygstar moves Marabou into the the Large Bird Aviary and free a size-3 enclosure
+Move 300 :10:29:12
+You draw Galapagos Giant Tortoise from the deck
+jimmygstar draws 1 card(s) from the deck
+jimmygstar places action card Build at position 1 (finishing action)
+Move 301 :28/07/2026 07:11:48
+CloverJane chooses action card CardsI with strength 5
+CloverJane advances break token of 2 space(s), now at 4/15
+Move 302 :07:12:14
+You draw Low Mountain Range, Andean Condor, Polar Bear Exhibit from the deck
+CloverJane draws 3 card(s) from the deck
+Move 303 :07:12:30
+You discard Low Mountain Range
+CloverJane discards 1 card(s)
+CloverJane places action card Cards at position 1 (finishing action)
+Move 305 :10:04:41
+MoonageDaydream chooses action card CardsII with strength 5
+MoonageDaydream advances break token of 2 space(s), now at 6/15
+Move 306 :10:05:07
+You draw Panamanian White-faced Capuchin, Expert On The Americas, Golden Snub-nosed Monkey, Herpetologist from the deck
+MoonageDaydream draws 4 card(s) from the deck
+Move 307 :10:05:44
+You discard Emu
+MoonageDaydream discards 1 card(s)
+MoonageDaydream places action card Cards at position 1 (finishing action)
+Move 309 :10:11:34
+andyhowman chooses action card BuildI with strength 3
+Move 310 :10:12:12
+andyhowman uses Build4 effect to build over rock/water
+andyhowman pays 6 for building a size-2 enclosure
+andyhowman places action card Build at position 1 (finishing action)
+Move 312 :12:12:55
+jimmygstar chooses action card CardsI with strength 5
+jimmygstar advances break token of 2 space(s), now at 8/15
+Move 313 :12:13:58
+jimmygstar digs Bennett's Wallaby from the display
+The display is replenished with Franchise Business
+Move 314 :12:14:06
+You draw Medical Breakthrough, Collared Mangabey, Japanese Macaque from the deck
+jimmygstar draws 3 card(s) from the deck
+Move 315 :12:14:28
+You discard Medical Breakthrough
+jimmygstar discards 1 card(s)
+jimmygstar places action card Cards at position 1 (finishing action)
+Move 317 :21:41:35
+CloverJane chooses action card SponsorsI with strength 3
+Move 318 :21:41:44
+CloverJane plays Sponsorship: Primates
+CloverJane gains 4 appeal (Sponsorship: Primates)
+CloverJane places action card Sponsors at position 1 (finishing action)
+Move 320 :22:17:08
+MoonageDaydream pays 1 xtoken for increasing card strength
+MoonageDaydream chooses action card AnimalsII with strength 5
+MoonageDaydream gains 1 reputation (max strength Animals)
+Move 321 :22:17:21
+MoonageDaydream plays Golden Eagle for 20 and places it in the Large Bird Aviary
+MoonageDaydream gains 7 appeal (Golden Eagle)
+Move 322 :22:17:41
+MoonageDaydream buys Platypus from display for 13 and places it in a size-2 enclosure
+Move 323 :22:17:47
+MoonageDaydream gains 4 appeal (Platypus)
+MoonageDaydream places action card Animals at position 1 (finishing action)
+Move 325 :22:18:20
+MoonageDaydream marks Bluespotted Ribbontail Ray from display
+MoonageDaydream gets an extra action (Golden Eagle)
+Move 326 :22:18:24
+MoonageDaydream chooses action card AssociationI with strength 5
+Move 327 :22:18:33
+MoonageDaydream supports a conservation project on the first slot : Birds
+Move 328 :22:18:38
+MoonageDaydream gains 5 conservation (Birds)
+Move 329 :22:18:42
+MoonageDaydream gets 10 x money
+MoonageDaydream gains 10 money
+MoonageDaydream gains a new Association worker
+MoonageDaydream places action card Association at position 1 (finishing action)
+Move 330 :22:18:49
+The display is replenished with White Stork
+Move 331 :29/07/2026 08:13:12
+andyhowman chooses action card AnimalsI with strength 5
+Move 333 :08:13:26
+andyhowman plays American Alligator for 15 and places it in a size-4 enclosure
+Move 334 :08:13:33
+andyhowman gains 2 appeal (Map 1 bonus)
+Move 335 :08:13:36
+andyhowman gains 7 appeal (American Alligator)
+Move 336 :08:14:45
+andyhowman snaps White Stork from the display
+Move 337 :08:14:50
+andyhowman plays Greater Rhea for 9 and places it in a size-2 enclosure
+Move 338 :08:14:58
+andyhowman gains 2 appeal (Map 1 bonus)
+Move 339 :08:15:01
+andyhowman gains 5 appeal (Greater Rhea)
+Move 340 :08:15:10
+You draw Koala for sprint effect
+andyhowman draws 1 card(s) for sprint effect
+andyhowman places action card Animals at position 1 (finishing action)
+The display is replenished with Snowy Owl
+Move 341 :09:12:49
+jimmygstar chooses action card AssociationI with strength 5
+Move 342 :09:18:05
+jimmygstar supports a conservation project on the third slot : Birds
+Move 343 :09:18:16
+jimmygstar gains 2 conservation (Birds)
+Move 344 :09:18:21
+jimmygstar gets 1 x bonus-extra-shift
+Move 345 :09:18:30
+jimmygstar adds a size-2 enclosure for free
+jimmygstar gains 1 reputation (placement bonus)
+jimmygstar places action card Association at position 1 (finishing action)
+Move 356 :22:08:39
+CloverJane chooses action card AnimalsI with strength 4
+Move 357 :22:08:47
+CloverJane plays African Spurred Tortoise for 19 and places it in the Reptile House
+Move 358 :22:08:52
+CloverJane gains 6 appeal (African Spurred Tortoise)
+Move 359 :22:08:55
+CloverJane gains 1 conservation (African Spurred Tortoise)
+Move 360 :22:09:06
+You sell Andean Condor, Polar Bear Exhibit cards for 8 money
+CloverJane sells 2 card(s) for 8 money
+CloverJane places action card Animals at position 1 (finishing action)
+Move 363 :22:25:30
+MoonageDaydream chooses action card BuildII with strength 5
+Move 364 :22:25:40
+MoonageDaydream pays 6 for building a size-3 enclosure
+MoonageDaydream gains 1 reputation (placement bonus)
+MoonageDaydream gets 1 x add-worker (reputation track bonus)
+MoonageDaydream gains a new Association worker
+Move 365 :22:26:14
+MoonageDaydream pays 4 for building a size-2 enclosure
+MoonageDaydream places action card Build at position 1 (finishing action)
+Move 367 :30/07/2026 08:31:53
+andyhowman chooses action card AssociationI with strength 5
+Move 368 :08:35:00
+andyhowman takes a new university
+Move 369 :08:35:07
+andyhowman gains 1 conservation (university)
+Move 370 :08:35:12
+You draw Rock Monitor for gaining a new university with
+andyhowman draws 1 card for gaining a new university: Rock Monitor
+andyhowman places action card Association at position 1 (finishing action)
+Move 380 :09:30:06
+jimmygstar chooses action card SponsorsII with strength 5
+Move 382 :09:30:15
+You discard Japanese Macaque to gain money (Sponsors3 effect)
+jimmygstar discards 1 card to gain money (Sponsors3 effect)
+jimmygstar gains 4 money (Sponsors3)
+Move 383 :09:31:08
+jimmygstar buys Adventure Playground from display
+jimmygstar pays 1 money for playing sponsor from reputation range
+Move 385 :09:31:41
+jimmygstar adds a unique building for free
+jimmygstar gains 1 xtoken (placement bonus)
+jimmygstar gains 4 appeal (Adventure Playground)
+jimmygstar places action card Sponsors at position 1 (finishing action)
+Move 386 :09:31:59
+The display is replenished with Hydrologist
+Move 390 :31/07/2026 01:59:19
+CloverJane chooses action card CardsI with strength 3
+CloverJane advances break token of 2 space(s), now at 10/15
+Move 391 :01:59:25
+You draw Red Deer, Mediterranean Rainbow Wrasse from the deck
+CloverJane draws 2 card(s) from the deck
+Move 392 :01:59:39
+You discard Mediterranean Rainbow Wrasse
+CloverJane discards 1 card(s)
+CloverJane places action card Cards at position 1 (finishing action)
+Move 394 :08:30:57
+MoonageDaydream chooses action card SponsorsI with strength 5
+Move 395 :08:31:04
+MoonageDaydream plays Herpetologist
+MoonageDaydream gains 3 money (Herpetologist)
+MoonageDaydream gains 3 money (Sponsors2 effect)
+MoonageDaydream places action card Sponsors at position 1 (finishing action)
+Move 397 :09:00:42
+andyhowman chooses action card SponsorsII with strength 5
+Move 398 :09:00:44
+andyhowman advances break token of 5 space(s) and reaches the last space of the Break track. At the end of the turn, all players must take a break
+andyhowman gains 1 xtoken (triggering break)
+andyhowman gains 10 money
+andyhowman places action card Sponsors at position 1 (finishing action)
+Move 399 :09:00:51
+Starting a new break
+Move 400 :09:01:16
+You discard Lion
+andyhowman discards 1 cards during break
+All tokens are removed from player cards
+All workers go back to each player's reserve
+Replenishing partner zoos and universities
+Removing first two cards of the display: Compass Jellyfish
+Bluespotted Ribbontail Ray is not discarded and given to MoonageDaydream (Mark effect)
+The display is replenished with Wolf, Wolverine
+andyhowman gains 21 money (appeal income)
+Move 401 :09:49:33
+jimmygstar gains 20 money (appeal income)
+Move 402 :09:49:36
+jimmygstar gains 1 money (kiosk income)
+Move 403 :09:49:41
+jimmygstar gets 1 x size-2 (map bonus space)
+Move 404 :09:50:05
+jimmygstar adds a size-2 enclosure for free
+jimmygstar gets 1 x Snapping (map bonus space)
+Move 405 :09:51:22
+jimmygstar snaps Snowy Owl from the display
+Move 406 :09:51:25
+The display is replenished with Red Panda
+CloverJane gains 21 money (appeal income)
+CloverJane gains 2 money (kiosk income)
+CloverJane gains 6 money (Sponsorship: Primates)
+MoonageDaydream gains 21 money (appeal income)
+End of the break
+Move 407 :09:51:53
+jimmygstar chooses action card AnimalsI with strength 5
+Move 408 :09:52:05
+jimmygstar plays Snowy Owl for 11 and places it in a size-2 enclosure
+Move 409 :09:52:15
+jimmygstar gains 4 appeal (Snowy Owl)
+Move 410 :09:52:18
+jimmygstar gains 1 reputation (Snowy Owl)
+Move 411 :09:52:24
+You draw Guided School Tours, Cheetah, Indian Cobra, Coquerel's Sifaka for perception effect
+jimmygstar draws 4 card(s) for perception effect
+Move 412 :09:52:52
+You keep Guided School Tours, Indian Cobra and discard Cheetah, Coquerel's Sifaka
+jimmygstar keeps 2 card(s) and discard 2 card(s) for perception effect
+Move 413 :09:53:08
+jimmygstar plays King Vulture for 12 and places it in the Large Bird Aviary
+Move 414 :09:53:13
+jimmygstar gains 9 appeal (King Vulture)
+Move 415 :09:53:21
+You draw Medical Breakthrough, Secretary Bird, Emu, Polar Bear Exhibit, Jaguar from discard for scavenging effect
+jimmygstar draws 5 card(s) from discard for scavenging effect
+Move 416 :09:54:03
+You keep Secretary Bird and discard Medical Breakthrough, Emu, Polar Bear Exhibit, Jaguar for scavenging effect
+jimmygstar keeps 1 card and discards 4 card(s) for scavenging effect
+jimmygstar places action card Animals at position 1 (finishing action)
+Move 418 :18:34:57
+CloverJane chooses action card AnimalsI with strength 2
+Move 419 :18:35:05
+CloverJane plays Mantled Guereza for 10 and places it in a size-3 enclosure
+CloverJane gains 1 xtoken (Rhesus Monkey Park)
+Move 420 :18:35:11
+CloverJane gains 2 appeal (Map 1 bonus)
+CloverJane gains 6 appeal (Mantled Guereza)
+CloverJane places action card Animals at position 1 (finishing action)
+Move 422 :18:35:56
+CloverJane places Build at position 1 (Clever effect)
+Move 428 :19:45:15
+MoonageDaydream chooses action card AssociationI with strength 3
+Move 429 :19:45:20
+MoonageDaydream takes a new Partner zoo
+MoonageDaydream places action card Association at position 1 (finishing action)
+Move 434 :20:23:13
+andyhowman chooses action card BuildI with strength 4
+Move 435 :20:23:22
+andyhowman pays 4 for building a size-2 enclosure
+andyhowman gains 1 reputation (placement bonus)
+andyhowman gets 1 x upgrade-card (reputation track bonus)
+Move 436 :20:24:24
+andyhowman upgrades AssociationII
+andyhowman places action card Build at position 1 (finishing action)
+Move 438 :21:36:48
+jimmygstar chooses action card BuildII with strength 5
+Move 439 :21:40:20
+jimmygstar pays 10 for building the Reptile House
+Move 440 :21:40:26
+jimmygstar places action card Build at position 1 (finishing action)
+Move 441 :21:40:30
+jimmygstar places Cards at position 1 (Clever effect)
+Move 443 :21:51:36
+CloverJane chooses action card AssociationI with strength 5
+Move 444 :21:52:09
+CloverJane supports a conservation project on the third slot : Reptiles
+Move 445 :21:52:14
+CloverJane gains 2 conservation (Reptiles)
+Move 446 :21:52:26
+CloverJane gets 1 x upgrade-card
+Move 447 :21:52:33
+CloverJane upgrades AssociationII
+Move 448 :21:53:10
+CloverJane snaps Wolf from the display
+CloverJane places action card Association at position 1 (finishing action)
+Move 449 :21:53:19
+The display is replenished with Australian Sea Lion
+Move 450 :22:46:38
+MoonageDaydream chooses action card AnimalsII with strength 4
+Move 451 :22:46:58
+MoonageDaydream plays Panamanian White-faced Capuchin for 8 and places it in a size-2 enclosure
+Move 452 :22:47:02
+MoonageDaydream gains 2 appeal (Map 1 bonus)
+Move 453 :22:47:05
+MoonageDaydream gains 5 appeal (Panamanian White-faced Capuchin)
+Move 454 :22:47:15
+MoonageDaydream chooses jimmygstar to Pilfer
+Move 456 :01/08/2026 00:11:53
+You give Indian Cobra from the Pilfering effect
+You get Indian Cobra from the Pilfering effect
+jimmygstar gives 1 card to MoonageDaydream from Pilfering effect
+Move 457 :20:24:28
+MoonageDaydream buys Wolverine from display for 19 and places it in a size-3 enclosure
+Move 458 :20:24:34
+MoonageDaydream gains 5 appeal (Wolverine)
+MoonageDaydream gains 1 reputation (Wolverine)
+MoonageDaydream places action card Animals at position 1 (finishing action)
+Move 460 :20:25:09
+MoonageDaydream marks Red Panda from display
+Move 461 :20:25:26
+MoonageDaydream places Association at position 5 (Boost effect)
+Move 462 :20:25:29
+The display is replenished with Technology Institute
+Move 463 :22:30:40
+andyhowman chooses action card AnimalsI with strength 4
+Move 464 :22:30:47
+andyhowman plays Rock Monitor for 12 and places it in a size-2 enclosure
+MoonageDaydream gains 3 money (Herpetologist)
+Move 465 :22:30:54
+andyhowman gains 5 appeal (Rock Monitor)
+Move 466 :22:31:08
+You sell Koala cards for 4 money
+andyhowman sells 1 card(s) for 4 money
+andyhowman places action card Animals at position 1 (finishing action)
+Move 483 :02/08/2026 11:57:34
+jimmygstar chooses action card AnimalsI with strength 3
+Move 484 :11:57:46
+jimmygstar plays Secretary Bird for 11 and places it in the Large Bird Aviary
+Move 485 :11:57:50
+jimmygstar gains 4 appeal (Secretary Bird)
+jimmygstar gains 1 conservation (Secretary Bird)
+jimmygstar places action card Animals at position 1 (finishing action)
+Move 487 :19:50:10
+CloverJane pays 2 xtoken for increasing card strength
+CloverJane chooses action card BuildII with strength 4
+Move 488 :19:50:19
+CloverJane pays 8 for building a size-4 enclosure
+CloverJane places action card Build at position 1 (finishing action)
+Move 490 :19:55:08
+MoonageDaydream chooses action card CardsII with strength 4
+MoonageDaydream advances break token of 2 space(s), now at 2/15
+Move 491 :19:55:21
+MoonageDaydream takes Franchise Business in reputation range from the display
+Move 492 :19:55:33
+MoonageDaydream takes Sponsorship: Reptiles in reputation range from the display
+Move 493 :19:55:40
+You draw Cable Car from the deck
+MoonageDaydream draws 1 card(s) from the deck
+Move 494 :19:56:06
+You discard New Zealand Fur Seal
+MoonageDaydream discards 1 card(s)
+MoonageDaydream places action card Cards at position 1 (finishing action)
+Move 495 :19:56:13
+The display is replenished with Breeding Cooperation, American Whitespotted Filefish
+Removing 1 cards of the display due to Wave icons reveal: Hydrologist
+The display is replenished with Scarlet Macaw
+Move 496 :20:00:14
+andyhowman chooses action card CardsI with strength 5
+andyhowman advances break token of 2 space(s), now at 4/15
+Move 497 :20:01:32
+You draw Field Research Type D Orcas, Zooplankton, Humphead Wrasse from the deck
+andyhowman draws 3 card(s) from the deck
+Move 498 :20:02:20
+You discard Zooplankton
+andyhowman discards 1 card(s)
+andyhowman places action card Cards at position 1 (finishing action)
+Move 500 :04/08/2026 04:31:19
+jimmygstar chooses action card AssociationI with strength 5
+Move 501 :04:33:22
+jimmygstar supports a conservation project on the second slot : Habitat Diversity
+Move 506 :04:33:52
+jimmygstar pays 3 money for buying sponsor card
+jimmygstar plays Guided School Tours
+Move 507 :04:33:56
+jimmygstar gains 1 appeal (Guided School Tours)
+jimmygstar gains 1 conservation (Guided School Tours)
+Move 508 :04:34:16
+jimmygstar triggers scoring card discard by reaching 10 conservation points
+Move 509 :04:34:54
+You discard Small Animal Zoo (scoring card)
+jimmygstar discards 1 scoring card
+Move 510 :07:21:39
+You discard Favorite Zoo (scoring card)
+CloverJane discards 1 scoring card
+Move 511 :08:20:31
+You discard International Zoo (scoring card)
+MoonageDaydream discards 1 scoring card
+Move 512 :08:27:01
+You discard Sponsored Zoo (scoring card)
+andyhowman discards 1 scoring card
+jimmygstar gains 3 conservation (Habitat Diversity)
+jimmygstar places action card Association at position 1 (finishing action)
+Move 513 :08:27:36
+CloverJane chooses action card AnimalsI with strength 3
+Move 514 :08:27:44
+CloverJane plays Wolf for 12 and places it in a size-4 enclosure
+Move 515 :08:27:50
+CloverJane gains 4 appeal (Wolf)
+CloverJane gains 1 appeal (Pack action)
+CloverJane places action card Animals at position 1 (finishing action)
+Move 518 :09:45:43
+MoonageDaydream chooses action card BuildII with strength 4
+Move 519 :09:46:14
+MoonageDaydream pays 4 for building a size-2 enclosure
+MoonageDaydream places action card Build at position 1 (finishing action)
+Move 521 :09:54:54
+andyhowman chooses action card AssociationII with strength 5
+Move 522 :09:56:10
+andyhowman supports a conservation project on the first slot : Reptiles
+Move 523 :09:56:15
+andyhowman gains a new Association worker
+andyhowman gains 5 conservation (Reptiles)
+andyhowman gets 5 x money
+andyhowman gains 5 money
+Move 524 :09:56:29
+andyhowman gets 1 x upgrade-card
+Move 525 :09:56:34
+andyhowman upgrades BuildII
+Move 526 :09:56:37
+andyhowman donates 2 money to get 1 conservation
+andyhowman places action card Association at position 1 (finishing action)
+Move 531 :11:10:55
+jimmygstar chooses action card SponsorsII with strength 5
+Move 536 :11:12:15
+You discard Galapagos Giant Tortoise to gain money (Sponsors3 effect)
+jimmygstar discards 1 card to gain money (Sponsors3 effect)
+jimmygstar gains 4 money (Sponsors3)
+Move 537 :11:12:22
+jimmygstar advances break token of 5 space(s), now at 9/15
+jimmygstar gains 10 money
+jimmygstar places action card Sponsors at position 1 (finishing action)
+Move 539 :11:21:00
+CloverJane chooses action card CardsI with strength 4
+CloverJane advances break token of 2 space(s), now at 11/15
+Move 540 :11:21:06
+You draw Primatologist, Sheep from the deck
+CloverJane draws 2 card(s) from the deck
+CloverJane places action card Cards at position 1 (finishing action)
+Move 541 :11:55:35
+MoonageDaydream chooses action card SponsorsI with strength 4
+Move 542 :11:55:47
+MoonageDaydream plays Expert On The Americas
+Move 543 :11:55:52
+MoonageDaydream gains 3 appeal (Expert On The Americas)
+Move 545 :11:55:59
+MoonageDaydream adds a Kiosk for free
+Move 546 :11:56:07
+MoonageDaydream takes Technology Institute in reputation range from the display
+MoonageDaydream places action card Sponsors at position 1 (finishing action)
+Move 547 :11:56:11
+The display is replenished with Pygmy Hippopotamus
+Move 548 :12:17:13
+andyhowman chooses action card SponsorsII with strength 5
+Move 549 :12:17:17
+andyhowman advances break token of 5 space(s) and reaches the last space of the Break track. At the end of the turn, all players must take a break
+andyhowman gains 1 xtoken (triggering break)
+andyhowman gains 10 money
+andyhowman places action card Sponsors at position 1 (finishing action)
+Move 550 :12:17:27
+Starting a new break
+Move 551 :16:53:48
+You discard Cable Car, Bluespotted Ribbontail Ray, Golden Snub-nosed Monkey
+MoonageDaydream discards 3 cards during break
+All tokens are removed from player cards
+All workers go back to each player's reserve
+Replenishing partner zoos and universities
+Removing first two cards of the display: Australian Sea Lion
+Red Panda is not discarded and given to MoonageDaydream (Mark effect)
+The display is replenished with Sumatran Tiger, Stoat
+andyhowman gains 23 money (appeal income)
+Move 560 :17:07:30
+jimmygstar gets 1 x Snapping (map bonus space)
+Move 561 :17:07:34
+jimmygstar snaps Breeding Cooperation from the display
+Move 562 :17:07:38
+jimmygstar gets 1 x bonus-sponsor (map bonus space)
+Move 563 :17:07:45
+jimmygstar pays 4 money for buying sponsor card
+jimmygstar plays Breeding Cooperation
+Move 564 :17:08:03
+jimmygstar gains 24 money (appeal income)
+Move 565 :17:08:07
+jimmygstar gains 2 money (kiosk income)
+Move 566 :17:08:10
+jimmygstar gets 1 x size-2 (map bonus space)
+Move 567 :17:08:16
+jimmygstar adds a size-2 enclosure for free
+jimmygstar gains 1 xtoken (placement bonus)
+Move 568 :17:08:22
+The display is replenished with Ornithologist
+Move 569 :18:39:45
+CloverJane gains 24 money (appeal income)
+CloverJane gains 3 money (kiosk income)
+CloverJane gains 9 money (Sponsorship: Primates)
+CloverJane gets 1 x Snapping (map bonus space)
+Move 570 :18:40:24
+CloverJane snaps Pygmy Hippopotamus from the display
+Move 571 :18:40:27
+The display is replenished with Sun Bear
+MoonageDaydream gains 24 money (appeal income)
+End of the break
+Move 572 :18:54:21
+jimmygstar pays 2 xtoken for increasing card strength
+jimmygstar chooses action card AssociationI with strength 4
+Move 579 :18:55:43
+jimmygstar takes a new university
+Move 581 :18:55:53
+jimmygstar upgrades AnimalsII
+jimmygstar gains 1 reputation ( from university)
+jimmygstar gets 1 x upgrade-card (reputation track bonus)
+Move 582 :18:57:30
+jimmygstar upgrades CardsII
+jimmygstar places action card Association at position 1 (finishing action)
+Move 584 :19:00:29
+CloverJane chooses action card SponsorsI with strength 5
+Move 585 :19:00:34
+CloverJane plays Primatologist
+CloverJane gains 3 money (Primatologist)
+CloverJane gains 1 xtoken (Rhesus Monkey Park)
+CloverJane places action card Sponsors at position 1 (finishing action)
+Move 587 :21:35:34
+MoonageDaydream chooses action card AnimalsII with strength 4
+Move 588 :21:36:24
+MoonageDaydream plays Red Panda for 16 and places it in a size-2 enclosure
+Move 589 :21:36:32
+MoonageDaydream gains 2 appeal (Map 1 bonus)
+Move 590 :21:36:39
+MoonageDaydream gains 6 appeal (Red Panda)
+MoonageDaydream adds a multiplier token on action card SponsorsI
+Move 591 :21:36:53
+MoonageDaydream places action card Animals at position 1 (finishing action)
+Move 592 :21:38:16
+MoonageDaydream marks Sumatran Tiger from display
+Move 594 :05/08/2026 09:04:16
+andyhowman chooses action card BuildII with strength 5
+Move 595 :09:04:43
+andyhowman pays 10 for building the Reptile House
+Move 596 :09:05:17
+andyhowman moves Rock Monitor into the the Reptile House and free a size-2 enclosure
+Move 597 :09:05:31
+andyhowman moves Anaconda into the the Reptile House and free a size-2 enclosure
+Move 598 :09:05:42
+andyhowman moves American Alligator into the the Reptile House and free a size-4 enclosure
+Move 599 :09:05:53
+andyhowman moves European Grass Snake into the the Reptile House and free a size-1 enclosure
+andyhowman places action card Build at position 1 (finishing action)
+Move 601 :11:13:49
+jimmygstar chooses action card BuildII with strength 5
+Move 602 :11:14:16
+jimmygstar pays 8 for building a size-4 enclosure
+Move 603 :11:14:50
+jimmygstar pays 2 for building a size-1 enclosure
+jimmygstar gains 1 xtoken (placement bonus)
+jimmygstar places action card Build at position 1 (finishing action)
+Move 605 :11:18:07
+CloverJane chooses action card AssociationII with strength 5
+Move 606 :11:18:37
+CloverJane supports a conservation project on the third slot : Habitat Diversity
+Move 607 :11:18:43
+CloverJane gains 2 conservation (Habitat Diversity)
+CloverJane gets 5 x money
+CloverJane gains 5 money
+CloverJane gains a new Association worker
+Move 608 :11:18:53
+CloverJane donates 2 money to get 1 conservation
+CloverJane places action card Association at position 1 (finishing action)
+Move 610 :12:45:25
+MoonageDaydream chooses action card AssociationI with strength 5
+Move 611 :12:46:00
+MoonageDaydream supports a conservation project on the first slot : Habitat Diversity
+MoonageDaydream gains 3 xtoken (map bonus space)
+MoonageDaydream gains 5 conservation (Habitat Diversity)
+Move 612 :12:46:37
+MoonageDaydream gets 1 x Multiplier
+Move 613 :12:46:42
+MoonageDaydream adds a multiplier token on action card SponsorsI
+MoonageDaydream places action card Association at position 1 (finishing action)
+Move 615 :12:54:29
+andyhowman pays 1 xtoken for increasing card strength
+andyhowman chooses action card CardsI with strength 5
+andyhowman advances break token of 2 space(s), now at 2/15
+Move 616 :12:54:43
+andyhowman snaps Scarlet Macaw from the display
+andyhowman places action card Cards at position 1 (finishing action)
+Move 617 :12:54:47
+The display is replenished with Herbivore Management Plan
+Move 618 :14:32:42
+jimmygstar chooses action card AnimalsII with strength 4
+Move 619 :14:33:09
+jimmygstar buys Stoat from display for 4 and places it in a size-1 enclosure
+Move 620 :14:33:14
+jimmygstar gains 3 appeal (Stoat)
+Move 621 :14:33:18
+You draw Moose for hunter effect
+You keep Moose for hunter effect
+jimmygstar draws 1 card(s) for hunter effect
+jimmygstar keeps Moose card for hunter effect
+Move 622 :14:33:26
+jimmygstar plays Collared Mangabey for 17 and places it in a size-4 enclosure
+CloverJane gains 3 money (Primatologist)
+jimmygstar gains 8 appeal (Collared Mangabey)
+jimmygstar places action card Animals at position 1 (finishing action)
+Move 623 :14:33:37
+jimmygstar chooses action card CardsII with strength 5
+jimmygstar advances break token of 2 space(s), now at 4/15
+Move 624 :14:33:51
+You dig Moose from your hand
+You draw Diversity Researcher from the deck
+jimmygstar digs 1 card from their hand
+jimmygstar draws 1 card(s) from the deck
+Move 625 :14:35:02
+jimmygstar digs from the display
+Sumatran Tiger is not discarded and given to MoonageDaydream (Mark effect)
+The display is replenished with Crested Porcupine, Expansion Area
+Move 626 :14:35:31
+You draw Grizzly Bear from the deck
+jimmygstar draws 1 card(s) from the deck
+Move 627 :14:35:42
+You draw Donkey from the deck
+jimmygstar draws 1 card(s) from the deck
+Move 628 :14:36:01
+jimmygstar takes Sun Bear in reputation range from the display
+Move 629 :14:36:10
+You draw Sea Cave from the deck
+jimmygstar draws 1 card(s) from the deck
+Move 630 :14:36:28
+You discard Sea Cave
+jimmygstar discards 1 card(s)
+jimmygstar places action card Cards at position 1 (finishing action)
+Move 631 :14:36:55
+The display is replenished with Water Playground
+Move 632 :15:32:19
+CloverJane chooses action card BuildII with strength 5
+Move 633 :15:32:30
+CloverJane pays 4 for building a size-2 enclosure
+Move 634 :15:33:02
+CloverJane pays 6 for building a size-3 enclosure
+CloverJane places action card Build at position 1 (finishing action)
+Move 644 :16:04:54
+MoonageDaydream pays 2 xtoken for increasing card strength
+MoonageDaydream chooses action card SponsorsI with strength 5
+Move 645 :16:05:00
+MoonageDaydream plays Technology Institute
+MoonageDaydream gains 1 xtoken (Technology Institute)
+Move 649 :16:05:21
+MoonageDaydream pays 1 xtoken for increasing card strength
+MoonageDaydream chooses action card SponsorsI with strength 4
+MoonageDaydream uses a multiplier token
+Move 650 :16:05:29
+MoonageDaydream plays Franchise Business
+Move 651 :16:05:38
+MoonageDaydream adds a Kiosk for free
+Move 652 :16:05:42
+MoonageDaydream chooses action card SponsorsI with strength 3
+MoonageDaydream uses a multiplier token
+Move 653 :16:05:46
+MoonageDaydream advances break token of 3 space(s), now at 7/15
+MoonageDaydream gains 3 money
+MoonageDaydream gains 3 money (Sponsors2 effect)
+MoonageDaydream places action card Sponsors at position 1 (finishing action)
+Move 655 :16:06:46
+andyhowman chooses action card AnimalsI with strength 5
+Move 657 :16:07:06
+andyhowman plays Scarlet Macaw for 13 and places it in a size-1 enclosure
+Move 659 :16:07:22
+andyhowman adds a pavilion (Scarlet Macaw)
+andyhowman gains 1 appeal (building a pavilion)
+Move 660 :16:07:30
+andyhowman adds a pavilion (Scarlet Macaw)
+andyhowman gains 1 appeal (building a pavilion)
+Move 661 :16:08:14
+andyhowman adds a pavilion (Scarlet Macaw)
+andyhowman gains 1 appeal (building a pavilion)
+Move 662 :16:08:19
+andyhowman gains 4 appeal (Scarlet Macaw)
+andyhowman gains 2 appeal (Map 1 bonus)
+Move 663 :16:08:26
+andyhowman plays White Stork for 9 and places it in a size-4 enclosure
+Move 664 :16:08:32
+andyhowman gains 2 appeal (Map 1 bonus)
+Move 665 :16:08:35
+andyhowman gains 4 appeal (White Stork)
+andyhowman adds a multiplier token on action card BuildII
+andyhowman places action card Animals at position 1 (finishing action)
+Move 667 :16:37:16
+jimmygstar uses 1 x bonus-extra-shift
+Move 668 :16:37:21
+jimmygstar takes 1 worker(s) back from the university zone to their notepad (Extra Shift effect)
+Move 669 :16:37:25
+jimmygstar pays 1 xtoken for increasing card strength
+jimmygstar chooses action card AssociationI with strength 5
+Move 673 :16:38:59
+jimmygstar supports a conservation project on the third slot : Europe
+jimmygstar gains 5 money (map bonus space)
+jimmygstar gains 2 conservation (Europe)
+jimmygstar places action card Association at position 1 (finishing action)
+Move 675 :18:00:37
+CloverJane chooses action card AnimalsI with strength 5
+Move 676 :18:00:43
+CloverJane plays Pygmy Hippopotamus for 12 and places it in a size-2 enclosure
+Move 677 :18:00:49
+CloverJane gains 2 appeal (Map 1 bonus)
+CloverJane gains 6 appeal (Pygmy Hippopotamus)
+Move 678 :18:00:55
+CloverJane plays Red Deer for 12 and places it in a size-3 enclosure
+CloverJane gains 5 appeal (Red Deer)
+CloverJane places action card Animals at position 1 (finishing action)
+Move 680 :18:01:21
+CloverJane chooses action card SponsorsI with strength 4
+Move 681 :18:01:23
+CloverJane advances break token of 4 space(s), now at 11/15
+CloverJane gains 4 money
+CloverJane places action card Sponsors at position 1 (finishing action)
+Move 684 :22:19:38
+MoonageDaydream chooses action card BuildII with strength 4
+Move 685 :22:19:48
+MoonageDaydream pays 8 for building a size-4 enclosure
+MoonageDaydream places action card Build at position 1 (finishing action)
+Move 690 :22:46:38
+andyhowman chooses action card SponsorsII with strength 4
+Move 691 :22:46:45
+andyhowman buys Ornithologist from display
+andyhowman pays 2 money for playing sponsor from reputation range
+andyhowman gains 3 money (Ornithologist)
+andyhowman places action card Sponsors at position 1 (finishing action)
+Move 692 :22:46:52
+The display is replenished with Reptile breeding program
+Move 696 :06/08/2026 01:41:13
+jimmygstar chooses action card SponsorsII with strength 5
+Move 698 :01:41:22
+You discard Sun Bear to gain money (Sponsors3 effect)
+jimmygstar discards 1 card to gain money (Sponsors3 effect)
+jimmygstar gains 4 money (Sponsors3)
+Move 699 :01:41:27
+jimmygstar advances break token of 5 space(s) and reaches the last space of the Break track. At the end of the turn, all players must take a break
+jimmygstar gains 1 xtoken (triggering break)
+jimmygstar gains 10 money
+jimmygstar places action card Sponsors at position 1 (finishing action)
+Move 700 :01:41:35
+Starting a new break
+All tokens are removed from player cards
+All workers go back to each player's reserve
+Replenishing partner zoos and universities
+Removing first two cards of the display: American Whitespotted Filefish, Herbivore Management Plan
+The display is replenished with Sea Animal Management Plan, Aquatic
+jimmygstar gets 5 x money (map bonus space)
+jimmygstar gains 5 money (map bonus space)
+Move 701 :01:41:50
+jimmygstar gains 27 money (appeal income)
+Move 717 :01:43:18
+jimmygstar gets 1 x Snapping (map bonus space)
+Move 718 :01:43:26
+jimmygstar snaps Expansion Area from the display
+Move 719 :01:43:30
+jimmygstar gets 1 x bonus-sponsor (map bonus space)
+Move 720 :01:43:36
+jimmygstar pays 5 money for buying sponsor card
+jimmygstar plays Expansion Area
+Move 721 :01:43:54
+jimmygstar adds a size-3 enclosure for free
+jimmygstar gains 5 money (placement bonus)
+Move 722 :01:44:01
+jimmygstar gains 3 money (kiosk income)
+Move 723 :01:44:04
+jimmygstar gets 1 x size-2 (map bonus space)
+Move 724 :01:44:23
+jimmygstar adds a size-2 enclosure for free
+Move 725 :01:44:26
+The display is replenished with Indian Peafowl
+Move 726 :07:23:03
+CloverJane gains 27 money (appeal income)
+CloverJane gains 3 money (kiosk income)
+CloverJane gains 9 money (Sponsorship: Primates)
+CloverJane gets 1 x Snapping (map bonus space)
+Move 727 :07:23:27
+CloverJane snaps Crested Porcupine from the display
+Move 728 :07:23:33
+The display is replenished with Common European Adder
+Move 729 :09:19:02
+MoonageDaydream gains 26 money (appeal income)
+MoonageDaydream gains 3 money (kiosk income)
+MoonageDaydream gains 2 money (Franchise Business)
+MoonageDaydream gains 1 xtoken (Technology Institute)
+Move 730 :09:19:11
+andyhowman gains 26 money (appeal income)
+End of the break
+Move 731 :14:14:46
+CloverJane chooses action card CardsI with strength 5
+CloverJane advances break token of 2 space(s), now at 2/15
+Move 732 :14:14:54
+CloverJane snaps Common European Adder from the display
+CloverJane places action card Cards at position 1 (finishing action)
+Move 733 :14:15:02
+The display is replenished with Sea Turtle Tank
+Move 734 :16:42:12
+MoonageDaydream chooses action card CardsII with strength 5
+MoonageDaydream advances break token of 2 space(s), now at 4/15
+Move 735 :16:42:18
+MoonageDaydream takes Aquatic in reputation range from the display
+Move 736 :16:42:27
+MoonageDaydream takes Reptile breeding program in reputation range from the display
+Move 737 :16:42:31
+You draw Excavation Site, Native Lizards from the deck
+MoonageDaydream draws 2 card(s) from the deck
+Move 738 :16:42:45
+You discard Native Lizards
+MoonageDaydream discards 1 card(s)
+MoonageDaydream places action card Cards at position 1 (finishing action)
+Move 739 :16:42:52
+The display is replenished with Northern Cassowary, Fennec Fox
+Move 740 :18:49:28
+andyhowman chooses action card AssociationII with strength 5
+Move 741 :18:49:45
+andyhowman supports a conservation project on the second slot : Birds
+andyhowman gains 3 xtoken (map bonus space)
+andyhowman gains 4 conservation (Birds)
+andyhowman gets 5 x money
+andyhowman gains 5 money
+Move 742 :18:49:55
+andyhowman donates 5 money to get 1 conservation
+andyhowman places action card Association at position 1 (finishing action)
+Move 750 :23:57:08
+jimmygstar chooses action card CardsII with strength 3
+jimmygstar advances break token of 2 space(s), now at 6/15
+Move 751 :23:57:32
+You dig Donkey from your hand
+You draw Guineafowl Puffer from the deck
+jimmygstar digs 1 card from their hand
+jimmygstar draws 1 card(s) from the deck
+Move 752 :23:57:47
+You dig Guineafowl Puffer from your hand
+You draw Indian Rhinoceros from the deck
+jimmygstar digs 1 card from their hand
+jimmygstar draws 1 card(s) from the deck
+Move 753 :23:58:17
+jimmygstar snaps Fennec Fox from the display
+jimmygstar places action card Cards at position 1 (finishing action)
+Move 754 :23:58:21
+The display is replenished with Siberian Tiger
+Move 755 :07/08/2026 09:29:21
+CloverJane chooses action card BuildII with strength 4
+Move 756 :09:29:50
+CloverJane pays 2 for building a size-1 enclosure
+CloverJane gains 5 money (placement bonus)
+Move 757 :09:30:02
+CloverJane pays 2 for building a pavilion
+CloverJane gains 1 appeal (building a pavilion)
+Move 758 :09:30:10
+CloverJane pays 2 for building a Kiosk
+CloverJane places action card Build at position 1 (finishing action)
+Move 763 :12:45:14
+MoonageDaydream chooses action card AnimalsII with strength 5
+MoonageDaydream gains 1 reputation (max strength Animals)
+MoonageDaydream gets 1 x take-in-range-or-deck (reputation track bonus)
+Move 764 :12:45:29
+MoonageDaydream takes Northern Cassowary in reputation range from the display
+Move 765 :12:45:46
+MoonageDaydream plays Sumatran Tiger for 26 and places it in a size-4 enclosure
+Move 766 :12:45:53
+MoonageDaydream gains 1 reputation (Sumatran Tiger)
+MoonageDaydream gets 1 x conservation (reputation track bonus)
+MoonageDaydream gains 1 conservation (reputation track bonus)
+Move 767 :12:45:58
+MoonageDaydream gains 2 conservation (Sumatran Tiger)
+Move 768 :12:46:01
+MoonageDaydream gains 8 appeal (Sumatran Tiger)
+MoonageDaydream gains 2 appeal (Map 1 bonus)
+Move 769 :12:46:13
+MoonageDaydream places action card Animals at position 1 (finishing action)
+Move 770 :12:46:21
+MoonageDaydream marks Indian Peafowl from display
+Move 771 :12:46:24
+The display is replenished with Large Animals
+Move 772 :12:48:27
+andyhowman chooses action card BuildII with strength 5
+Move 773 :12:48:57
+andyhowman pays 10 for building the large aquarium
+andyhowman gains 5 money (placement bonus)
+Move 774 :12:49:06
+andyhowman places action card Build at position 1 (finishing action)
+Move 784 :13:54:35
+jimmygstar chooses action card AnimalsII with strength 4
+Move 785 :13:55:33
+jimmygstar plays Indian Rhinoceros for 25 and places it in a size-3 enclosure
+Move 786 :13:55:38
+jimmygstar gains 9 appeal (Indian Rhinoceros)
+Move 787 :13:56:18
+You keep Africa with Assertion
+jimmygstar keeps 1 card with Assertion
+Move 788 :13:56:40
+jimmygstar buys Indian Peafowl from display for 21 and places it in a size-3 enclosure
+MoonageDaydream gains 2 money for their mark on Indian Peafowl
+andyhowman gains 3 money (Ornithologist)
+Move 789 :13:56:48
+jimmygstar gains 2 appeal (Map 1 bonus)
+Move 790 :13:56:51
+jimmygstar gains 7 appeal (Indian Peafowl)
+Move 791 :13:57:03
+jimmygstar adds a pavilion (Indian Peafowl)
+jimmygstar gains 1 appeal (building a pavilion)
+Move 792 :13:57:20
+jimmygstar adds a pavilion (Indian Peafowl)
+jimmygstar gains 1 appeal (building a pavilion)
+jimmygstar places action card Animals at position 1 (finishing action)
+Move 793 :13:57:29
+The display is replenished with Giant Panda
+Move 797 :15:49:12
+CloverJane chooses action card AssociationII with strength 5
+Move 798 :15:49:16
+CloverJane takes a new Partner zoo
+CloverJane gains a new Association worker
+Move 799 :15:49:24
+CloverJane donates 4 money to get 1 conservation
+CloverJane places action card Association at position 1 (finishing action)
+Move 801 :17:43:23
+MoonageDaydream chooses action card AssociationI with strength 5
+Move 802 :17:44:39
+MoonageDaydream supports a conservation project on the second slot : Aquatic
+MoonageDaydream plays a new conservation project: Aquatic
+MoonageDaydream gains 12 money (map bonus space)
+MoonageDaydream gains 3 conservation (Aquatic)
+MoonageDaydream places action card Association at position 1 (finishing action)
+Move 811 :18:24:03
+andyhowman chooses action card AssociationII with strength 2
+Move 812 :18:24:05
+andyhowman increases reputation
+andyhowman gains 2 reputation (association board)
+Move 813 :18:24:10
+andyhowman donates 7 money to get 1 conservation
+andyhowman places action card Association at position 1 (finishing action)
+Move 826 :19:57:47
+jimmygstar pays 1 xtoken for increasing card strength
+jimmygstar chooses action card AssociationI with strength 5
+Move 827 :19:57:54
+jimmygstar supports a conservation project on the first slot : Africa
+jimmygstar plays a new conservation project: Africa
+Move 828 :19:58:00
+End of game triggered: everyone except jimmygstar will get a last turn to play
+jimmygstar gains 5 conservation (Africa)
+jimmygstar gains a new Association worker
+jimmygstar places action card Association at position 1 (finishing action)
+Move 830 :20:50:11
+CloverJane chooses action card AnimalsI with strength 5
+Move 831 :20:50:18
+CloverJane plays Common European Adder for 7 and places it in the Reptile House
+MoonageDaydream gains 3 money (Herpetologist)
+Move 832 :20:50:27
+CloverJane gains 2 appeal (Common European Adder)
+CloverJane chooses to hypnotize jimmygstar
+Move 833 :20:50:35
+CloverJane plays Crested Porcupine for 5 and places it in a size-1 enclosure
+Move 834 :20:50:40
+CloverJane gains 3 appeal (Crested Porcupine)
+Move 835 :20:50:49
+You dig Sheep from your hand
+You draw Barbary Macaque from the deck
+CloverJane digs 1 card from their hand
+CloverJane draws 1 card(s) from the deck
+Move 836 :20:50:57
+CloverJane digs Siberian Tiger from the display
+The display is replenished with African Bush Elephant
+CloverJane places action card Animals at position 1 (finishing action)
+Move 838 :20:51:10
+CloverJane chooses action card CardsII with strength 3
+CloverJane advances break token of 2 space(s), now at 8/15
+Move 839 :20:51:22
+CloverJane digs Giant Panda from the display
+The display is replenished with Domestic Rabbit
+Move 840 :20:51:39
+You dig Barbary Macaque from your hand
+You draw Veterinarian from the deck
+CloverJane digs 1 card from their hand
+CloverJane draws 1 card(s) from the deck
+Move 841 :20:51:51
+You draw Palette Surgeonfish, Waza Special Assignment from the deck
+CloverJane draws 2 card(s) from the deck
+jimmygstar places action card Cards at position 1 (finishing action)
+Move 847 :21:30:04
+MoonageDaydream chooses action card SponsorsI with strength 5
+Move 848 :21:30:18
+MoonageDaydream plays Excavation Site
+Move 849 :21:30:45
+MoonageDaydream adds a size-5 enclosure for free
+MoonageDaydream places action card Sponsors at position 1 (finishing action)
+Move 851 :08/08/2026 07:48:48
+andyhowman pays 1 xtoken for increasing card strength
+andyhowman chooses action card AnimalsI with strength 5
+Move 853 :07:49:01
+andyhowman plays Caribbean Reef Shark for 17 and places it in the large aquarium
+andyhowman triggers its reef abilities
+Move 854 :07:49:06
+andyhowman gains 5 appeal (Caribbean Reef Shark)
+Move 855 :07:49:09
+andyhowman gains 1 reputation (Caribbean Reef Shark)
+andyhowman gets 1 x add-worker (reputation track bonus)
+andyhowman gains a new Association worker
+Move 857 :07:49:22
+andyhowman plays Humphead Wrasse for 22 and places it in the large aquarium
+andyhowman triggers its reef abilities
+Move 858 :07:49:28
+andyhowman gains 1 conservation (Humphead Wrasse)
+Move 859 :07:49:32
+andyhowman gains 6 appeal (Humphead Wrasse)
+Move 861 :07:49:37
+andyhowman takes 1 worker(s) back from the conservation project zone to their notepad (Extra Shift effect)
+Move 862 :07:49:43
+andyhowman places action card Animals at position 1 (finishing action)
+Move 863 :07:50:05
+andyhowman gains 1 conservation (Conservation Zoo)
+jimmygstar gains 1 conservation (Breeding Cooperation)
+CloverJane gains 4 conservation (Specialized Species Zoo)
+MoonageDaydream gains 1 conservation (Technology Institute)
+MoonageDaydream gains 2 conservation (Specialized Habitat Zoo)
+andyhowman has 66 and scores 21 for having 15. andyhowman scores 87.
+jimmygstar has 78 and scores 39 for having 21. jimmygstar scores 117.
+CloverJane has 66 and scores 9 for having 11. CloverJane scores 75.
+MoonageDaydream has 65 and scores 39 for having 21. MoonageDaydream scores 104.
+End of game

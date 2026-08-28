@@ -1,0 +1,1698 @@
+Move 1 :08/08/2026 11:06:02
+The colors of MoonageDaydream, jimmygstar, GwyndolinCinder have been chosen according to their preferences. Change my preferences.
+Starting the first round of action cards draft phase.
+Move 5 :13:38:33
+Starting the second round of action cards draft phase.
+Move 13 :15:12:40
+You draw Dugong, Science Lab, Veiled Chameleon, Barred Owl Hut, Red Kangaroo, Common Agama, Lion, Panamanian White-faced Capuchin from the deck
+You draw International Zoo, Climbing Park from the deck (scoring cards)
+You draw Long-billed Vulture, Foreign Institute, Lesser Flamingo, Serengeti national park, Primate breeding program, Wolf, Cotton-top Tamarin, European Bison from the deck
+You draw Large Animal Zoo, Favorite Zoo from the deck (scoring cards)
+You draw Underwater Tunnel, Cheetah, Expert In Predators, Archaeologist, Native Farm Animals, New Zealand Fur Seal, (domestic) Goat, Waza Special Assignment from the deck
+You draw Aquatic Park, Diverse species Zoo from the deck (scoring cards)
+You draw Expert On Europe, Yellow-throated Marten, Indian Rock Python, Reptile Management Plan, Zoo School, Siberian Tiger, Bennett's Wallaby, Marine Biologist from the deck
+You draw Research Zoo, Specialized Species Zoo from the deck (scoring cards)
+MoonageDaydream will play with action cards: Build 3, Cards, Animals, Association 3 and Sponsors
+Skelcher will play with action cards: Build, Cards 1, Animals, Association and Sponsors 3
+jimmygstar will play with action cards: Build 4, Cards, Animals 4, Association and Sponsors
+GwyndolinCinder will play with action cards: Build 2, Cards, Animals 3, Association and Sponsors
+MoonageDaydream draws 8 card(s) from the deck
+MoonageDaydream draws 2 scoring cards from the deck
+Skelcher draws 8 card(s) from the deck
+Skelcher draws 2 scoring cards from the deck
+jimmygstar draws 8 card(s) from the deck
+jimmygstar draws 2 scoring cards from the deck
+GwyndolinCinder draws 8 card(s) from the deck
+GwyndolinCinder draws 2 scoring cards from the deck
+Move 17 :19:33:41
+You discard Long-billed Vulture, Lesser Flamingo, Serengeti national park, Wolf
+You discard Underwater Tunnel, Expert In Predators, New Zealand Fur Seal, Waza Special Assignment
+You discard Dugong, Barred Owl Hut, Lion, Panamanian White-faced Capuchin
+You discard Expert On Europe, Reptile Management Plan, Siberian Tiger, Marine Biologist
+MoonageDaydream discards 4 cards (initial selection)
+Skelcher discards 4 cards (initial selection)
+jimmygstar discards 4 cards (initial selection)
+GwyndolinCinder discards 4 cards (initial selection)
+The display is replenished with Great Hornbill, Horse Whisperer, South American Coati, Barn Owl, Emu, Inland Taipan
+Move 21 :19:41:19
+MoonageDaydream chooses action card AssociationI with strength 5
+Move 22 :19:41:27
+MoonageDaydream takes a new Partner zoo
+MoonageDaydream gains 1 xtoken (Association3 effect)
+MoonageDaydream places action card Association at position 1 (finishing action)
+Move 24 :19:55:07
+Skelcher chooses action card CardsI with strength 5
+Skelcher advances break token of 2 space(s), now at 2/15
+Move 25 :19:55:49
+Skelcher snaps Horse Whisperer from the display
+Skelcher places action card Cards at position 1 (finishing action)
+Move 26 :19:55:53
+The display is replenished with Tambaqui
+Removing 1 cards of the display due to Wave icons reveal: Great Hornbill
+The display is replenished with Science Museum
+Move 27 :21:40:09
+jimmygstar chooses action card CardsI with strength 5
+jimmygstar advances break token of 2 space(s), now at 4/15
+Move 28 :21:40:18
+You draw Common Octopus, Sponsorship: Primates, Chinese Water Dragon from the deck
+jimmygstar draws 3 card(s) from the deck
+Move 29 :21:41:05
+You discard Common Octopus
+jimmygstar discards 1 card(s)
+jimmygstar places action card Cards at position 1 (finishing action)
+Move 38 :22:43:08
+GwyndolinCinder chooses action card BuildI with strength 3
+Move 39 :22:43:16
+GwyndolinCinder pays 6 for building the Petting Zoo
+Move 40 :22:43:21
+GwyndolinCinder pays 5 money for buying sponsor card
+GwyndolinCinder plays Zoo School
+Move 42 :22:43:31
+GwyndolinCinder adds a unique building for free
+GwyndolinCinder gains 1 xtoken (placement bonus)
+Move 43 :22:43:35
+GwyndolinCinder gains 1 conservation (Zoo School)
+Move 44 :22:43:37
+GwyndolinCinder gains 1 reputation (Zoo School)
+Move 45 :22:43:59
+You draw Frilled Lizard from the deck
+GwyndolinCinder draws 1 card(s) from the deck
+Move 46 :22:44:03
+GwyndolinCinder places action card Build at position 1 (finishing action)
+Move 48 :09/08/2026 11:04:02
+MoonageDaydream chooses action card BuildI with strength 5
+Move 49 :11:04:13
+MoonageDaydream pays 10 for building a size-5 enclosure
+Move 50 :11:04:18
+MoonageDaydream pays 6 money for buying sponsor card
+MoonageDaydream plays Foreign Institute
+MoonageDaydream gains 2 reputation (Foreign Institute)
+MoonageDaydream places action card Build at position 1 (finishing action)
+Move 52 :11:12:12
+Skelcher chooses action card AssociationI with strength 4
+Move 53 :11:12:24
+Skelcher takes a new university
+Move 54 :11:12:31
+You draw Indian Rhinoceros for gaining a new university with
+Skelcher draws 1 card for gaining a new university: Indian Rhinoceros
+Skelcher places action card Association at position 1 (finishing action)
+Move 55 :11:59:57
+jimmygstar chooses action card BuildI with strength 3
+Move 56 :12:01:35
+jimmygstar uses Build4 effect to build over rock/water
+jimmygstar pays 6 for building a size-2 enclosure
+jimmygstar places action card Build at position 1 (finishing action)
+Move 62 :12:42:30
+GwyndolinCinder chooses action card AssociationI with strength 3
+Move 63 :12:42:45
+GwyndolinCinder takes a new Partner zoo
+GwyndolinCinder places action card Association at position 1 (finishing action)
+Move 65 :13:33:54
+MoonageDaydream chooses action card SponsorsI with strength 5
+Move 66 :13:33:57
+MoonageDaydream advances break token of 5 space(s), now at 9/15
+MoonageDaydream gains 5 money
+MoonageDaydream places action card Sponsors at position 1 (finishing action)
+Move 68 :13:35:01
+Skelcher chooses action card SponsorsI with strength 5
+Move 70 :13:35:16
+Skelcher plays Archaeologist
+Move 71 :13:36:43
+You discard Native Farm Animals to gain money (Sponsors3 effect)
+Skelcher discards 1 card to gain money (Sponsors3 effect)
+Skelcher gains 4 money (Sponsors3)
+Skelcher places action card Sponsors at position 1 (finishing action)
+Move 73 :13:38:48
+jimmygstar chooses action card AssociationI with strength 4
+Move 74 :13:39:16
+jimmygstar takes a new university
+jimmygstar gains 1 reputation ( from university)
+jimmygstar places action card Association at position 1 (finishing action)
+Move 76 :16:47:37
+GwyndolinCinder chooses action card BuildI with strength 2
+Move 86 :16:48:40
+GwyndolinCinder pays 2 for building a size-1 enclosure
+Move 90 :16:49:43
+GwyndolinCinder places action card Build at position 1 (finishing action)
+Move 91 :16:49:56
+GwyndolinCinder places Sponsors at position 1 (Clever effect)
+Move 93 :17:30:23
+MoonageDaydream chooses action card CardsI with strength 5
+MoonageDaydream advances break token of 2 space(s), now at 11/15
+Move 94 :17:30:32
+MoonageDaydream snaps Barn Owl from the display
+MoonageDaydream places action card Cards at position 1 (finishing action)
+Move 95 :17:30:36
+The display is replenished with New Zealand Sea Lion
+Move 96 :17:37:02
+Skelcher chooses action card BuildI with strength 5
+Move 97 :17:37:14
+Skelcher pays 6 for building the Petting Zoo
+Move 99 :17:37:22
+Skelcher gets 1 x Partner-Zoo
+Move 100 :17:38:06
+Skelcher gains 1 reputation (placement bonus)
+Skelcher places action card Build at position 1 (finishing action)
+Move 105 :20:49:10
+jimmygstar chooses action card BuildI with strength 2
+Move 106 :20:49:50
+jimmygstar pays 2 for building a size-1 enclosure
+jimmygstar places action card Build at position 1 (finishing action)
+Move 108 :21:41:03
+GwyndolinCinder pays 1 xtoken for increasing card strength
+GwyndolinCinder chooses action card AnimalsI with strength 5
+Move 109 :21:42:12
+GwyndolinCinder plays Yellow-throated Marten for 2 and places it in a size-1 enclosure
+Move 110 :21:42:16
+GwyndolinCinder gains 3 appeal (Yellow-throated Marten)
+Move 111 :21:42:21
+You draw Asian Elephant for hunter effect
+You keep Asian Elephant for hunter effect
+GwyndolinCinder draws 1 card(s) for hunter effect
+GwyndolinCinder keeps Asian Elephant card for hunter effect
+Move 112 :21:43:29
+GwyndolinCinder plays Bennett's Wallaby for 7 and places it in the Petting Zoo
+Move 113 :21:43:41
+GwyndolinCinder gains 3 appeal (Petting Zoo Animal action)
+Move 114 :21:54:20
+You pouch Asian Elephant cards for 2 appeal
+GwyndolinCinder pouches 1 card(s) for 2 appeal
+GwyndolinCinder places action card Animals at position 1 (finishing action)
+Move 116 :22:07:21
+MoonageDaydream chooses action card AnimalsI with strength 5
+Move 117 :22:07:30
+MoonageDaydream plays European Bison for 13 and places it in a size-5 enclosure
+Move 118 :22:07:38
+MoonageDaydream gains 6 appeal (European Bison)
+MoonageDaydream takes Science Museum from the display (Sponsor magnet effect)
+Move 119 :22:07:50
+MoonageDaydream places action card Animals at position 1 (finishing action)
+Move 120 :22:07:55
+The display is replenished with Malayan Tapir
+Move 121 :22:18:32
+Skelcher chooses action card AnimalsI with strength 5
+Move 122 :22:18:37
+Skelcher plays (domestic) Goat for 7 and places it in the Petting Zoo
+Skelcher gains 3 appeal (Petting Zoo Animal action)
+Move 123 :22:18:51
+Skelcher places action card Animals at position 1 (finishing action)
+Move 125 :22:25:17
+jimmygstar chooses action card AnimalsI with strength 4
+Move 126 :22:25:25
+jimmygstar plays Veiled Chameleon for 14 and places it in a size-1 enclosure
+Move 127 :22:25:31
+jimmygstar gains 4 appeal (Veiled Chameleon)
+Move 128 :22:26:11
+jimmygstar snaps Malayan Tapir from the display
+jimmygstar places action card Animals at position 1 (finishing action)
+Move 129 :22:26:21
+jimmygstar marks South American Coati from display
+Move 130 :22:26:25
+The display is replenished with Broad-snouted Caiman
+Move 131 :22:53:52
+GwyndolinCinder chooses action card CardsI with strength 5
+GwyndolinCinder advances break token of 2 space(s), now at 13/15
+Move 132 :22:54:02
+You draw Conference On Australia, Sponsorship: Reptiles, Sharknose Goby from the deck
+GwyndolinCinder draws 3 card(s) from the deck
+Move 133 :22:56:25
+You discard Sharknose Goby
+GwyndolinCinder discards 1 card(s)
+GwyndolinCinder places action card Cards at position 1 (finishing action)
+Move 135 :10/08/2026 16:55:13
+MoonageDaydream chooses action card SponsorsI with strength 3
+Move 136 :16:55:16
+MoonageDaydream advances break token of 3 space(s) and reaches the last space of the Break track. At the end of the turn, all players must take a break
+MoonageDaydream gains 1 xtoken (triggering break)
+MoonageDaydream gains 3 money
+MoonageDaydream places action card Sponsors at position 1 (finishing action)
+Move 137 :16:55:23
+Starting a new break
+Move 142 :17:43:25
+You discard Indian Rock Python
+You discard Science Museum
+You discard Sponsorship: Primates
+MoonageDaydream discards 1 cards during break
+jimmygstar discards 1 cards during break
+GwyndolinCinder discards 1 cards during break
+All tokens are removed from player cards
+All workers go back to each player's reserve
+Replenishing partner zoos and universities
+Removing first two cards of the display: Emu
+South American Coati is not discarded and given to jimmygstar (Mark effect)
+The display is replenished with American Whitespotted Filefish, Raccoon
+Removing 1 cards of the display due to Wave icons reveal: Inland Taipan
+The display is replenished with Bamboo Forest
+MoonageDaydream gains 10 money (appeal income)
+Skelcher gains 9 money (appeal income)
+jimmygstar gains 10 money (appeal income)
+GwyndolinCinder gains 13 money (appeal income)
+End of the break
+Move 143 :18:13:55
+Skelcher chooses action card AssociationI with strength 4
+Move 147 :18:14:36
+Skelcher takes a new university
+Move 148 :18:14:40
+Skelcher gains 1 reputation ( from university)
+Move 149 :18:14:49
+Skelcher upgrades BuildII
+Skelcher places action card Association at position 1 (finishing action)
+Move 154 :19:16:17
+jimmygstar chooses action card BuildI with strength 2
+Move 155 :19:16:56
+jimmygstar pays 2 for building a size-1 enclosure
+jimmygstar places action card Build at position 1 (finishing action)
+Move 175 :19:40:28
+GwyndolinCinder chooses action card AssociationI with strength 5
+Move 176 :19:43:47
+GwyndolinCinder supports a conservation project on the third slot : Asia
+Move 177 :19:43:51
+GwyndolinCinder gains 2 conservation (Asia)
+Move 178 :19:44:00
+GwyndolinCinder gets 1 x upgrade-card
+Move 179 :19:44:18
+GwyndolinCinder upgrades SponsorsII
+Move 180 :19:44:22
+GwyndolinCinder snaps Bamboo Forest from the display
+GwyndolinCinder places action card Association at position 1 (finishing action)
+Move 181 :19:44:29
+The display is replenished with Cinereous Vulture
+Move 182 :22:25:09
+MoonageDaydream chooses action card BuildI with strength 4
+Move 183 :22:26:24
+MoonageDaydream pays 4 for building the small aquarium
+Move 185 :22:26:37
+MoonageDaydream takes Tambaqui in reputation range from the display
+Move 186 :22:26:41
+MoonageDaydream places action card Build at position 1 (finishing action)
+Move 187 :22:26:45
+The display is replenished with Talented Communicator
+Move 188 :22:32:55
+Skelcher chooses action card CardsI with strength 5
+Skelcher advances break token of 2 space(s), now at 2/15
+Move 189 :22:33:06
+You draw Australian Pelican, Pygmy Hippopotamus, African Spurred Tortoise from the deck
+Skelcher draws 3 card(s) from the deck
+Skelcher places action card Cards at position 1 (finishing action)
+Move 193 :22:55:56
+jimmygstar chooses action card CardsI with strength 4
+jimmygstar advances break token of 2 space(s), now at 4/15
+Move 194 :22:56:05
+You draw Galapagos Giant Tortoise, Gorilla Field Research from the deck
+jimmygstar draws 2 card(s) from the deck
+jimmygstar places action card Cards at position 1 (finishing action)
+Move 198 :22:59:02
+GwyndolinCinder chooses action card BuildI with strength 5
+Move 199 :22:59:12
+GwyndolinCinder pays 4 for building a size-2 enclosure
+Move 200 :23:00:10
+GwyndolinCinder takes Broad-snouted Caiman in reputation range from the display
+Move 201 :23:00:14
+GwyndolinCinder places action card Build at position 1 (finishing action)
+Move 202 :23:00:17
+The display is replenished with Victory Column
+Move 203 :11/08/2026 08:29:26
+MoonageDaydream chooses action card BuildI with strength 1
+Move 204 :08:30:26
+MoonageDaydream pays 2 for building a size-1 enclosure
+MoonageDaydream places action card Build at position 1 (finishing action)
+Move 206 :08:39:16
+Skelcher chooses action card BuildII with strength 4
+Move 207 :08:39:35
+Skelcher pays 4 for building a size-2 enclosure
+Move 208 :08:39:45
+Skelcher pays 2 for building a Kiosk
+Move 209 :08:39:55
+Skelcher pays 2 for building a size-1 enclosure
+Move 211 :08:40:20
+Skelcher takes American Whitespotted Filefish in reputation range from the display
+Move 212 :08:40:25
+Skelcher gets 1 x Partner-Zoo
+Move 214 :08:41:54
+Skelcher upgrades AnimalsII
+Skelcher places action card Build at position 1 (finishing action)
+Move 215 :08:44:03
+The display is replenished with Nile Crocodile
+Move 216 :09:42:14
+jimmygstar chooses action card AnimalsI with strength 3
+Move 217 :09:42:34
+jimmygstar plays Common Agama for 9 and places it in a size-1 enclosure
+Move 218 :09:42:39
+jimmygstar gains 3 appeal (Common Agama)
+Move 219 :09:43:49
+You sell Science Lab, Gorilla Field Research cards for 8 money
+jimmygstar sells 2 card(s) for 8 money
+jimmygstar places action card Animals at position 1 (finishing action)
+Move 220 :09:44:52
+jimmygstar marks Raccoon from display
+Move 222 :09:49:33
+GwyndolinCinder chooses action card SponsorsII with strength 5
+Move 223 :09:49:37
+GwyndolinCinder plays Conference On Australia
+Move 225 :09:49:54
+GwyndolinCinder increase the size of a a size-1 enclosure
+GwyndolinCinder gains 2 appeal (Conference On Australia)
+GwyndolinCinder places action card Sponsors at position 1 (finishing action)
+Move 227 :10:45:32
+MoonageDaydream chooses action card AssociationI with strength 5
+Move 228 :10:45:51
+MoonageDaydream takes a new Partner zoo
+MoonageDaydream gains 1 xtoken (Association3 effect)
+Move 229 :10:46:16
+MoonageDaydream upgrades SponsorsII
+MoonageDaydream places action card Association at position 1 (finishing action)
+Move 231 :12:01:28
+Skelcher chooses action card AnimalsII with strength 4
+Move 232 :12:02:17
+Skelcher plays Pygmy Hippopotamus for 12 and places it in a size-2 enclosure
+Skelcher gains 6 appeal (Pygmy Hippopotamus)
+Move 233 :12:02:34
+Skelcher places action card Animals at position 1 (finishing action)
+Move 234 :12:02:37
+Skelcher chooses action card SponsorsI with strength 5
+Move 236 :12:02:44
+Skelcher advances break token of 5 space(s), now at 9/15
+Skelcher gains 5 money
+Move 237 :12:02:49
+Skelcher places action card Sponsors at position 1 (finishing action)
+Move 242 :14:20:19
+jimmygstar chooses action card AssociationI with strength 4
+Move 243 :14:20:41
+jimmygstar takes a new university
+Move 244 :14:21:00
+You draw Komodo Dragon for gaining a new university with
+jimmygstar draws 1 card for gaining a new university: Komodo Dragon
+Move 245 :14:21:11
+jimmygstar upgrades BuildII
+jimmygstar places action card Association at position 1 (finishing action)
+Move 247 :18:05:52
+GwyndolinCinder chooses action card AnimalsI with strength 5
+Move 248 :18:05:59
+GwyndolinCinder plays Frilled Lizard for 10 and places it in a size-2 enclosure
+Move 249 :18:06:05
+GwyndolinCinder gains 5 appeal (Frilled Lizard)
+Move 250 :18:06:11
+You draw Humphead Wrasse for sprint effect
+GwyndolinCinder draws 1 card(s) for sprint effect
+Move 252 :18:06:24
+GwyndolinCinder increase the size of a a size-2 enclosure
+GwyndolinCinder gains 2 appeal (Conference On Australia)
+Move 253 :18:06:34
+GwyndolinCinder places action card Animals at position 1 (finishing action)
+Move 255 :21:18:05
+MoonageDaydream chooses action card SponsorsII with strength 3
+Move 256 :21:18:17
+MoonageDaydream advances break token of 3 space(s), now at 12/15
+MoonageDaydream gains 6 money
+MoonageDaydream places action card Sponsors at position 1 (finishing action)
+Move 258 :21:48:35
+Skelcher chooses action card BuildII with strength 3
+Move 259 :21:48:49
+Skelcher pays 6 for building a size-3 enclosure
+Skelcher places action card Build at position 1 (finishing action)
+Move 261 :22:37:38
+jimmygstar chooses action card AnimalsI with strength 2
+Move 262 :22:37:51
+jimmygstar plays Chinese Water Dragon for 8 and places it in a size-2 enclosure
+Move 263 :22:38:04
+jimmygstar gains 3 appeal (Chinese Water Dragon)
+Move 264 :22:38:13
+You sell South American Coati, Malayan Tapir cards for 8 money
+jimmygstar sells 2 card(s) for 8 money
+jimmygstar places action card Animals at position 1 (finishing action)
+Move 265 :22:38:31
+jimmygstar marks New Zealand Sea Lion from display
+Move 285 :22:48:17
+GwyndolinCinder chooses action card CardsI with strength 5
+GwyndolinCinder advances break token of 2 space(s), now at 14/15
+Move 286 :22:48:22
+You draw European Badger, Sea Animal Management Plan, Technology Institute from the deck
+GwyndolinCinder draws 3 card(s) from the deck
+Move 287 :22:49:13
+You discard Bamboo Forest
+GwyndolinCinder discards 1 card(s)
+GwyndolinCinder places action card Cards at position 1 (finishing action)
+Move 289 :13/08/2026 18:04:38
+MoonageDaydream chooses action card AnimalsI with strength 4
+Move 290 :18:04:49
+MoonageDaydream plays Barn Owl for 9 and places it in a size-1 enclosure
+Move 291 :18:04:53
+MoonageDaydream gains 3 appeal (Barn Owl)
+Move 292 :18:04:57
+You draw Golden Eagle, Guinea Pig, Angthong national park, Ornithologist for perception effect
+MoonageDaydream draws 4 card(s) for perception effect
+Move 293 :18:05:33
+You keep Golden Eagle, Angthong national park and discard Guinea Pig, Ornithologist
+MoonageDaydream keeps 2 card(s) and discard 2 card(s) for perception effect
+MoonageDaydream places action card Animals at position 1 (finishing action)
+Move 295 :19:08:33
+Skelcher chooses action card CardsI with strength 4
+Skelcher advances break token of 2 space(s) and reaches the last space of the Break track. At the end of the turn, all players must take a break
+Skelcher gains 1 xtoken (triggering break)
+Move 296 :19:08:42
+You draw African Bush Elephant, Southern Blue-ringed Octopus from the deck
+Skelcher draws 2 card(s) from the deck
+Skelcher places action card Cards at position 1 (finishing action)
+Starting a new break
+Move 301 :22:03:34
+You discard African Bush Elephant, Australian Pelican, Indian Rhinoceros
+You discard Angthong national park, Cotton-top Tamarin
+You discard Sponsorship: Reptiles, Humphead Wrasse, European Badger
+MoonageDaydream discards 2 cards during break
+Skelcher discards 3 cards during break
+GwyndolinCinder discards 3 cards during break
+All tokens are removed from player cards
+All workers go back to each player's reserve
+Replenishing partner zoos and universities
+Removing first two cards of the display:
+Raccoon, New Zealand Sea Lion are not discarded and given to jimmygstar (Mark effect)
+The display is replenished with African Ostrich, Red Panda
+Skelcher gains 12 money (appeal income)
+Skelcher gains 1 money (kiosk income)
+jimmygstar gains 13 money (appeal income)
+Move 302 :22:23:29
+GwyndolinCinder gains 17 money (appeal income)
+Move 303 :22:23:46
+GwyndolinCinder gets 1 x Snapping (map bonus space)
+Move 304 :22:24:04
+GwyndolinCinder snaps Talented Communicator from the display
+Move 305 :22:24:06
+The display is replenished with Secretary Bird
+MoonageDaydream gains 12 money (appeal income)
+End of the break
+Move 306 :14/08/2026 16:00:29
+jimmygstar chooses action card CardsI with strength 3
+jimmygstar advances break token of 2 space(s), now at 2/15
+Move 307 :16:00:37
+You draw Common Wall Lizard, Common European Adder from the deck
+jimmygstar draws 2 card(s) from the deck
+Move 308 :16:01:05
+You discard New Zealand Sea Lion
+jimmygstar discards 1 card(s)
+jimmygstar places action card Cards at position 1 (finishing action)
+Move 310 :16:57:56
+GwyndolinCinder chooses action card BuildI with strength 4
+Move 311 :16:58:05
+GwyndolinCinder pays 4 for building a size-2 enclosure
+Move 312 :16:58:18
+GwyndolinCinder places action card Build at position 1 (finishing action)
+Move 314 :18:13:20
+MoonageDaydream pays 2 xtoken for increasing card strength
+MoonageDaydream chooses action card AssociationI with strength 5
+Move 315 :18:15:06
+MoonageDaydream supports a conservation project on the second slot : Europe
+Move 316 :18:15:12
+MoonageDaydream gains 4 conservation (Europe)
+Move 317 :18:15:18
+MoonageDaydream gets 1 x upgrade-card
+Move 318 :18:15:29
+MoonageDaydream upgrades BuildII
+Move 319 :18:16:54
+MoonageDaydream snaps African Ostrich from the display
+MoonageDaydream places action card Association at position 1 (finishing action)
+Move 320 :18:16:59
+The display is replenished with Grizzly Bear
+Move 321 :22:14:54
+Skelcher chooses action card AssociationI with strength 5
+Move 322 :22:15:04
+Skelcher supports a conservation project on the third slot : Herbivores
+Skelcher gains 12 money (map bonus space)
+Skelcher gains 2 conservation (Herbivores)
+Move 323 :22:15:11
+Skelcher gets 1 x upgrade-card
+Move 324 :22:15:14
+Skelcher upgrades AssociationII
+Skelcher places action card Association at position 1 (finishing action)
+Move 329 :23:40:38
+jimmygstar chooses action card AssociationI with strength 3
+Move 330 :23:40:44
+jimmygstar takes a new Partner zoo
+jimmygstar places action card Association at position 1 (finishing action)
+Move 332 :23:49:42
+GwyndolinCinder chooses action card AnimalsI with strength 3
+Move 333 :23:50:33
+GwyndolinCinder plays Broad-snouted Caiman for 14 and places it in a size-2 enclosure
+Move 334 :23:50:38
+GwyndolinCinder gains 6 appeal (Broad-snouted Caiman)
+Move 341 :23:55:30
+GwyndolinCinder snaps Cinereous Vulture from the display
+GwyndolinCinder places action card Animals at position 1 (finishing action)
+Move 342 :23:55:33
+The display is replenished with Veterinarian
+Move 343 :15/08/2026 07:46:35
+MoonageDaydream chooses action card CardsI with strength 5
+MoonageDaydream advances break token of 2 space(s), now at 4/15
+Move 344 :07:46:40
+You draw Diversity Researcher, Science Library, Blackside Hawkfish from the deck
+MoonageDaydream draws 3 card(s) from the deck
+Move 345 :07:48:36
+You discard Blackside Hawkfish
+MoonageDaydream discards 1 card(s)
+MoonageDaydream places action card Cards at position 1 (finishing action)
+Move 347 :07:54:14
+Skelcher chooses action card BuildII with strength 3
+Move 348 :07:54:23
+Skelcher pays 4 for building a size-2 enclosure
+Move 349 :07:54:44
+Skelcher gains a new Association worker
+Move 350 :07:54:51
+Skelcher pays 2 for building a pavilion
+Skelcher gains 1 appeal (building a pavilion)
+Skelcher places action card Build at position 1 (finishing action)
+Move 352 :11:54:55
+jimmygstar chooses action card SponsorsI with strength 5
+Move 353 :11:55:03
+jimmygstar advances break token of 5 space(s), now at 9/15
+jimmygstar gains 5 money
+jimmygstar places action card Sponsors at position 1 (finishing action)
+Move 355 :11:56:50
+GwyndolinCinder chooses action card AssociationI with strength 5
+Move 359 :12:03:59
+GwyndolinCinder supports a conservation project on the third slot : Reptiles
+Move 367 :12:04:27
+GwyndolinCinder adds a size-2 enclosure for free
+GwyndolinCinder gains 2 conservation (Reptiles)
+Move 368 :12:04:31
+GwyndolinCinder gets 1 x size-3
+Move 369 :12:04:36
+GwyndolinCinder adds a size-3 enclosure for free
+GwyndolinCinder places action card Association at position 1 (finishing action)
+Move 371 :17:32:26
+MoonageDaydream chooses action card BuildII with strength 5
+Move 372 :17:33:28
+MoonageDaydream pays 10 for building the Large Bird Aviary
+Move 374 :17:34:29
+MoonageDaydream pays 2 for building a size-1 enclosure
+Move 375 :17:34:38
+You draw Waza Small Animal Program from the deck
+MoonageDaydream draws 1 card(s) from the deck
+MoonageDaydream places action card Build at position 1 (finishing action)
+Move 382 :18:05:31
+Skelcher pays 1 xtoken for increasing card strength
+Skelcher chooses action card BuildII with strength 2
+Move 383 :18:06:34
+Skelcher pays 4 for building the small aquarium
+Move 384 :18:06:47
+Skelcher places action card Build at position 1 (finishing action)
+Move 386 :18:09:12
+jimmygstar chooses action card BuildII with strength 5
+Move 387 :18:09:22
+jimmygstar uses Build4 effect to build over rock/water
+jimmygstar pays 10 for building the Reptile House
+jimmygstar gains 2 money (Build4)
+Move 388 :18:09:30
+jimmygstar gains 1 reputation (placement bonus)
+Move 389 :18:09:48
+jimmygstar moves Common Agama into the the Reptile House and free a size-1 enclosure
+Move 390 :18:09:57
+jimmygstar moves Chinese Water Dragon into the the Reptile House and free a size-2 enclosure
+Move 391 :18:10:05
+jimmygstar moves Veiled Chameleon into the the Reptile House and free a size-1 enclosure
+jimmygstar places action card Build at position 1 (finishing action)
+Move 393 :18:23:18
+GwyndolinCinder chooses action card SponsorsII with strength 5
+Move 394 :18:23:31
+GwyndolinCinder plays Talented Communicator
+GwyndolinCinder gains a new Association worker
+GwyndolinCinder places action card Sponsors at position 1 (finishing action)
+Move 396 :20:05:25
+MoonageDaydream chooses action card SponsorsII with strength 5
+Move 400 :20:05:48
+MoonageDaydream plays Science Library
+MoonageDaydream gains 2 money (Science Library)
+MoonageDaydream gains 2 appeal (Science Library)
+MoonageDaydream places action card Sponsors at position 1 (finishing action)
+Move 402 :22:14:25
+Skelcher chooses action card AnimalsII with strength 5
+Skelcher gains 1 reputation (max strength Animals)
+Move 403 :22:14:31
+Skelcher plays Southern Blue-ringed Octopus for 9 and places it in the small aquarium
+Skelcher triggers its reef abilities
+Skelcher gains 3 money (Southern Blue-ringed Octopus)
+Move 404 :22:14:39
+Skelcher uses Venom effect and gives Venom token(s) to jimmygstar, GwyndolinCinder
+Skelcher gains 4 appeal (Southern Blue-ringed Octopus)
+Move 405 :22:14:47
+Skelcher plays American Whitespotted Filefish for 12 and places it in the small aquarium
+Skelcher triggers its reef abilities
+Skelcher gains 3 money (Southern Blue-ringed Octopus)
+Skelcher gains 5 appeal (American Whitespotted Filefish)
+Skelcher places action card Animals at position 1 (finishing action)
+Move 406 :22:15:17
+Skelcher places Sponsors at position 1 (Clever effect)
+Move 408 :23:10:28
+jimmygstar chooses action card AnimalsI with strength 5
+Move 412 :23:12:18
+jimmygstar plays Common European Adder for 7 and places it in the Reptile House
+Move 413 :23:12:24
+jimmygstar gains 2 appeal (Common European Adder)
+jimmygstar chooses to hypnotize GwyndolinCinder
+Move 414 :23:13:02
+jimmygstar plays Raccoon for 11 and places it in a size-1 enclosure
+jimmygstar gains 4 appeal (Raccoon)
+jimmygstar places action card Animals at position 1 (finishing action)
+Move 416 :23:13:46
+jimmygstar marks Nile Crocodile from display
+Move 424 :23:14:51
+jimmygstar chooses action card AnimalsI with strength 3
+Move 425 :23:15:07
+jimmygstar plays Common Wall Lizard for 0 and places it in the Reptile House
+jimmygstar gains 2 appeal (Common Wall Lizard)
+GwyndolinCinder places action card Animals at position 1 (finishing action)
+Move 426 :23:15:14
+jimmygstar places Association at position 1 (Boost effect)
+jimmygstar pays 2 money for Venom
+Move 428 :16/08/2026 07:50:23
+GwyndolinCinder chooses action card SponsorsII with strength 2
+Move 429 :07:50:27
+GwyndolinCinder buys Victory Column from display
+GwyndolinCinder pays 1 money for playing sponsor from reputation range
+Move 430 :07:50:34
+GwyndolinCinder gains 1 appeal (Victory Column)
+Move 437 :07:53:05
+GwyndolinCinder adds a size-1 enclosure for free
+GwyndolinCinder places action card Sponsors at position 1 (finishing action)
+GwyndolinCinder discards their Venom token
+Move 438 :07:53:26
+The display is replenished with Mountain Tapir
+Move 439 :09:39:35
+MoonageDaydream gains 1 xtoken
+MoonageDaydream places action card Animals at position 1 (finishing action)
+Move 441 :09:51:08
+Skelcher chooses action card AssociationII with strength 4
+Move 442 :09:51:12
+Skelcher takes a new university
+MoonageDaydream gains 2 money (Science Library)
+Move 443 :09:51:21
+Skelcher gains 2 reputation ( from university)
+Skelcher gets 1 x upgrade-card (reputation track bonus)
+Move 444 :09:51:25
+Skelcher upgrades CardsII
+Skelcher gains 2 conservation (university)
+Move 445 :09:51:33
+Skelcher donates 2 money to get 1 conservation
+Move 446 :09:52:12
+Skelcher gets 5 x money
+Skelcher gains 5 money
+Skelcher places action card Association at position 1 (finishing action)
+Move 454 :09:59:05
+jimmygstar gains 1 xtoken
+jimmygstar places action card Build at position 1 (finishing action)
+jimmygstar discards their Venom token
+Move 459 :10:16:53
+GwyndolinCinder chooses action card CardsI with strength 5
+GwyndolinCinder advances break token of 2 space(s), now at 11/15
+Move 460 :10:17:05
+GwyndolinCinder snaps Red Panda from the display
+GwyndolinCinder places action card Cards at position 1 (finishing action)
+Move 461 :10:17:09
+The display is replenished with Collared Mangabey
+Move 462 :12:14:52
+MoonageDaydream chooses action card BuildII with strength 3
+Move 463 :12:14:57
+MoonageDaydream pays 6 for building a size-3 enclosure
+MoonageDaydream gains 1 xtoken (placement bonus)
+Move 464 :12:15:11
+MoonageDaydream pays 2 for building a Kiosk
+MoonageDaydream places action card Build at position 1 (finishing action)
+Move 466 :12:16:57
+Skelcher chooses action card CardsII with strength 5
+Skelcher advances break token of 2 space(s), now at 13/15
+Move 467 :12:17:04
+Skelcher takes Nile Crocodile in reputation range from the display
+jimmygstar gains 2 money for their mark on Nile Crocodile
+Move 468 :12:18:04
+You draw Grevy's Zebra, Tasmanian Devil, Spokesperson from the deck
+Skelcher draws 3 card(s) from the deck
+Skelcher places action card Cards at position 1 (finishing action)
+The display is replenished with Expansion Area
+Move 469 :15:58:19
+jimmygstar chooses action card CardsI with strength 5
+jimmygstar advances break token of 2 space(s) and reaches the last space of the Break track. At the end of the turn, all players must take a break
+jimmygstar gains 1 xtoken (triggering break)
+Move 470 :15:58:31
+jimmygstar snaps Veterinarian from the display
+jimmygstar places action card Cards at position 1 (finishing action)
+Move 471 :15:58:36
+The display is replenished with Wolverine
+Starting a new break
+Move 474 :16:46:27
+You discard Diversity Researcher, Waza Small Animal Program, Primate breeding program
+You discard Spokesperson, Grevy's Zebra
+You discard Sea Animal Management Plan
+MoonageDaydream discards 3 cards during break
+Skelcher discards 2 cards during break
+GwyndolinCinder discards 1 cards during break
+All tokens are removed from player cards
+All workers go back to each player's reserve
+Replenishing partner zoos and universities
+Removing first two cards of the display: Grizzly Bear, Secretary Bird
+The display is replenished with Spotted Hyena Compound, Yosemite national park
+jimmygstar gains 17 money (appeal income)
+Move 476 :17:31:17
+GwyndolinCinder gains 19 money (appeal income)
+Move 477 :17:31:23
+GwyndolinCinder gains 1 appeal (Victory Column)
+Move 478 :17:39:35
+GwyndolinCinder gets 1 x Snapping (map bonus space)
+Move 479 :17:39:38
+GwyndolinCinder snaps Yosemite national park from the display
+Move 480 :18:40:07
+GwyndolinCinder gets 1 x size-2 (map bonus space)
+Move 481 :18:42:57
+GwyndolinCinder adds a size-2 enclosure for free
+Move 484 :18:44:53
+GwyndolinCinder increase the size of a a size-3 enclosure
+GwyndolinCinder gains 2 appeal (Conference On Australia)
+Move 485 :18:46:30
+GwyndolinCinder upgrades AnimalsII
+Move 486 :18:46:34
+The display is replenished with Expert On Africa
+Move 487 :18:47:29
+MoonageDaydream gains 13 money (appeal income)
+Move 488 :18:47:33
+MoonageDaydream gains 1 money (kiosk income)
+MoonageDaydream gets 1 x Snapping (map bonus space)
+Move 489 :18:48:13
+MoonageDaydream snaps Mountain Tapir from the display
+Move 490 :18:48:17
+The display is replenished with Eurasian Brown Bear
+Skelcher gains 17 money (appeal income)
+Skelcher gains 2 money (kiosk income)
+End of the break
+Move 491 :18:54:50
+GwyndolinCinder chooses action card AssociationI with strength 4
+Move 492 :18:55:10
+GwyndolinCinder takes a new university
+MoonageDaydream gains 4 money (Science Library)
+GwyndolinCinder places action card Association at position 1 (finishing action)
+Move 498 :19:41:33
+MoonageDaydream chooses action card AssociationI with strength 5
+Move 499 :19:42:52
+MoonageDaydream takes a new university
+MoonageDaydream gains 1 xtoken (Association3 effect)
+MoonageDaydream gains 1 reputation ( from university)
+MoonageDaydream places action card Association at position 1 (finishing action)
+Move 501 :19:58:17
+Skelcher chooses action card AnimalsII with strength 4
+Move 502 :19:58:35
+Skelcher plays Cheetah for 14 and places it in a size-3 enclosure
+Move 503 :19:58:39
+Skelcher gains 6 appeal (Cheetah)
+Move 504 :19:58:45
+You draw Primate Management Plan, Arcade, Okapi Stable for sprint effect
+Skelcher draws 3 card(s) for sprint effect
+Move 505 :19:58:54
+Skelcher plays Tasmanian Devil for 8 and places it in a size-1 enclosure
+Move 506 :19:59:00
+Skelcher gains 1 reputation (Tasmanian Devil)
+Move 508 :19:59:27
+You pouch Primate Management Plan cards for 2 appeal
+Skelcher pouches 1 card(s) for 2 appeal
+Skelcher gains 4 appeal (Tasmanian Devil)
+Skelcher places action card Animals at position 1 (finishing action)
+Move 510 :20:10:46
+jimmygstar chooses action card SponsorsI with strength 5
+Move 511 :20:10:56
+jimmygstar plays Veterinarian
+jimmygstar gains 5 money (Veterinarian)
+MoonageDaydream gains 2 money (Science Library)
+jimmygstar places action card Sponsors at position 1 (finishing action)
+Move 513 :20:14:51
+GwyndolinCinder chooses action card AnimalsII with strength 4
+Move 514 :20:15:03
+GwyndolinCinder plays Red Panda for 13 and places it in a size-2 enclosure
+Move 515 :20:15:08
+GwyndolinCinder pays to gain (Animals3 ability)
+Move 516 :20:15:13
+GwyndolinCinder gains 6 appeal (Red Panda)
+GwyndolinCinder adds a multiplier token on action card SponsorsII
+Move 517 :20:15:18
+GwyndolinCinder places action card Animals at position 1 (finishing action)
+Move 519 :17/08/2026 06:59:24
+MoonageDaydream chooses action card SponsorsII with strength 4
+Move 520 :06:59:27
+MoonageDaydream advances break token of 4 space(s), now at 4/15
+MoonageDaydream gains 8 money
+MoonageDaydream places action card Sponsors at position 1 (finishing action)
+Move 522 :07:24:45
+Skelcher chooses action card CardsII with strength 2
+Skelcher advances break token of 2 space(s), now at 6/15
+Move 523 :07:24:52
+Skelcher takes Wolverine in reputation range from the display
+Move 524 :07:25:03
+Skelcher takes Spotted Hyena Compound in reputation range from the display
+Skelcher places action card Cards at position 1 (finishing action)
+Move 525 :07:26:19
+The display is replenished with Alpine Ibex, Quarantine Lab
+Move 526 :10:32:59
+jimmygstar chooses action card AssociationI with strength 4
+Move 527 :10:33:11
+jimmygstar supports a conservation project on the first slot : Reptiles
+Move 528 :10:33:17
+jimmygstar gains 5 conservation (Reptiles)
+Move 530 :10:35:02
+You draw Architectural Zoo, Catered Picnic Areas, Accessible Zoo for adapt effect
+jimmygstar gets 3 x bonus-scoring-cards
+jimmygstar draws 3 scoring card(s) for adapt effect
+Move 531 :10:36:04
+You discard Catered Picnic Areas, Architectural Zoo, Climbing Park for adapt effect
+jimmygstar discards 3 scoring card(s) for adapt effect
+Move 538 :10:39:18
+jimmygstar gets 1 x upgrade-card
+Move 539 :10:39:25
+jimmygstar upgrades AnimalsII
+Move 540 :10:40:46
+jimmygstar snaps Eurasian Brown Bear from the display
+jimmygstar places action card Association at position 1 (finishing action)
+Move 541 :10:40:50
+The display is replenished with Large Animals
+Move 542 :10:46:25
+GwyndolinCinder chooses action card SponsorsII with strength 4
+Move 543 :10:46:31
+GwyndolinCinder plays Technology Institute
+GwyndolinCinder gains 1 xtoken (Technology Institute)
+MoonageDaydream gains 2 money (Science Library)
+Move 544 :10:53:24
+GwyndolinCinder pays 1 xtoken for increasing card strength
+GwyndolinCinder chooses action card SponsorsII with strength 5
+GwyndolinCinder uses a multiplier token
+Move 545 :10:53:30
+GwyndolinCinder advances break token of 5 space(s), now at 11/15
+GwyndolinCinder gains 10 money
+GwyndolinCinder places action card Sponsors at position 1 (finishing action)
+Move 547 :14:12:59
+MoonageDaydream pays 1 xtoken for increasing card strength
+MoonageDaydream chooses action card AnimalsI with strength 5
+Move 548 :14:13:07
+MoonageDaydream plays Tambaqui for 12 and places it in the small aquarium
+Move 549 :14:13:12
+MoonageDaydream gains 5 appeal (Tambaqui)
+Move 550 :14:13:16
+You draw Designer Zoo for adapt effect
+MoonageDaydream draws 1 scoring card(s) for adapt effect
+Move 551 :14:13:32
+You discard Designer Zoo for adapt effect
+MoonageDaydream discards 1 scoring card(s) for adapt effect
+Move 552 :14:13:43
+MoonageDaydream plays Mountain Tapir for 12 and places it in a size-3 enclosure
+Move 553 :14:13:48
+MoonageDaydream gains 4 appeal (Mountain Tapir)
+Move 554 :14:13:54
+MoonageDaydream gains 1 conservation (Mountain Tapir)
+MoonageDaydream gets 5 x money
+MoonageDaydream gains 5 money
+Move 555 :14:14:44
+MoonageDaydream digs Collared Mangabey from the display
+The display is replenished with Coconut Lorikeet
+Move 556 :14:14:54
+MoonageDaydream digs Expansion Area from the display
+The display is replenished with Saltwater Crocodile
+MoonageDaydream places action card Animals at position 1 (finishing action)
+Move 560 :14:16:31
+Skelcher chooses action card SponsorsI with strength 4
+Move 562 :14:16:45
+Skelcher plays Horse Whisperer
+Skelcher gains 2 money (Horse Whisperer)
+Move 564 :14:17:03
+You draw Guinea Pig from discard for Horse Whisperer effect
+Skelcher draws 1 card from discard for Horse Whisperer effect
+Move 565 :14:17:09
+You discard Spotted Hyena Compound to gain money (Sponsors3 effect)
+Skelcher discards 1 card to gain money (Sponsors3 effect)
+Skelcher gains 4 money (Sponsors3)
+Skelcher places action card Sponsors at position 1 (finishing action)
+Move 567 :14:59:45
+jimmygstar chooses action card AnimalsII with strength 5
+jimmygstar gains 1 reputation (max strength Animals)
+Move 568 :15:00:29
+jimmygstar plays Komodo Dragon for 14 and places it in the Reptile House
+Move 569 :15:00:36
+jimmygstar gains 6 appeal (Iconic animal)
+jimmygstar gains 2 appeal (Komodo Dragon)
+Move 570 :15:00:56
+jimmygstar places action card Animals at position 1 (finishing action)
+Move 571 :15:01:08
+jimmygstar marks Alpine Ibex from display
+Move 573 :15:21:50
+GwyndolinCinder chooses action card AnimalsII with strength 2
+Move 574 :15:21:58
+GwyndolinCinder buys Alpine Ibex from display for 12 and places it in a size-2 enclosure
+jimmygstar gains 2 money for their mark on Alpine Ibex
+Move 575 :15:22:05
+GwyndolinCinder pays to gain (Animals3 ability)
+Move 576 :15:22:07
+GwyndolinCinder advances break token of 2 space(s), now at 13/15
+GwyndolinCinder gains 2 money (Jumping action)
+GwyndolinCinder gains 5 appeal (Alpine Ibex)
+GwyndolinCinder places action card Animals at position 1 (finishing action)
+Move 577 :15:22:16
+The display is replenished with Brahminy Kite
+Move 578 :18:23:31
+MoonageDaydream chooses action card CardsI with strength 5
+MoonageDaydream advances break token of 2 space(s) and reaches the last space of the Break track. At the end of the turn, all players must take a break
+MoonageDaydream gains 1 xtoken (triggering break)
+Move 579 :18:23:38
+MoonageDaydream snaps Large Animals from the display
+MoonageDaydream places action card Cards at position 1 (finishing action)
+Move 580 :18:23:44
+The display is replenished with Andean Condor
+Starting a new break
+Move 581 :18:32:55
+You discard Nile Crocodile
+Skelcher discards 1 cards during break
+All tokens are removed from player cards
+All workers go back to each player's reserve
+Replenishing partner zoos and universities
+Removing first two cards of the display: Expert On Africa, Quarantine Lab
+The display is replenished with Bolivian Red Howler, Mediterranean Rainbow Wrasse
+Removing 1 cards of the display due to Wave icons reveal: Coconut Lorikeet
+The display is replenished with Sea Turtle Tank
+Move 582 :18:34:05
+MoonageDaydream gains 17 money (appeal income)
+Move 583 :18:34:08
+MoonageDaydream gains 1 money (kiosk income)
+MoonageDaydream gets 1 x Snapping (map bonus space)
+Move 584 :18:34:44
+MoonageDaydream snaps Andean Condor from the display
+Move 585 :18:34:49
+The display is replenished with Green Sea Turtle
+Removing 1 cards of the display due to Wave icons reveal: Saltwater Crocodile
+The display is replenished with Slow Worm
+Skelcher gains 21 money (appeal income)
+Skelcher gains 3 money (kiosk income)
+Move 586 :20:40:24
+jimmygstar gains 19 money (appeal income)
+Move 587 :20:40:28
+jimmygstar gets 1 x Snapping (map bonus space)
+Move 588 :20:43:19
+jimmygstar snaps Green Sea Turtle from the display
+Move 589 :20:43:22
+The display is replenished with Snowy Owl
+Move 590 :21:47:54
+GwyndolinCinder gains 1 appeal (Victory Column)
+Move 591 :21:47:57
+GwyndolinCinder gains 24 money (appeal income)
+Move 593 :21:48:03
+GwyndolinCinder gains 1 xtoken (Technology Institute)
+Move 594 :21:49:24
+GwyndolinCinder gets 1 x Snapping (map bonus space)
+Move 595 :21:49:44
+GwyndolinCinder snaps Brahminy Kite from the display
+Move 596 :21:49:47
+GwyndolinCinder gets 1 x size-2 (map bonus space)
+Move 597 :21:49:51
+GwyndolinCinder adds a size-2 enclosure for free
+Move 598 :21:49:56
+End of the break
+The display is replenished with Eurasian Lynx
+Move 599 :21:53:46
+Skelcher chooses action card BuildII with strength 5
+Move 600 :21:54:15
+Skelcher pays 2 for building a size-1 enclosure
+Move 601 :21:55:30
+Skelcher pays 6 for building a size-3 enclosure
+Move 602 :21:55:39
+Skelcher pays 2 for building a pavilion
+Skelcher gains 1 appeal (building a pavilion)
+Move 603 :21:55:48
+Skelcher takes Slow Worm in reputation range from the display
+Skelcher places action card Build at position 1 (finishing action)
+Move 604 :21:58:14
+The display is replenished with Expert In Small Animals
+Move 605 :21:58:47
+jimmygstar chooses action card BuildII with strength 5
+Move 606 :21:59:08
+jimmygstar pays 6 for building a size-3 enclosure
+Move 607 :22:01:42
+jimmygstar uses Build4 effect to build over rock/water
+jimmygstar pays 2 for building a size-1 enclosure
+jimmygstar gains 2 money (Build4)
+Move 608 :22:03:20
+jimmygstar places action card Build at position 1 (finishing action)
+Move 609 :22:03:32
+jimmygstar places Sponsors at position 1 (Clever effect)
+Move 611 :22:16:59
+GwyndolinCinder gains 1 xtoken
+GwyndolinCinder places action card Build at position 1 (finishing action)
+Move 613 :18/08/2026 09:20:19
+MoonageDaydream chooses action card SponsorsII with strength 3
+Move 614 :09:20:26
+MoonageDaydream advances break token of 3 space(s), now at 3/15
+MoonageDaydream gains 6 money
+MoonageDaydream places action card Sponsors at position 1 (finishing action)
+Move 616 :09:27:01
+Skelcher chooses action card AssociationII with strength 5
+Move 617 :09:27:10
+Skelcher increases reputation
+Skelcher gains 2 reputation (association board)
+Skelcher gets 1 x add-worker (reputation track bonus)
+Skelcher gains a new Association worker
+Move 618 :09:32:06
+Skelcher takes a new Partner zoo
+Move 619 :09:32:11
+Skelcher donates 5 money to get 1 conservation
+Skelcher places action card Association at position 1 (finishing action)
+Move 630 :09:43:34
+jimmygstar chooses action card AnimalsII with strength 3
+Move 631 :09:43:50
+jimmygstar plays Eurasian Brown Bear for 17 and places it in a size-3 enclosure
+Move 632 :09:43:57
+jimmygstar gains a new Association worker
+Move 633 :09:44:03
+jimmygstar adds a multiplier token on action card AssociationI
+jimmygstar gains 8 appeal (Eurasian Brown Bear)
+Move 634 :09:44:11
+jimmygstar places action card Animals at position 1 (finishing action)
+Move 635 :09:45:44
+jimmygstar marks Mediterranean Rainbow Wrasse from display
+Move 637 :09:55:04
+GwyndolinCinder pays 1 xtoken for increasing card strength
+GwyndolinCinder chooses action card AssociationI with strength 5
+Move 638 :09:56:33
+GwyndolinCinder supports a conservation project on the first slot : Yosemite national park
+GwyndolinCinder plays a new conservation project: Yosemite national park
+Move 639 :09:56:52
+GwyndolinCinder releases Broad-snouted Caiman into the wild and loses 6 appeal and frees a size-2 enclosure
+GwyndolinCinder gains 12 money (map bonus space)
+Move 640 :09:56:58
+GwyndolinCinder gains 1 reputation (adding a new conservation project)
+GwyndolinCinder gains 5 conservation (Yosemite national park)
+Move 641 :09:57:35
+GwyndolinCinder triggers scoring card discard by reaching 10 conservation points
+Move 642 :09:57:43
+You discard Specialized Species Zoo (scoring card)
+GwyndolinCinder discards 1 scoring card
+Move 643 :10:12:34
+You discard International Zoo (scoring card)
+jimmygstar discards 1 scoring card
+Move 644 :10:28:27
+You discard Aquatic Park (scoring card)
+Skelcher discards 1 scoring card
+Move 645 :10:41:55
+You discard Favorite Zoo (scoring card)
+MoonageDaydream discards 1 scoring card
+Move 646 :12:42:37
+GwyndolinCinder gets 1 x Multiplier
+Move 647 :12:42:41
+GwyndolinCinder adds a multiplier token on action card AnimalsII
+GwyndolinCinder places action card Association at position 1 (finishing action)
+Move 652 :14:42:15
+MoonageDaydream pays 2 xtoken for increasing card strength
+MoonageDaydream chooses action card AnimalsI with strength 5
+Move 653 :14:43:10
+MoonageDaydream plays Andean Condor for 14 and places it in the Large Bird Aviary
+Move 654 :14:43:24
+MoonageDaydream gains 7 appeal (Andean Condor)
+Move 655 :14:43:27
+MoonageDaydream gains 1 reputation (Andean Condor)
+MoonageDaydream gets 1 x upgrade-card (reputation track bonus)
+Move 656 :14:43:34
+MoonageDaydream upgrades AnimalsII
+Move 657 :14:43:39
+You draw Diversity Researcher, Expert On Africa, Reptile Management Plan, Broad-snouted Caiman from discard for scavenging effect
+MoonageDaydream draws 4 card(s) from discard for scavenging effect
+Move 658 :14:44:35
+You keep Expert On Africa and discard Diversity Researcher, Reptile Management Plan, Broad-snouted Caiman for scavenging effect
+MoonageDaydream keeps 1 card and discards 3 card(s) for scavenging effect
+Move 659 :14:44:42
+MoonageDaydream plays Golden Eagle for 17 and places it in the Large Bird Aviary
+MoonageDaydream gains 7 appeal (Golden Eagle)
+MoonageDaydream places action card Animals at position 1 (finishing action)
+MoonageDaydream gets an extra action (Golden Eagle)
+Move 660 :14:44:53
+MoonageDaydream pays 1 xtoken for increasing card strength
+MoonageDaydream chooses action card AssociationI with strength 5
+Move 661 :14:45:30
+MoonageDaydream supports a conservation project on the first slot : Large Animals
+MoonageDaydream plays a new conservation project: Large Animals
+Move 662 :14:45:37
+MoonageDaydream gains 4 conservation (Large Animals)
+Move 663 :14:45:43
+MoonageDaydream gets 5 x money
+MoonageDaydream gains 5 money
+MoonageDaydream gains a new Association worker
+MoonageDaydream places action card Association at position 1 (finishing action)
+Move 665 :14:55:33
+Skelcher chooses action card AnimalsII with strength 5
+Skelcher gains 1 reputation (max strength Animals)
+Skelcher gets 1 x take-in-range-or-deck (reputation track bonus)
+Move 666 :14:55:50
+Skelcher takes Eurasian Lynx in reputation range from the display
+Move 667 :14:56:36
+Skelcher plays Wolverine for 12 and places it in a size-3 enclosure
+Move 668 :14:56:41
+Skelcher gains 1 reputation (Wolverine)
+Skelcher gets 1 x conservation (reputation track bonus)
+Skelcher gains 1 conservation (reputation track bonus)
+Skelcher gains 5 appeal (Wolverine)
+Move 669 :14:56:56
+Skelcher plays Guinea Pig for 7 and places it in the Petting Zoo
+Skelcher gains 2 money (Horse Whisperer)
+Skelcher gains 9 appeal (Petting Zoo Animal action)
+Skelcher places action card Animals at position 1 (finishing action)
+Move 670 :14:57:10
+Skelcher places Association at position 5 (Boost effect)
+Move 671 :14:57:14
+The display is replenished with Mandrill
+Move 672 :15:24:40
+jimmygstar chooses action card AssociationI with strength 4
+Move 673 :15:25:27
+jimmygstar takes a new university
+MoonageDaydream gains 2 money (Science Library)
+Move 674 :15:25:34
+jimmygstar gains 2 conservation (university)
+jimmygstar gains 2 reputation ( from university)
+jimmygstar gets 1 x upgrade-card (reputation track bonus)
+Move 675 :15:25:44
+jimmygstar upgrades CardsII
+Move 676 :15:26:07
+jimmygstar chooses action card AssociationI with strength 4
+jimmygstar uses a multiplier token
+Move 677 :15:27:42
+jimmygstar supports a conservation project on the third slot : Yosemite national park
+jimmygstar releases Raccoon into the wild and loses 4 appeal and frees a size-1 enclosure
+jimmygstar gains 5 money (map bonus space)
+jimmygstar gains 3 conservation (Yosemite national park)
+Move 678 :15:27:57
+jimmygstar gets 1 x Partner-Zoo
+Move 680 :15:28:09
+jimmygstar upgrades AssociationII
+jimmygstar places action card Association at position 1 (finishing action)
+Move 682 :15:31:02
+GwyndolinCinder chooses action card AnimalsII with strength 3
+Move 683 :15:31:46
+GwyndolinCinder plays Brahminy Kite for 9 and places it in a size-2 enclosure
+Move 690 :15:32:13
+You draw Stoat, Sheep for hunter effect
+GwyndolinCinder draws 2 card(s) for hunter effect
+Move 691 :15:32:41
+You keep Sheep and discard Stoat for hunter effect
+GwyndolinCinder keeps Sheep card and discard 1 card(s) for hunter effect
+Move 693 :15:32:49
+GwyndolinCinder increase the size of a a size-2 enclosure
+GwyndolinCinder gains 2 appeal (Conference On Australia)
+Move 694 :15:33:00
+GwyndolinCinder gains 6 appeal (Brahminy Kite)
+Move 695 :15:35:08
+GwyndolinCinder pays to gain (Animals3 ability)
+Move 696 :15:35:29
+GwyndolinCinder plays Cinereous Vulture for 13 and places it in a size-3 enclosure
+Move 697 :15:35:45
+You draw Malayan Tapir, Long-billed Vulture, Emu from discard for scavenging effect
+GwyndolinCinder draws 3 card(s) from discard for scavenging effect
+Move 698 :15:36:01
+You keep Malayan Tapir and discard Long-billed Vulture, Emu for scavenging effect
+GwyndolinCinder keeps 1 card and discards 2 card(s) for scavenging effect
+Move 699 :15:36:12
+GwyndolinCinder gains 6 appeal (Cinereous Vulture)
+Move 701 :15:36:22
+GwyndolinCinder chooses action card AnimalsII with strength 3
+GwyndolinCinder uses a multiplier token
+Move 702 :15:36:27
+GwyndolinCinder buys Bolivian Red Howler from display for 13 and places it in a size-2 enclosure
+Move 703 :15:36:32
+GwyndolinCinder gains 6 appeal (Bolivian Red Howler)
+Move 705 :15:36:38
+GwyndolinCinder places action card Animals at position 1 (finishing action)
+Move 706 :15:36:43
+GwyndolinCinder places Cards at position 1 (Boost effect)
+Move 707 :15:36:49
+The display is replenished with Rhesus Monkey Park
+Move 708 :15:42:40
+MoonageDaydream pays 1 xtoken for increasing card strength
+MoonageDaydream chooses action card CardsI with strength 5
+MoonageDaydream advances break token of 2 space(s), now at 5/15
+Move 709 :15:42:46
+You draw Sea Cave, Common Wombat, Release Of Patents from the deck
+MoonageDaydream draws 3 card(s) from the deck
+Move 710 :15:42:59
+You discard Release Of Patents
+MoonageDaydream discards 1 card(s)
+MoonageDaydream places action card Cards at position 1 (finishing action)
+Move 712 :17:00:21
+Skelcher chooses action card AssociationII with strength 5
+Move 713 :17:01:25
+Skelcher supports a conservation project on the third slot : Large Animals
+Skelcher gains 5 money (map bonus space)
+Skelcher gains 2 conservation (Large Animals)
+Skelcher gets 5 x money
+Skelcher gains 5 money
+Move 714 :17:01:37
+Skelcher donates 5 money to get 1 conservation
+Skelcher places action card Association at position 1 (finishing action)
+Move 716 :17:22:17
+jimmygstar chooses action card CardsII with strength 5
+jimmygstar advances break token of 2 space(s), now at 7/15
+Move 717 :17:22:26
+jimmygstar takes Mediterranean Rainbow Wrasse in reputation range from the display
+jimmygstar gains 2 money for their mark on Mediterranean Rainbow Wrasse
+Move 718 :17:22:47
+jimmygstar takes Snowy Owl in reputation range from the display
+Move 719 :17:23:00
+You draw Mantled Guereza, White Rhinoceros from the deck
+jimmygstar draws 2 card(s) from the deck
+Move 720 :17:23:59
+You discard White Rhinoceros
+jimmygstar discards 1 card(s)
+jimmygstar places action card Cards at position 1 (finishing action)
+Move 721 :17:24:08
+The display is replenished with Blackbar Triggerfish, Publications
+Removing 1 cards of the display due to Wave icons reveal: Sea Turtle Tank
+The display is replenished with Coquerel's Sifaka
+Move 722 :17:37:50
+GwyndolinCinder chooses action card SponsorsII with strength 5
+Move 723 :17:37:54
+GwyndolinCinder buys Expert In Small Animals from display
+GwyndolinCinder pays 1 money for playing sponsor from reputation range
+GwyndolinCinder gains 5 appeal (Expert In Small Animals)
+GwyndolinCinder places action card Sponsors at position 1 (finishing action)
+Move 724 :17:38:25
+The display is replenished with Northern Muriqui
+Move 725 :18:20:14
+MoonageDaydream chooses action card BuildII with strength 5
+Move 726 :18:20:27
+MoonageDaydream pays 2 for building a size-1 enclosure
+Move 727 :18:20:34
+MoonageDaydream places action card Build at position 1 (finishing action)
+Move 729 :19:34:03
+Skelcher chooses action card CardsII with strength 5
+Skelcher advances break token of 2 space(s), now at 9/15
+Move 730 :19:35:31
+Skelcher takes Publications in reputation range from the display
+Move 731 :19:35:36
+You draw Golden Lion Tamarin, Vietnamese Pot-bellied Pig, Water Playground from the deck
+Skelcher draws 3 card(s) from the deck
+Skelcher places action card Cards at position 1 (finishing action)
+The display is replenished with Giant Panda
+Move 732 :21:11:10
+jimmygstar chooses action card AnimalsII with strength 3
+Move 733 :21:11:37
+jimmygstar plays Green Sea Turtle for 14 and places it in the Reptile House
+Move 734 :21:11:45
+jimmygstar gains 6 appeal (Green Sea Turtle)
+Move 735 :21:11:51
+You draw Marabou, Blue mountains national park, Adventure Playground, Muskox, Scarlet Macaw, African Penguin, King Vulture, Horsfield's Tarsier, Expert On Australia for scuba dive effect
+jimmygstar draws 9 cards for scuba dive effect
+Move 736 :21:12:04
+You keep Adventure Playground and discard Marabou, Blue mountains national park, Muskox, Scarlet Macaw, African Penguin, King Vulture, Horsfield's Tarsier, Expert On Australia for scuba dive effect
+jimmygstar keeps Adventure Playground card and discard 8 card(s) for scuba dive effect
+Move 737 :21:12:13
+jimmygstar places action card Animals at position 1 (finishing action)
+Move 738 :21:12:25
+jimmygstar marks Mandrill from display
+Move 740 :22:22:06
+GwyndolinCinder chooses action card AssociationI with strength 4
+Move 741 :22:22:24
+GwyndolinCinder takes a new university
+MoonageDaydream gains 2 money (Science Library)
+Move 742 :22:22:33
+You draw Penguin Pool for gaining a new university with
+GwyndolinCinder draws 1 card for gaining a new university: Penguin Pool
+Move 749 :22:25:27
+GwyndolinCinder upgrades CardsII
+GwyndolinCinder places action card Association at position 1 (finishing action)
+Move 751 :19/08/2026 18:04:35
+MoonageDaydream chooses action card AnimalsII with strength 4
+Move 752 :18:04:46
+MoonageDaydream plays Common Wombat for 9 and places it in a size-1 enclosure
+Move 753 :18:04:52
+MoonageDaydream gains 4 appeal (Common Wombat)
+Move 754 :18:04:57
+You pouch Expert On Africa cards for 2 appeal
+MoonageDaydream pouches 1 card(s) for 2 appeal
+Move 755 :18:05:08
+MoonageDaydream places action card Animals at position 1 (finishing action)
+Move 757 :18:16:08
+Skelcher chooses action card SponsorsI with strength 5
+Move 759 :18:16:20
+Skelcher plays Water Playground
+Move 761 :18:16:30
+Skelcher adds a unique building for free
+Move 762 :18:16:42
+Skelcher pays 3 money for buying sponsor card
+Skelcher plays Arcade
+Move 763 :18:16:48
+Skelcher gains 2 appeal (Arcade)
+Move 764 :18:17:25
+Skelcher adds a size-1 enclosure for free
+Skelcher gains 4 appeal (Water Playground)
+Move 765 :18:17:36
+You discard Okapi Stable to gain money (Sponsors3 effect)
+Skelcher discards 1 card to gain money (Sponsors3 effect)
+Skelcher gains 4 money (Sponsors3)
+Skelcher places action card Sponsors at position 1 (finishing action)
+Move 767 :19:04:26
+jimmygstar chooses action card SponsorsI with strength 4
+Move 768 :19:04:35
+jimmygstar plays Adventure Playground
+Move 769 :19:04:40
+jimmygstar gains 4 appeal (Adventure Playground)
+Move 770 :19:04:53
+jimmygstar adds a unique building for free
+jimmygstar gains 1 xtoken (placement bonus)
+jimmygstar places action card Sponsors at position 1 (finishing action)
+Move 772 :22:24:22
+GwyndolinCinder chooses action card CardsII with strength 3
+GwyndolinCinder advances break token of 2 space(s), now at 11/15
+Move 773 :22:24:48
+GwyndolinCinder snaps Giant Panda from the display
+GwyndolinCinder places action card Cards at position 1 (finishing action)
+Move 774 :22:24:53
+The display is replenished with Devil Firefish
+Removing 0 cards of the display due to Wave icons reveal:
+Mandrill is not discarded and given to jimmygstar (Mark effect)
+The display is replenished with Ring-tailed Lemur
+Move 775 :20/08/2026 14:00:46
+MoonageDaydream chooses action card AssociationI with strength 4
+Move 776 :14:01:00
+MoonageDaydream takes a new university
+MoonageDaydream gains 4 money (Science Library)
+Move 777 :14:01:29
+MoonageDaydream upgrades CardsII
+MoonageDaydream places action card Association at position 1 (finishing action)
+Move 779 :14:28:17
+Skelcher chooses action card BuildII with strength 5
+Move 780 :14:29:13
+Skelcher pays 4 for building a size-2 enclosure
+Skelcher gains 1 xtoken (placement bonus)
+Move 781 :14:29:23
+Skelcher pays 2 for building a size-1 enclosure
+Move 782 :14:30:42
+Skelcher pays 2 for building a pavilion
+Skelcher gains 1 appeal (building a pavilion)
+Skelcher places action card Build at position 1 (finishing action)
+Move 784 :14:36:03
+jimmygstar pays 3 xtoken for increasing card strength
+jimmygstar chooses action card SponsorsI with strength 4
+Move 785 :14:36:07
+jimmygstar advances break token of 4 space(s) and reaches the last space of the Break track. At the end of the turn, all players must take a break
+jimmygstar gains 1 xtoken (triggering break)
+jimmygstar gains 4 money
+jimmygstar places action card Sponsors at position 1 (finishing action)
+Move 786 :14:36:13
+Starting a new break
+Move 789 :16:45:00
+You discard Penguin Pool
+You discard Golden Lion Tamarin
+You discard Mantled Guereza
+Skelcher discards 1 cards during break
+jimmygstar discards 1 cards during break
+GwyndolinCinder discards 1 cards during break
+All tokens are removed from player cards
+All workers go back to each player's reserve
+Replenishing partner zoos and universities
+Removing first two cards of the display: Blackbar Triggerfish, Rhesus Monkey Park
+The display is replenished with Side Entrance, Guided School Tours
+jimmygstar gets 5 x money (map bonus space)
+jimmygstar gains 5 money (map bonus space)
+Move 790 :19:46:04
+jimmygstar gains 23 money (appeal income)
+Move 791 :19:46:07
+jimmygstar gets 1 x Snapping (map bonus space)
+Move 792 :19:47:08
+jimmygstar snaps Northern Muriqui from the display
+Move 793 :19:47:10
+The display is replenished with Federal Grants
+Move 794 :19:47:36
+GwyndolinCinder gains 28 money (appeal income)
+Move 796 :19:47:49
+GwyndolinCinder gains 1 xtoken (Technology Institute)
+Move 797 :19:47:51
+GwyndolinCinder gains 1 appeal (Victory Column)
+Move 798 :19:48:01
+GwyndolinCinder gets 1 x size-2 (map bonus space)
+Move 802 :19:48:21
+GwyndolinCinder adds a size-2 enclosure for free
+GwyndolinCinder gets 1 x Snapping (map bonus space)
+Move 803 :19:48:31
+GwyndolinCinder snaps Guided School Tours from the display
+Move 804 :19:48:34
+The display is replenished with Cougar
+Move 805 :21:36:34
+MoonageDaydream gains 23 money (appeal income)
+MoonageDaydream gains 1 money (kiosk income)
+MoonageDaydream gets 1 x Snapping (map bonus space)
+Move 806 :21:38:34
+MoonageDaydream snaps Federal Grants from the display
+Move 807 :21:38:37
+The display is replenished with Alpaca
+Skelcher gets 5 x money (map bonus space)
+Skelcher gains 5 money (map bonus space)
+Skelcher gains 26 money (appeal income)
+Skelcher gains 4 money (kiosk income)
+Skelcher gains 5 money (Arcade)
+End of the break
+Move 808 :22:08:07
+GwyndolinCinder pays 1 xtoken for increasing card strength
+GwyndolinCinder chooses action card AnimalsII with strength 5
+GwyndolinCinder gains 1 reputation (max strength Animals)
+Move 809 :22:08:13
+GwyndolinCinder plays Malayan Tapir for 11 and places it in a size-2 enclosure
+Move 813 :22:08:40
+GwyndolinCinder gains 1 reputation (Malayan Tapir)
+GwyndolinCinder gets 1 x upgrade-card (reputation track bonus)
+Move 814 :22:08:53
+GwyndolinCinder upgrades BuildII
+Move 816 :22:09:16
+GwyndolinCinder digs Ring-tailed Lemur from the display
+The display is replenished with Bavarian Forest national park
+Move 817 :22:09:21
+GwyndolinCinder digs Side Entrance from the display
+The display is replenished with Mangalica
+Move 818 :22:09:39
+GwyndolinCinder digs Cougar from the display
+The display is replenished with Laughing Kookaburra
+Move 819 :22:09:44
+GwyndolinCinder gains 5 appeal (Malayan Tapir)
+Move 820 :22:10:20
+GwyndolinCinder pays to gain (Animals3 ability)
+Move 821 :22:10:24
+GwyndolinCinder buys Alpaca from display for 7 and places it in the Petting Zoo
+Skelcher gains 2 money (Horse Whisperer)
+Move 822 :22:10:29
+GwyndolinCinder pays to gain (Animals3 ability)
+GwyndolinCinder gains 6 appeal (Petting Zoo Animal action)
+GwyndolinCinder places action card Animals at position 1 (finishing action)
+Move 823 :22:10:38
+The display is replenished with Sponsorship: Lions
+Move 824 :21/08/2026 10:33:20
+MoonageDaydream gains 1 xtoken
+MoonageDaydream places action card Sponsors at position 1 (finishing action)
+Move 826 :10:55:01
+Skelcher pays 1 xtoken for increasing card strength
+Skelcher chooses action card AssociationII with strength 5
+Move 827 :10:55:56
+Skelcher supports a conservation project on the second slot : Bavarian Forest national park
+Skelcher buys a new conservation project from display: Bavarian Forest national park
+Skelcher pays 3 money for supporting conservation project from reputation range
+Skelcher releases Wolverine into the wild and loses 5 appeal and frees a size-3 enclosure
+Move 828 :10:56:06
+Skelcher gains 4 conservation (Bavarian Forest national park)
+Move 829 :10:56:09
+Skelcher gains 1 reputation (adding a new conservation project)
+Skelcher gets 1 x xtoken (reputation track bonus)
+Skelcher gains 1 xtoken (reputation track bonus)
+Move 830 :10:56:19
+Skelcher snaps Mangalica from the display
+Move 831 :10:56:54
+Skelcher donates 7 money to get 1 conservation
+Skelcher places action card Association at position 1 (finishing action)
+Move 832 :10:57:28
+The display is replenished with Orange Clownfish, Northern Cassowary
+Removing 1 cards of the display due to Wave icons reveal: Coquerel's Sifaka
+The display is replenished with Donkey
+Move 847 :13:37:37
+jimmygstar chooses action card BuildII with strength 5
+Move 848 :13:37:58
+jimmygstar pays 4 for building a size-2 enclosure
+Move 849 :13:38:10
+jimmygstar pays 4 for building the small aquarium
+Move 852 :13:38:28
+jimmygstar takes Devil Firefish in reputation range from the display
+Move 853 :13:39:02
+jimmygstar places action card Build at position 1 (finishing action)
+Move 854 :13:39:05
+The display is replenished with Migration Recording
+Move 855 :13:49:51
+GwyndolinCinder chooses action card AnimalsII with strength 1
+Move 856 :13:50:14
+GwyndolinCinder plays Sheep for 4 and places it in the Petting Zoo
+Skelcher gains 2 money (Horse Whisperer)
+Move 857 :13:50:21
+GwyndolinCinder pays to gain (Animals3 ability)
+GwyndolinCinder gains 9 appeal (Petting Zoo Animal action)
+GwyndolinCinder places action card Animals at position 1 (finishing action)
+Move 859 :14:17:04
+MoonageDaydream gains 1 xtoken
+MoonageDaydream places action card Build at position 1 (finishing action)
+Move 861 :14:17:14
+Skelcher chooses action card AnimalsII with strength 5
+Skelcher gains 1 reputation (max strength Animals)
+Skelcher gets 1 x take-in-range-or-deck (reputation track bonus)
+Move 862 :14:17:27
+Skelcher takes Laughing Kookaburra in reputation range from the display
+Move 863 :14:19:36
+Skelcher plays Mangalica for 7 and places it in the Petting Zoo
+Skelcher gains 2 money (Horse Whisperer)
+Move 864 :14:19:43
+Skelcher gains 12 appeal (Petting Zoo Animal action)
+Move 865 :14:20:02
+You dig Vietnamese Pot-bellied Pig from your hand
+You draw Shoebill from the deck
+Skelcher digs 1 card from their hand
+Skelcher draws 1 card(s) from the deck
+Move 866 :14:23:47
+Skelcher plays African Spurred Tortoise for 19 and places it in a size-3 enclosure
+Move 867 :14:24:19
+Skelcher gains 6 appeal (African Spurred Tortoise)
+Move 868 :14:24:22
+Skelcher gains 1 conservation (African Spurred Tortoise)
+Move 869 :14:24:55
+You sell Shoebill cards for 4 money
+Skelcher sells 1 card(s) for 4 money
+Skelcher places action card Animals at position 1 (finishing action)
+Move 870 :14:25:33
+The display is replenished with Koala
+Move 871 :14:27:04
+jimmygstar chooses action card AnimalsII with strength 3
+Move 872 :14:27:21
+jimmygstar plays Mediterranean Rainbow Wrasse for 5 and places it in the small aquarium
+Move 873 :14:27:25
+jimmygstar gains 3 appeal (Mediterranean Rainbow Wrasse)
+jimmygstar selects Green Sea Turtle to gain one effect (Symbiosis effect)
+Move 874 :14:27:34
+You draw Reptile breeding program, Anaconda, Herbivore Management Plan, Barbary Macaque, Free-range New World Monkeys, Magnificent Sea Anemone, Native Seabirds, Llama, Greater Rhea, Greater Flamingo for scuba dive effect
+jimmygstar draws 10 cards for scuba dive effect
+Move 875 :14:27:52
+You keep Native Seabirds and discard Reptile breeding program, Anaconda, Herbivore Management Plan, Barbary Macaque, Free-range New World Monkeys, Magnificent Sea Anemone, Llama, Greater Rhea, Greater Flamingo for scuba dive effect
+jimmygstar keeps Native Seabirds card and discard 9 card(s) for scuba dive effect
+Move 876 :14:28:01
+jimmygstar plays Devil Firefish for 16 and places it in the small aquarium
+jimmygstar triggers its reef abilities
+Move 877 :14:28:08
+jimmygstar gains 6 appeal (Devil Firefish)
+Move 878 :14:28:11
+jimmygstar gains 1 xtoken (Inventive)
+jimmygstar uses Venom effect and gives Venom token(s) to Skelcher, GwyndolinCinder
+jimmygstar places action card Animals at position 1 (finishing action)
+Move 879 :14:28:35
+jimmygstar marks Koala from display
+Move 885 :14:35:26
+GwyndolinCinder gains 1 xtoken
+GwyndolinCinder places action card Animals at position 1 (finishing action)
+GwyndolinCinder discards their Venom token
+Move 890 :14:44:01
+MoonageDaydream pays 2 xtoken for increasing card strength
+MoonageDaydream chooses action card AssociationI with strength 5
+Move 891 :14:47:49
+MoonageDaydream supports a conservation project on the second slot : Herbivores
+Move 892 :14:47:54
+MoonageDaydream gains 4 conservation (Herbivores)
+MoonageDaydream gains 1 conservation (map bonus space)
+MoonageDaydream places action card Association at position 1 (finishing action)
+Move 894 :14:55:03
+Skelcher chooses action card SponsorsI with strength 4
+Move 896 :14:55:10
+Skelcher plays Publications
+MoonageDaydream gains 2 money (Science Library)
+Move 897 :14:55:15
+Skelcher donates 3 money to get 1 conservation
+Move 898 :14:55:39
+Skelcher places action card Sponsors at position 1 (finishing action)
+Skelcher pays 2 money for Venom
+Move 900 :16:59:44
+jimmygstar chooses action card AssociationII with strength 5
+Move 904 :17:01:11
+jimmygstar supports a conservation project on the first slot : Europe
+jimmygstar gains 12 money (map bonus space)
+jimmygstar gains 5 conservation (Europe)
+Move 905 :17:01:26
+jimmygstar places action card Association at position 1 (finishing action)
+Move 907 :17:12:30
+GwyndolinCinder pays 2 xtoken for increasing card strength
+GwyndolinCinder chooses action card AssociationI with strength 5
+Move 908 :17:12:40
+GwyndolinCinder supports a conservation project on the third slot : Bavarian Forest national park
+Move 909 :17:12:50
+GwyndolinCinder releases Alpine Ibex into the wild and loses 5 appeal and frees a size-2 enclosure
+GwyndolinCinder gains 3 xtoken (map bonus space)
+GwyndolinCinder gains 3 conservation (Bavarian Forest national park)
+GwyndolinCinder places action card Association at position 1 (finishing action)
+Move 914 :17:21:48
+MoonageDaydream chooses action card CardsII with strength 5
+MoonageDaydream advances break token of 2 space(s), now at 2/15
+Move 915 :17:21:56
+You draw Bluespotted Ribbontail Ray, Compass Jellyfish, Fennec Fox, Sand Tiger Shark from the deck
+MoonageDaydream draws 4 card(s) from the deck
+Move 916 :17:22:16
+You discard Compass Jellyfish
+MoonageDaydream discards 1 card(s)
+MoonageDaydream places action card Cards at position 1 (finishing action)
+Move 918 :17:22:58
+Skelcher pays 1 xtoken for increasing card strength
+Skelcher chooses action card AnimalsII with strength 3
+Move 919 :17:23:14
+Skelcher plays Slow Worm for 1 and places it in a size-2 enclosure
+Skelcher gains 2 appeal (Slow Worm)
+Move 920 :17:23:52
+Skelcher plays Eurasian Lynx for 8 and places it in a size-1 enclosure
+Move 921 :17:23:57
+Skelcher gains 2 appeal (Eurasian Lynx)
+Skelcher gains 8 appeal (Iconic animal)
+End of game triggered: everyone except Skelcher will get a last turn to play
+Skelcher places action card Animals at position 1 (finishing action)
+Skelcher discards their Venom token
+Move 923 :21:58:26
+jimmygstar chooses action card AnimalsII with strength 2
+Move 924 :21:58:36
+jimmygstar plays Northern Muriqui for 13 and places it in a size-2 enclosure
+Move 925 :21:58:40
+jimmygstar gains 6 appeal (Northern Muriqui)
+Move 926 :21:58:44
+You draw Amazon House for monkey gang effect
+jimmygstar draws 1 card for monkey gang effect: Amazon House
+jimmygstar gains 1 conservation (Northern Muriqui)
+jimmygstar places action card Animals at position 1 (finishing action)
+Move 927 :21:58:52
+jimmygstar marks Orange Clownfish from display
+Move 929 :22:00:00
+GwyndolinCinder pays 3 xtoken for increasing card strength
+GwyndolinCinder chooses action card AssociationI with strength 4
+Move 930 :22:00:04
+GwyndolinCinder takes a new university
+MoonageDaydream gains 2 money (Science Library)
+Move 931 :22:00:10
+GwyndolinCinder gains 2 conservation (university)
+GwyndolinCinder gains 2 reputation ( from university)
+GwyndolinCinder places action card Association at position 1 (finishing action)
+Move 933 :22:12:50
+MoonageDaydream chooses action card AnimalsII with strength 5
+MoonageDaydream gains 1 reputation (max strength Animals)
+Move 934 :22:12:58
+MoonageDaydream plays Fennec Fox for 8 and places it in a size-1 enclosure
+MoonageDaydream gains 3 appeal (Fennec Fox)
+Move 935 :22:13:05
+MoonageDaydream plays Bluespotted Ribbontail Ray for 16 and places it in the small aquarium
+MoonageDaydream triggers its reef abilities
+Move 936 :22:13:13
+MoonageDaydream gains 7 appeal (Bluespotted Ribbontail Ray)
+Move 937 :22:13:19
+MoonageDaydream places action card Animals at position 1 (finishing action)
+Move 938 :22:13:25
+MoonageDaydream places Sponsors at position 1 (Clever effect)
+Move 939 :22:13:29
+Skelcher gains 4 appeal (Arcade)
+MoonageDaydream gains 1 conservation (Foreign Institute)
+MoonageDaydream gains 3 conservation (Large Animal Zoo)
+Skelcher gains 3 conservation (Diverse species Zoo)
+jimmygstar gains 1 conservation (Veterinarian)
+jimmygstar gains 2 conservation (Accessible Zoo)
+GwyndolinCinder gains 1 conservation (Technology Institute)
+GwyndolinCinder gains 1 appeal (Conference On Australia)
+GwyndolinCinder gains 3 conservation (Research Zoo)
+MoonageDaydream has 50 and scores 30 for having 18. MoonageDaydream scores 80.
+Skelcher has 83 and scores 36 for having 20. Skelcher scores 119.
+jimmygstar has 57 and scores 33 for having 19. jimmygstar scores 90.
+GwyndolinCinder has 84 and scores 33 for having 19. GwyndolinCinder scores 117.
+End of game
