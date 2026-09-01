@@ -77,3 +77,18 @@ def game_results(game: dict[str, Any]) -> list[dict[str, Any]]:
             }
         )
     return results
+
+
+def animal_plays(game: dict[str, Any]) -> list[dict[str, Any]]:
+    """Return one row for every animal card played in a game."""
+    return [
+        {
+            "map_number": game["source"]["map_number"],
+            "table": game["source"]["table"],
+            "player": event["actor"],
+            "animal": event["details"]["animal"],
+            "turn_number": event["turn_number"],
+        }
+        for event in game["events"]
+        if event["event_type"] == "animal_play"
+    ]

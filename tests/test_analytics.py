@@ -1,4 +1,4 @@
-from ark_nova_dashboard.analytics import conservation_projects, game_results
+from ark_nova_dashboard.analytics import animal_plays, conservation_projects, game_results
 
 
 def event(event_type: str, actor: str, details: dict, move: int = 1) -> dict:
@@ -58,3 +58,20 @@ def test_game_results_rank_and_normalize_scores() -> None:
     assert results[0]["position"] == 1
     assert results[1]["position"] == 2
     assert results[1]["normalized_score"] == 0.8
+
+
+def test_animal_plays_include_game_context() -> None:
+    game = {
+        "source": {"map_number": 2, "table": "A"},
+        "events": [event("animal_play", "Alice", {"animal": "Sloth Bear"})],
+    }
+
+    assert animal_plays(game) == [
+        {
+            "map_number": 2,
+            "table": "A",
+            "player": "Alice",
+            "animal": "Sloth Bear",
+            "turn_number": 2,
+        }
+    ]

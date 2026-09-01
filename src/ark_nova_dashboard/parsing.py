@@ -28,6 +28,10 @@ FINAL_SCORE_RE = re.compile(
     r"^(?P<player>\S+) has (?P<appeal>-?\d+) and scores (?P<conservation_score>-?\d+) "
     r"for having (?P<conservation>-?\d+)\. (?P=player) scores (?P<total>-?\d+)\.$"
 )
+ANIMAL_PLAY_RE = re.compile(
+    r"^(?P<player>\S+) plays (?P<animal>.+?) for (?P<cost>\d+) and places it in "
+    r"(?P<enclosure>.+)$"
+)
 ACTOR_RE = re.compile(r"^(?P<actor>\S+)\s+")
 
 
@@ -71,6 +75,12 @@ def _classify(text: str) -> tuple[str, dict[str, Any]]:
             "conservation_score": int(match["conservation_score"]),
             "conservation": int(match["conservation"]),
             "total": int(match["total"]),
+        }
+    if match := ANIMAL_PLAY_RE.match(text):
+        return "animal_play", {
+            "animal": match["animal"],
+            "cost": int(match["cost"]),
+            "enclosure": match["enclosure"],
         }
     if text == "End of game":
         return "game_end", {}

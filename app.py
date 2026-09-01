@@ -14,12 +14,18 @@ import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
 
-from ark_nova_dashboard.analytics import conservation_projects, final_scores, game_results
+from ark_nova_dashboard.analytics import (
+    animal_plays,
+    conservation_projects,
+    final_scores,
+    game_results,
+)
 from ark_nova_dashboard.catalog import MAP_NUMBERS, TABLES, raw_log_path
 from ark_nova_dashboard.parsing import game_data
 from ark_nova_dashboard.pdf_report import build_tournament_pdf
 
 COLOR_CONFIG = ROOT / "data" / "player-colors.json"
+ANIMAL_CARDS = ROOT / "data" / "cards" / "animals.json"
 UNASSIGNED_COLOR = "#A7AFBD"
 
 st.set_page_config(page_title="Ark Nova Tournament", page_icon="🦁", layout="wide")
@@ -72,6 +78,13 @@ st.markdown(
     .mobile-game-pill {
         background: #111a2b; border-radius: 8px; display: inline-block;
         margin: 6px 5px 0 0; padding: 6px 9px;
+    }
+    .animal-card-header { align-items: baseline; display: flex; justify-content: space-between; }
+    .animal-total { color: #f6e77f; font-size: 0.82rem; font-weight: 700; }
+    .animal-types { color: #8f99aa; font-size: 0.75rem; margin-top: 2px; }
+    .animal-player-count {
+        background: #111a2b; border-left: 3px solid; border-radius: 7px;
+        display: inline-block; font-size: 0.8rem; margin: 8px 6px 0 0; padding: 5px 8px;
     }
     .mobile-project-name { font-size: 0.95rem; font-weight: 700; margin-bottom: 8px; }
     .mobile-added { color: #72e0a3; font-size: 0.7rem; font-weight: 600; }
@@ -330,6 +343,61 @@ def load_populated_games() -> list[dict[str, Any]]:
     return games
 
 
+def render_animal_plays() -> None:
+    games = load_populated_games()
+    plays = [play for game in games for play in animal_plays(game)]
+    if not plays:
+        st.info("No animal plays have been found yet.")
+        return
+
+    catalogue = {
+        card["name"].casefold(): card
+        for card in json.loads(ANIMAL_CARDS.read_text(encoding="utf-8"))
+    }
+    players = sorted({play["player"] for play in plays})
+    colors, missing_colors = player_colors(players)
+    if missing_colors:
+        st.warning(f"Missing global player colours: {', '.join(missing_colors)}")
+
+    counts: dict[str, dict[str, int]] = {}
+    display_names: dict[str, str] = {}
+    for play in plays:
+        animal_key = play["animal"].casefold()
+        display_names[animal_key] = play["animal"]
+        player_counts = counts.setdefault(animal_key, {})
+        player_counts[play["player"]] = player_counts.get(play["player"], 0) + 1
+
+    st.header("Animal plays")
+    st.caption(
+        f"{len(plays)} animals played across {len(games)} games · "
+        f"{len(counts)} distinct animals"
+    )
+    cards = []
+    for animal_key, player_counts in sorted(
+        counts.items(),
+        key=lambda item: (-sum(item[1].values()), display_names[item[0]].casefold()),
+    ):
+        animal = catalogue.get(animal_key)
+        animal_name = animal["name"] if animal else display_names[animal_key]
+        type_line = " · ".join(animal["types"]) if animal else "Not found in card catalogue"
+        player_pills = "".join(
+            f'<span class="animal-player-count" style="border-color:{colors[player]}">'
+            f'{html.escape(player)} × {count}</span>'
+            for player, count in sorted(player_counts.items(), key=lambda item: (-item[1], item[0]))
+        )
+        total = sum(player_counts.values())
+        cards.append(
+            '<div class="mobile-card">'
+            '<div class="animal-card-header">'
+            f'<span class="mobile-player">{html.escape(animal_name)}</span>'
+            f'<span class="animal-total">{total} play{"s" if total != 1 else ""}</span>'
+            '</div>'
+            f'<div class="animal-types">{html.escape(type_line)}</div>'
+            f'<div>{player_pills}</div></div>'
+        )
+    st.markdown("".join(cards), unsafe_allow_html=True)
+
+
 def ordinal(position: int) -> str:
     suffix = (
         "th"
@@ -478,7 +546,11 @@ def render_table(map_number: int, table: str) -> None:
 
 st.title("Ark Nova Tournament")
 
-navigation_options = {"overview": "Overview", **{f"map-{number}": f"Map {number}" for number in MAP_NUMBERS}}
+navigation_options = {
+    "overview": "Overview",
+    "animal-plays": "Animal plays",
+    **{f"map-{number}": f"Map {number}" for number in MAP_NUMBERS},
+}
 selected_slug = st.query_params.get("page", "overview")
 if selected_slug not in navigation_options:
     selected_slug = "overview"
@@ -513,6 +585,8 @@ with st.container(key="top_navigation"):
 
 if selected_page == "Overview":
     render_tournament()
+elif selected_page == "Animal plays":
+    render_animal_plays()
 else:
     selected_map = int(selected_page.removeprefix("Map "))
 

@@ -46,3 +46,4 @@ def test_entire_animal_sheet_parses() -> None:
     assert len(cards) == 160
     grizzly = next(card for card in cards if card["name"] == "Grizzly Bear")
     assert grizzly["requirements"] == {"predator": 2, "animals ii": 1}
+    assert any(card["name"] == "Longhorn Cowfish" for card in cards)

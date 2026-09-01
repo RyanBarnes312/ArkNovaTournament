@@ -13,6 +13,7 @@ AQUARIUM_ALTERNATIVE_PATTERN = re.compile(
 )
 STANDARD_AQUARIUM_PATTERN = re.compile(r"^(\d+)([RW]*)\s*/\s*Aq\s+(\d+)$")
 SPECIAL_ONLY_PATTERN = re.compile(r"^(PZ)\s+(\d+)$")
+CARD_NAME_CORRECTIONS = {"LONHORN COWFISH": "LONGHORN COWFISH"}
 
 
 def _clean_label(value: str) -> str:
@@ -113,7 +114,10 @@ def parse_animal_workbook(path: Path) -> list[dict[str, Any]]:
         cards.append(
             {
                 "card_number": int(source["Card #"]),
-                "name": str(source["Animal Card Name"]).strip().title(),
+                "name": CARD_NAME_CORRECTIONS.get(
+                    str(source["Animal Card Name"]).strip(),
+                    str(source["Animal Card Name"]).strip(),
+                ).title(),
                 "latin_name": source["Animal Latin name"],
                 "cost": int(source["Cost"]),
                 "types": parse_types(source["Type"]),

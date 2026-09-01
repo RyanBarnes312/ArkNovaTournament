@@ -46,3 +46,23 @@ def test_setup_move_has_no_turn_owner(tmp_path: Path) -> None:
     assert event.event_type == "setup"
     assert event.turn_number is None
     assert event.turn_owner is None
+
+
+def test_animal_play_is_structured(tmp_path: Path) -> None:
+    log = tmp_path / "game.txt"
+    log.write_text(
+        "Move 1 :12:00:00\n"
+        "Alice chooses action card AnimalsI with strength 5\n"
+        "Alice plays Sloth Bear for 14 and places it in a size-3 enclosure\n",
+        encoding="utf-8",
+    )
+
+    event = parse_game_log(log)[1]
+
+    assert event.event_type == "animal_play"
+    assert event.actor == "Alice"
+    assert event.details == {
+        "animal": "Sloth Bear",
+        "cost": 14,
+        "enclosure": "a size-3 enclosure",
+    }

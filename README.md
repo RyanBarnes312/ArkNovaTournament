@@ -39,6 +39,9 @@ The top navigation includes a **Download PDF** button. The generated report cont
 the current tournament overview and every populated Map/Table game. Conservation
 project timing is printed directly because PDF viewers do not reliably support hover text.
 
+The **Animal plays** page counts every animal played in the populated game logs and
+shows cumulative per-player usage matched against the animal card catalogue.
+
 ## Player colours
 
 BGA's pasted text logs say that colours were selected but do not include the
