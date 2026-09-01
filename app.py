@@ -372,6 +372,38 @@ def render_animal_plays() -> None:
         f"{len(plays)} animals played across {len(games)} games · "
         f"{len(counts)} distinct animals"
     )
+
+    type_counts: dict[str, dict[str, int]] = {}
+    for play in plays:
+        animal = catalogue[play["animal"].casefold()]
+        for animal_type in set(animal["types"]):
+            player_counts = type_counts.setdefault(animal_type, {})
+            player_counts[play["player"]] = player_counts.get(play["player"], 0) + 1
+
+    st.markdown("### Animal type popularity")
+    st.caption("Each played card counts once for every type printed on it.")
+    type_cards = []
+    for animal_type, player_counts in sorted(
+        type_counts.items(),
+        key=lambda item: (-sum(item[1].values()), item[0]),
+    ):
+        player_pills = "".join(
+            f'<span class="animal-player-count" style="border-color:{colors[player]}">'
+            f'{html.escape(player)} × {count}</span>'
+            for player, count in sorted(player_counts.items(), key=lambda item: (-item[1], item[0]))
+        )
+        total = sum(player_counts.values())
+        type_cards.append(
+            '<div class="mobile-card">'
+            '<div class="animal-card-header">'
+            f'<span class="mobile-player">{html.escape(animal_type.title())}</span>'
+            f'<span class="animal-total">{total} play{"s" if total != 1 else ""}</span>'
+            '</div>'
+            f'<div>{player_pills}</div></div>'
+        )
+    st.markdown("".join(type_cards), unsafe_allow_html=True)
+
+    st.markdown("### Individual animals")
     cards = []
     for animal_key, player_counts in sorted(
         counts.items(),
