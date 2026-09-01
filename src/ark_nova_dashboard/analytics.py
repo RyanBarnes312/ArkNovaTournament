@@ -92,3 +92,19 @@ def animal_plays(game: dict[str, Any]) -> list[dict[str, Any]]:
         for event in game["events"]
         if event["event_type"] == "animal_play"
     ]
+
+
+def venom_placements(game: dict[str, Any]) -> list[dict[str, Any]]:
+    """Expand each Venom effect to one row per recipient."""
+    return [
+        {
+            "map_number": game["source"]["map_number"],
+            "table": game["source"]["table"],
+            "giver": event["actor"],
+            "recipient": recipient,
+            "turn_number": event["turn_number"],
+        }
+        for event in game["events"]
+        if event["event_type"] == "venom_given"
+        for recipient in event["details"]["recipients"]
+    ]

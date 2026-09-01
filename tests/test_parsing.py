@@ -66,3 +66,22 @@ def test_animal_play_is_structured(tmp_path: Path) -> None:
         "cost": 14,
         "enclosure": "a size-3 enclosure",
     }
+
+
+def test_venom_recipients_are_structured(tmp_path: Path) -> None:
+    log = tmp_path / "game.txt"
+    log.write_text(
+        "Move 1 :12:00:00\n"
+        "Alice chooses action card AnimalsI with strength 5\n"
+        "Alice uses Venom effect and gives Venom token(s) to Bob, Charlie\n"
+        "Move 2 :12:01:00\n"
+        "Bob chooses action card CardsI with strength 5\n"
+        "Move 3 :12:02:00\n"
+        "Charlie chooses action card BuildI with strength 5\n",
+        encoding="utf-8",
+    )
+
+    event = parse_game_log(log)[1]
+
+    assert event.event_type == "venom_given"
+    assert event.details == {"recipients": ["Bob", "Charlie"]}

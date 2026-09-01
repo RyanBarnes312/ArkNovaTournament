@@ -19,6 +19,7 @@ from ark_nova_dashboard.analytics import (
     conservation_projects,
     final_scores,
     game_results,
+    venom_placements,
 )
 from ark_nova_dashboard.catalog import MAP_NUMBERS, TABLES, raw_log_path
 from ark_nova_dashboard.parsing import game_data
@@ -479,6 +480,52 @@ def render_animal_plays() -> None:
     st.markdown("".join(cards), unsafe_allow_html=True)
 
 
+def render_venom() -> None:
+    games = load_populated_games()
+    placements = [placement for game in games for placement in venom_placements(game)]
+    if not placements:
+        st.info("No Venom placements have been found yet.")
+        return
+
+    players = sorted({player for game in games for player in game["summary"]["players"]})
+    colors, missing_colors = player_colors(players)
+    if missing_colors:
+        st.warning(f"Missing global player colours: {', '.join(missing_colors)}")
+
+    giver_counts: dict[str, dict[str, int]] = {player: {} for player in players}
+    for placement in placements:
+        recipient_counts = giver_counts.setdefault(placement["giver"], {})
+        recipient = placement["recipient"]
+        recipient_counts[recipient] = recipient_counts.get(recipient, 0) + 1
+
+    st.header("Venom placements")
+    st.caption(f"{len(placements)} Venom tokens given across {len(games)} games")
+    cards = []
+    ranked_givers = sorted(
+        giver_counts,
+        key=lambda giver: (-sum(giver_counts[giver].values()), giver),
+    )
+    for rank, giver in enumerate(ranked_givers, start=1):
+        recipient_counts = giver_counts[giver]
+        total = sum(recipient_counts.values())
+        recipients = "".join(
+            f'<span class="animal-player-count" style="border-color:{colors[recipient]}">'
+            f'{html.escape(recipient)} × {count}</span>'
+            for recipient, count in sorted(
+                recipient_counts.items(), key=lambda item: (-item[1], item[0])
+            )
+        )
+        recipient_detail = recipients or '<span class="mobile-secondary">No Venom given</span>'
+        cards.append(
+            f'<div class="mobile-card" style="border-left:4px solid {colors[giver]}">'
+            f'<div><span class="mobile-rank">#{rank}</span> '
+            f'<span class="mobile-player">{html.escape(giver)}</span></div>'
+            f'<div class="mobile-secondary">{total} Venom token{"s" if total != 1 else ""} given</div>'
+            f'<div>{recipient_detail}</div></div>'
+        )
+    st.markdown("".join(cards), unsafe_allow_html=True)
+
+
 def ordinal(position: int) -> str:
     suffix = (
         "th"
@@ -630,6 +677,7 @@ st.title("Ark Nova Tournament")
 navigation_options = {
     "overview": "Overview",
     "animal-plays": "Animal plays",
+    "venom": "Venom",
     **{f"map-{number}": f"Map {number}" for number in MAP_NUMBERS},
 }
 selected_slug = st.query_params.get("page", "overview")
@@ -668,6 +716,8 @@ if selected_page == "Overview":
     render_tournament()
 elif selected_page == "Animal plays":
     render_animal_plays()
+elif selected_page == "Venom":
+    render_venom()
 else:
     selected_map = int(selected_page.removeprefix("Map "))
 

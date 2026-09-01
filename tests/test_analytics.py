@@ -1,4 +1,9 @@
-from ark_nova_dashboard.analytics import animal_plays, conservation_projects, game_results
+from ark_nova_dashboard.analytics import (
+    animal_plays,
+    conservation_projects,
+    game_results,
+    venom_placements,
+)
 
 
 def event(event_type: str, actor: str, details: dict, move: int = 1) -> dict:
@@ -75,3 +80,14 @@ def test_animal_plays_include_game_context() -> None:
             "turn_number": 2,
         }
     ]
+
+
+def test_venom_effect_is_expanded_per_recipient() -> None:
+    game = {
+        "source": {"map_number": 2, "table": "A"},
+        "events": [
+            event("venom_given", "Alice", {"recipients": ["Bob", "Charlie"]})
+        ],
+    }
+
+    assert [row["recipient"] for row in venom_placements(game)] == ["Bob", "Charlie"]

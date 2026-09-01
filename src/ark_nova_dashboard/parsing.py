@@ -32,6 +32,10 @@ ANIMAL_PLAY_RE = re.compile(
     r"^(?P<player>\S+) plays (?P<animal>.+?) for (?P<cost>\d+) and places it in "
     r"(?P<enclosure>.+)$"
 )
+VENOM_GIVEN_RE = re.compile(
+    r"^(?P<player>\S+) uses Venom effect and gives Venom token\(s\) to "
+    r"(?P<recipients>.+)$"
+)
 ACTOR_RE = re.compile(r"^(?P<actor>\S+)\s+")
 
 
@@ -81,6 +85,12 @@ def _classify(text: str) -> tuple[str, dict[str, Any]]:
             "animal": match["animal"],
             "cost": int(match["cost"]),
             "enclosure": match["enclosure"],
+        }
+    if match := VENOM_GIVEN_RE.match(text):
+        return "venom_given", {
+            "recipients": [
+                recipient.strip() for recipient in match["recipients"].split(",")
+            ]
         }
     if text == "End of game":
         return "game_end", {}
