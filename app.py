@@ -324,18 +324,35 @@ def score_cards_html(scores: list[dict[str, Any]], colors: dict[str, str]) -> st
 def type_player_chart(player_counts: dict[str, int], colors: dict[str, str]) -> go.Figure:
     ranked_players = sorted(player_counts, key=lambda player: (-player_counts[player], player))
     values = [player_counts[player] for player in ranked_players]
-    figure = go.Figure(
-        go.Bar(
-            x=values,
-            y=ranked_players,
-            orientation="h",
-            marker_color=[colors[player] for player in ranked_players],
-            text=values,
-            textposition="outside",
-            cliponaxis=False,
-            hovertemplate="<b>%{y}</b><br>%{x} plays<extra></extra>",
+    figure = go.Figure()
+    for player in ranked_players:
+        count = player_counts[player]
+        figure.add_trace(
+            go.Scatter(
+                x=list(range(1, count + 1)),
+                y=[player] * count,
+                mode="markers",
+                marker={
+                    "color": colors[player],
+                    "size": 25,
+                    "symbol": "square",
+                    "line": {"color": "#111A2B", "width": 2},
+                },
+                customdata=list(range(1, count + 1)),
+                hovertemplate=(
+                    f"<b>{player}</b><br>Play %{{customdata}} of {count}<extra></extra>"
+                ),
+                showlegend=False,
+            )
         )
-    )
+        figure.add_annotation(
+            x=count + 0.55,
+            y=player,
+            text=str(count),
+            showarrow=False,
+            xanchor="left",
+            font={"color": "#F7F8FB", "size": 12, "weight": 700},
+        )
     figure.update_layout(
         height=max(235, len(ranked_players) * 34 + 70),
         margin={"l": 8, "r": 28, "t": 8, "b": 28},
@@ -345,8 +362,10 @@ def type_player_chart(player_counts: dict[str, int], colors: dict[str, str]) -> 
         xaxis={
             "title": None,
             "gridcolor": "#2D394C",
-            "range": [0, max(values) * 1.25],
+            "range": [0.35, max(values) + 1.35],
             "dtick": 1,
+            "showticklabels": False,
+            "zeroline": False,
         },
         yaxis={"title": None, "autorange": "reversed"},
         showlegend=False,
