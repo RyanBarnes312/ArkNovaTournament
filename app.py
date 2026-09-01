@@ -325,26 +325,25 @@ def type_player_chart(player_counts: dict[str, int], colors: dict[str, str]) -> 
     ranked_players = sorted(player_counts, key=lambda player: (-player_counts[player], player))
     values = [player_counts[player] for player in ranked_players]
     figure = go.Figure()
-    for player in ranked_players:
-        count = player_counts[player]
+    for block_number in range(1, max(values) + 1):
         figure.add_trace(
-            go.Scatter(
-                x=list(range(1, count + 1)),
-                y=[player] * count,
-                mode="markers",
+            go.Bar(
+                x=[1 if player_counts[player] >= block_number else 0 for player in ranked_players],
+                y=ranked_players,
+                orientation="h",
                 marker={
-                    "color": colors[player],
-                    "size": 25,
-                    "symbol": "square",
-                    "line": {"color": "#111A2B", "width": 2},
+                    "color": [colors[player] for player in ranked_players],
+                    "line": {"color": "#111A2B", "width": 1.5},
                 },
-                customdata=list(range(1, count + 1)),
-                hovertemplate=(
-                    f"<b>{player}</b><br>Play %{{customdata}} of {count}<extra></extra>"
-                ),
+                customdata=[
+                    [block_number, player_counts[player]] for player in ranked_players
+                ],
+                hovertemplate="<b>%{y}</b><br>Play %{customdata[0]} of %{customdata[1]}<extra></extra>",
                 showlegend=False,
             )
         )
+    for player in ranked_players:
+        count = player_counts[player]
         figure.add_annotation(
             x=count + 0.55,
             y=player,
@@ -354,6 +353,8 @@ def type_player_chart(player_counts: dict[str, int], colors: dict[str, str]) -> 
             font={"color": "#F7F8FB", "size": 12, "weight": 700},
         )
     figure.update_layout(
+        barmode="stack",
+        bargap=0.28,
         height=max(235, len(ranked_players) * 34 + 70),
         margin={"l": 8, "r": 28, "t": 8, "b": 28},
         paper_bgcolor="rgba(0,0,0,0)",
