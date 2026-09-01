@@ -321,6 +321,39 @@ def score_cards_html(scores: list[dict[str, Any]], colors: dict[str, str]) -> st
     return "".join(cards)
 
 
+def type_player_chart(player_counts: dict[str, int], colors: dict[str, str]) -> go.Figure:
+    ranked_players = sorted(player_counts, key=lambda player: (-player_counts[player], player))
+    values = [player_counts[player] for player in ranked_players]
+    figure = go.Figure(
+        go.Bar(
+            x=values,
+            y=ranked_players,
+            orientation="h",
+            marker_color=[colors[player] for player in ranked_players],
+            text=values,
+            textposition="outside",
+            cliponaxis=False,
+            hovertemplate="<b>%{y}</b><br>%{x} plays<extra></extra>",
+        )
+    )
+    figure.update_layout(
+        height=max(235, len(ranked_players) * 34 + 70),
+        margin={"l": 8, "r": 28, "t": 8, "b": 28},
+        paper_bgcolor="rgba(0,0,0,0)",
+        plot_bgcolor="#111a2b",
+        font={"color": "#F7F8FB"},
+        xaxis={
+            "title": None,
+            "gridcolor": "#2D394C",
+            "range": [0, max(values) * 1.25],
+            "dtick": 1,
+        },
+        yaxis={"title": None, "autorange": "reversed"},
+        showlegend=False,
+    )
+    return figure
+
+
 def load_tournament_results() -> pd.DataFrame:
     rows: list[dict[str, Any]] = []
     for map_number in MAP_NUMBERS:
@@ -382,26 +415,22 @@ def render_animal_plays() -> None:
 
     st.markdown("### Animal type popularity")
     st.caption("Each played card counts once for every type printed on it.")
-    type_cards = []
-    for animal_type, player_counts in sorted(
-        type_counts.items(),
-        key=lambda item: (-sum(item[1].values()), item[0]),
-    ):
-        player_pills = "".join(
-            f'<span class="animal-player-count" style="border-color:{colors[player]}">'
-            f'{html.escape(player)} × {count}</span>'
-            for player, count in sorted(player_counts.items(), key=lambda item: (-item[1], item[0]))
-        )
-        total = sum(player_counts.values())
-        type_cards.append(
-            '<div class="mobile-card">'
-            '<div class="animal-card-header">'
-            f'<span class="mobile-player">{html.escape(animal_type.title())}</span>'
-            f'<span class="animal-total">{total} play{"s" if total != 1 else ""}</span>'
-            '</div>'
-            f'<div>{player_pills}</div></div>'
-        )
-    st.markdown("".join(type_cards), unsafe_allow_html=True)
+    ranked_types = sorted(
+        type_counts,
+        key=lambda animal_type: (-sum(type_counts[animal_type].values()), animal_type),
+    )
+    for row_start in range(0, len(ranked_types), 3):
+        chart_columns = st.columns(3)
+        for offset, animal_type in enumerate(ranked_types[row_start : row_start + 3]):
+            rank = row_start + offset + 1
+            with chart_columns[offset]:
+                st.markdown(f"#### {rank}. {animal_type.title()}")
+                st.plotly_chart(
+                    type_player_chart(type_counts[animal_type], colors),
+                    width="stretch",
+                    config={"displayModeBar": False},
+                    key=f"type_chart_{animal_type}",
+                )
 
     st.markdown("### Individual animals")
     cards = []
