@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "Dashboard for an ongoing two-table Ark Nova tournament"
 requires-python = ">=3.11"
 dependencies = [
+    "openpyxl>=3.1,<4",
     "pandas>=2.2,<3",
     "plotly>=5.24,<7",
     "reportlab>=4.2,<5",

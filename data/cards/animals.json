@@ -1,0 +1,4715 @@
+[
+  {
+    "card_number": 401,
+    "name": "Cheetah",
+    "latin_name": "Acinonyx jubatus",
+    "cost": 17,
+    "types": [
+      "predator",
+      "predator"
+    ],
+    "continent": "africa",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 6,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 5,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Sprint 3",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 402,
+    "name": "Lion",
+    "latin_name": "Panthera leo",
+    "cost": 16,
+    "types": [
+      "predator"
+    ],
+    "continent": "africa",
+    "requirements": {
+      "predator": 3
+    },
+    "bonuses": {
+      "appeal": 9,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 4,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Pack",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 403,
+    "name": "Leopard",
+    "latin_name": "Panthera pardus",
+    "cost": 20,
+    "types": [
+      "predator"
+    ],
+    "continent": "africa",
+    "requirements": {
+      "partner zoo": 1
+    },
+    "bonuses": {
+      "appeal": 7,
+      "conservation": 1,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 0,
+      "rock": 1,
+      "special_enclosure": []
+    },
+    "ability": "Hunter 4",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 404,
+    "name": "Caracal",
+    "latin_name": "Caracal caracal",
+    "cost": 9,
+    "types": [
+      "predator"
+    ],
+    "continent": "africa",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 4,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Hunter 2",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 405,
+    "name": "Fennec Fox",
+    "latin_name": "Vulpes zerda",
+    "cost": 8,
+    "types": [
+      "predator"
+    ],
+    "continent": "africa",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 3,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Clever",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 406,
+    "name": "Siberian Tiger",
+    "latin_name": "Panthera tigris altaica",
+    "cost": 30,
+    "types": [
+      "predator"
+    ],
+    "continent": "asia",
+    "requirements": {
+      "asia": 3
+    },
+    "bonuses": {
+      "appeal": 10,
+      "conservation": 2,
+      "reputation": 1
+    },
+    "enclosure": {
+      "size": 5,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": null,
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 407,
+    "name": "Sumatran Tiger",
+    "latin_name": "Panthera tigris sumatrae",
+    "cost": 26,
+    "types": [
+      "predator"
+    ],
+    "continent": "asia",
+    "requirements": {
+      "science": 2
+    },
+    "bonuses": {
+      "appeal": 8,
+      "conservation": 2,
+      "reputation": 1
+    },
+    "enclosure": {
+      "size": 4,
+      "water": 2,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": null,
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 408,
+    "name": "Sloth Bear",
+    "latin_name": "Melursus ursinus",
+    "cost": 14,
+    "types": [
+      "predator",
+      "bear"
+    ],
+    "continent": "asia",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 6,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Boost:Association",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 409,
+    "name": "Sun Bear",
+    "latin_name": "Helarctos malayanus",
+    "cost": 16,
+    "types": [
+      "predator",
+      "bear"
+    ],
+    "continent": "asia",
+    "requirements": {
+      "partner zoo": 1
+    },
+    "bonuses": {
+      "appeal": 5,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Action: Association",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 410,
+    "name": "Yellow-Throated Marten",
+    "latin_name": "Martes flavigula",
+    "cost": 7,
+    "types": [
+      "predator"
+    ],
+    "continent": "asia",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 3,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Hunter 1",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 411,
+    "name": "Grizzly Bear",
+    "latin_name": "Ursus arctos horribilis",
+    "cost": 22,
+    "types": [
+      "predator"
+    ],
+    "continent": "americas",
+    "requirements": {
+      "predator": 2,
+      "animals ii": 1
+    },
+    "bonuses": {
+      "appeal": 9,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 5,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Inventive\nFull-throated",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 412,
+    "name": "Jaguar",
+    "latin_name": "Panthera onca",
+    "cost": 16,
+    "types": [
+      "predator"
+    ],
+    "continent": "americas",
+    "requirements": {
+      "americas": 1
+    },
+    "bonuses": {
+      "appeal": 8,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 4,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Hunter 4",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 413,
+    "name": "Cougar",
+    "latin_name": "Puma concolor",
+    "cost": 10,
+    "types": [
+      "predator"
+    ],
+    "continent": "americas",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 5,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 0,
+      "rock": 1,
+      "special_enclosure": []
+    },
+    "ability": "Jumping 3",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 414,
+    "name": "South American Coati",
+    "latin_name": "Nasua nasua",
+    "cost": 11,
+    "types": [
+      "predator",
+      "bear"
+    ],
+    "continent": "americas",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 4,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 1,
+      "special_enclosure": []
+    },
+    "ability": "Inventive 1",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 415,
+    "name": "Raccoon",
+    "latin_name": "Procyon lotor",
+    "cost": 11,
+    "types": [
+      "predator",
+      "bear"
+    ],
+    "continent": "americas",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 4,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Boost:Association",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 416,
+    "name": "Eurasian Brown Bear",
+    "latin_name": "Ursus arctos arctos",
+    "cost": 20,
+    "types": [
+      "predator",
+      "bear"
+    ],
+    "continent": "europe",
+    "requirements": {
+      "bear": 1,
+      "animals ii": 1
+    },
+    "bonuses": {
+      "appeal": 8,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 5,
+      "water": 1,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Multiplier: Association\nFull-throated",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 417,
+    "name": "Wolf",
+    "latin_name": "Canis lupus",
+    "cost": 12,
+    "types": [
+      "predator"
+    ],
+    "continent": "europe",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 4,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 4,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Pack",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 418,
+    "name": "Eurasian Lynx",
+    "latin_name": "Lynx lynx",
+    "cost": 11,
+    "types": [
+      "predator"
+    ],
+    "continent": "europe",
+    "requirements": {
+      "europe": 2
+    },
+    "bonuses": {
+      "appeal": 2,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Iconic Animal: Europe",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 419,
+    "name": "European Badger",
+    "latin_name": "Meles meles",
+    "cost": 5,
+    "types": [
+      "predator"
+    ],
+    "continent": "europe",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 3,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Boost: Aminals",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 420,
+    "name": "Stoat",
+    "latin_name": "Mustela erminea",
+    "cost": 4,
+    "types": [
+      "predator"
+    ],
+    "continent": "europe",
+    "requirements": {
+      "europe": 1
+    },
+    "bonuses": {
+      "appeal": 3,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Hunter 1",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 421,
+    "name": "New Zealand Fur Seal",
+    "latin_name": "Arctocephalus forsteri",
+    "cost": 17,
+    "types": [
+      "predator"
+    ],
+    "continent": "australia",
+    "requirements": {
+      "animals ii": 1
+    },
+    "bonuses": {
+      "appeal": 8,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 5,
+      "water": 1,
+      "rock": 1,
+      "special_enclosure": []
+    },
+    "ability": "Full-throated",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 422,
+    "name": "Australian Sea Lion",
+    "latin_name": "Neophoca cinerea",
+    "cost": 18,
+    "types": [
+      "predator"
+    ],
+    "continent": "australia",
+    "requirements": {
+      "partner zoo": 1
+    },
+    "bonuses": {
+      "appeal": 7,
+      "conservation": 1,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 4,
+      "water": 1,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Sunbathing 3",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 423,
+    "name": "New Zealand Sea Lion",
+    "latin_name": "Phocarctos hookeri",
+    "cost": 17,
+    "types": [
+      "predator"
+    ],
+    "continent": "australia",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 6,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 1,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Pack",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 424,
+    "name": "Australian Dingo",
+    "latin_name": "Canis lupus dingo",
+    "cost": 13,
+    "types": [
+      "predator"
+    ],
+    "continent": "australia",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 3,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Pack",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 425,
+    "name": "Tasmanian Devil",
+    "latin_name": "Sarcophilus harrisii",
+    "cost": 11,
+    "types": [
+      "predator"
+    ],
+    "continent": "australia",
+    "requirements": {
+      "science": 1
+    },
+    "bonuses": {
+      "appeal": 4,
+      "conservation": 0,
+      "reputation": 1
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Pouch 1",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 426,
+    "name": "African Bush Elephant",
+    "latin_name": "Loxodonta africana",
+    "cost": 36,
+    "types": [
+      "herbivore"
+    ],
+    "continent": "africa x2",
+    "requirements": {
+      "animals ii": 1
+    },
+    "bonuses": {
+      "appeal": 10,
+      "conservation": 0,
+      "reputation": 1
+    },
+    "enclosure": {
+      "size": 5,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Resistance",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 427,
+    "name": "White Rhinoceros",
+    "latin_name": "Ceratotherium simum",
+    "cost": 24,
+    "types": [
+      "herbivore"
+    ],
+    "continent": "africa",
+    "requirements": {
+      "science": 1
+    },
+    "bonuses": {
+      "appeal": 9,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 4,
+      "water": 0,
+      "rock": 1,
+      "special_enclosure": []
+    },
+    "ability": "Assertion",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 428,
+    "name": "Giraffe",
+    "latin_name": "Giraffa",
+    "cost": 16,
+    "types": [
+      "herbivore"
+    ],
+    "continent": "africa",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 7,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Boost: Sponsors",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 429,
+    "name": "Grevy'S Zebra",
+    "latin_name": "Equus grevyi",
+    "cost": 12,
+    "types": [
+      "herbivore"
+    ],
+    "continent": "africa",
+    "requirements": {
+      "africa": 3
+    },
+    "bonuses": {
+      "appeal": 6,
+      "conservation": 0,
+      "reputation": 1
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Boost: Sponsors\nFlock Animal 2",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 430,
+    "name": "Pygmy Hippopotamus",
+    "latin_name": "Choeropsis liberiensis",
+    "cost": 15,
+    "types": [
+      "herbivore"
+    ],
+    "continent": "africa",
+    "requirements": {
+      "partner zoo": 1
+    },
+    "bonuses": {
+      "appeal": 6,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 1,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Action: Sponsors",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 431,
+    "name": "Asian Elephant",
+    "latin_name": "Elephas maximus",
+    "cost": 33,
+    "types": [
+      "herbivore"
+    ],
+    "continent": "asia x2",
+    "requirements": {
+      "animals ii": 1
+    },
+    "bonuses": {
+      "appeal": 8,
+      "conservation": 1,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 5,
+      "water": 1,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Resistance",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 432,
+    "name": "Indian Rhinoceros",
+    "latin_name": "Rhinoceros unicornis",
+    "cost": 25,
+    "types": [
+      "herbivore"
+    ],
+    "continent": "asia",
+    "requirements": {
+      "animals ii": 1
+    },
+    "bonuses": {
+      "appeal": 9,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 4,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Assertion",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 433,
+    "name": "Giant Panda",
+    "latin_name": "Ailuropoda melanoleuca",
+    "cost": 27,
+    "types": [
+      "herbivore",
+      "bear"
+    ],
+    "continent": "asia",
+    "requirements": {
+      "herbivore": 1,
+      "bear": 1,
+      "partner zoo": 1
+    },
+    "bonuses": {
+      "appeal": 10,
+      "conservation": 2,
+      "reputation": 1
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": null,
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 434,
+    "name": "Red Panda",
+    "latin_name": "Ailurus fulgens",
+    "cost": 16,
+    "types": [
+      "herbivore",
+      "bear"
+    ],
+    "continent": "asia",
+    "requirements": {
+      "science": 2
+    },
+    "bonuses": {
+      "appeal": 6,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Multiplier: Sponsors",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 435,
+    "name": "Malayan Tapir",
+    "latin_name": "Tapirus indicus",
+    "cost": 17,
+    "types": [
+      "herbivore"
+    ],
+    "continent": "asia",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 5,
+      "conservation": 0,
+      "reputation": 1
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Digging 3",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 436,
+    "name": "American Bison",
+    "latin_name": "Bos bison",
+    "cost": 18,
+    "types": [
+      "herbivore"
+    ],
+    "continent": "americas x2",
+    "requirements": {
+      "americas": 3
+    },
+    "bonuses": {
+      "appeal": 4,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 5,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Iconic Animal: Americas",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 437,
+    "name": "Muskox",
+    "latin_name": "Ovibos moschatus",
+    "cost": 13,
+    "types": [
+      "herbivore"
+    ],
+    "continent": "americas",
+    "requirements": {
+      "americas": 1
+    },
+    "bonuses": {
+      "appeal": 5,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 4,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Sponsor Magnet",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 438,
+    "name": "Reindeer",
+    "latin_name": "Rangifer tarandus",
+    "cost": 12,
+    "types": [
+      "herbivore"
+    ],
+    "continent": "americas",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 5,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Flock Animal 3",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 439,
+    "name": "Lama",
+    "latin_name": "Lama glama",
+    "cost": 10,
+    "types": [
+      "herbivore"
+    ],
+    "continent": "americas",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 4,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Flock Animal 2",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 440,
+    "name": "Mountain Tapir",
+    "latin_name": "Tapirus pinchaque",
+    "cost": 15,
+    "types": [
+      "herbivore"
+    ],
+    "continent": "americas",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 4,
+      "conservation": 1,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 1,
+      "special_enclosure": []
+    },
+    "ability": "Digging 2",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 441,
+    "name": "European Bison",
+    "latin_name": "Bos bonasus",
+    "cost": 19,
+    "types": [
+      "herbivore"
+    ],
+    "continent": "europe x2",
+    "requirements": {
+      "partner zoo": 1
+    },
+    "bonuses": {
+      "appeal": 6,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 5,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Sponsor Magnet",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 442,
+    "name": "Moose",
+    "latin_name": "Alces alces",
+    "cost": 19,
+    "types": [
+      "herbivore"
+    ],
+    "continent": "europe",
+    "requirements": {
+      "herbivore": 2
+    },
+    "bonuses": {
+      "appeal": 7,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 4,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Multiplier: Sponsors\nFlock Animal 4",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 443,
+    "name": "Red Deer",
+    "latin_name": "Cervus elaphus",
+    "cost": 12,
+    "types": [
+      "herbivore"
+    ],
+    "continent": "europe",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 5,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Flock Animal 3",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 444,
+    "name": "Alpine Ibex",
+    "latin_name": "Capra ibex",
+    "cost": 10,
+    "types": [
+      "herbivore"
+    ],
+    "continent": "europe",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 5,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 2,
+      "special_enclosure": []
+    },
+    "ability": "Jumping 2",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 445,
+    "name": "Crested Porcupine",
+    "latin_name": "Hystric cristata",
+    "cost": 8,
+    "types": [
+      "herbivore"
+    ],
+    "continent": "europe",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 3,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Digging 2",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 446,
+    "name": "Dugong",
+    "latin_name": "Dugong dugon",
+    "cost": 25,
+    "types": [
+      "herbivore"
+    ],
+    "continent": "australia x2",
+    "requirements": {
+      "animals ii": 1
+    },
+    "bonuses": {
+      "appeal": 9,
+      "conservation": 1,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 5,
+      "water": 2,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Digging 4",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 447,
+    "name": "Red Kangaroo",
+    "latin_name": "Macropus rufus",
+    "cost": 23,
+    "types": [
+      "herbivore"
+    ],
+    "continent": "australia",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 7,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 4,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Pouch 2\nFlock Animal 4",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 448,
+    "name": "Koala",
+    "latin_name": "Phascolarctos cinereus",
+    "cost": 21,
+    "types": [
+      "herbivore",
+      "bear"
+    ],
+    "continent": "australia",
+    "requirements": {
+      "australia": 1
+    },
+    "bonuses": {
+      "appeal": 8,
+      "conservation": 0,
+      "reputation": 1
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 0,
+      "rock": 1,
+      "special_enclosure": []
+    },
+    "ability": "Pouch 2",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 449,
+    "name": "Platypus",
+    "latin_name": "Ornithorhynchus anatinus",
+    "cost": 10,
+    "types": [
+      "herbivore"
+    ],
+    "continent": "australia",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 4,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 1,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Venom 1",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 450,
+    "name": "Common Wombat",
+    "latin_name": "Vombatus ursinus",
+    "cost": 9,
+    "types": [
+      "herbivore"
+    ],
+    "continent": "australia",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 4,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Pouch 1",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 451,
+    "name": "Proboscis Monkey",
+    "latin_name": "Nasalis larvatus",
+    "cost": 32,
+    "types": [
+      "primate"
+    ],
+    "continent": "asia",
+    "requirements": {
+      "primate": 2,
+      "animals ii": 1
+    },
+    "bonuses": {
+      "appeal": 10,
+      "conservation": 2,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 5,
+      "water": 0,
+      "rock": 1,
+      "special_enclosure": []
+    },
+    "ability": "Dominance",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 452,
+    "name": "Senegal Bushbaby",
+    "latin_name": "Galago senegalensis",
+    "cost": 10,
+    "types": [
+      "primate"
+    ],
+    "continent": "africa",
+    "requirements": {
+      "africa": 2
+    },
+    "bonuses": {
+      "appeal": 1,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Iconic Animal: Africa",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 453,
+    "name": "Collared Mangabey",
+    "latin_name": "Cercocebus torquatus",
+    "cost": 20,
+    "types": [
+      "primate"
+    ],
+    "continent": "africa",
+    "requirements": {
+      "africa": 1
+    },
+    "bonuses": {
+      "appeal": 8,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 4,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Action: Cards",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 454,
+    "name": "Ring-Tailed Lemur",
+    "latin_name": "Lemur catta",
+    "cost": 12,
+    "types": [
+      "primate"
+    ],
+    "continent": "africa",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 6,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 0,
+      "rock": 1,
+      "special_enclosure": []
+    },
+    "ability": "Sunbathing 3",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 455,
+    "name": "Mantled Guereza",
+    "latin_name": "Colobus guereza",
+    "cost": 13,
+    "types": [
+      "primate"
+    ],
+    "continent": "africa",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 6,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Clever",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 456,
+    "name": "Barbary Macaque",
+    "latin_name": "Macaca sylvanus",
+    "cost": 13,
+    "types": [
+      "primate"
+    ],
+    "continent": "africa",
+    "requirements": {
+      "partner zoo": 1
+    },
+    "bonuses": {
+      "appeal": 6,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Pilfering 1",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 457,
+    "name": "Mandrill",
+    "latin_name": "Mandrillus sphinx",
+    "cost": 28,
+    "types": [
+      "primate",
+      "primate"
+    ],
+    "continent": "africa",
+    "requirements": {
+      "primate": 3
+    },
+    "bonuses": {
+      "appeal": 9,
+      "conservation": 2,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 5,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Multiplier: Cards",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 458,
+    "name": "Japances Macaque",
+    "latin_name": "Macaca fuscata",
+    "cost": 18,
+    "types": [
+      "primate"
+    ],
+    "continent": "africa",
+    "requirements": {
+      "asia": 1
+    },
+    "bonuses": {
+      "appeal": 7,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 1,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Pilfering 2",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 459,
+    "name": "Red-Shanked Douc",
+    "latin_name": "Pygathrix nemaeus",
+    "cost": 17,
+    "types": [
+      "primate"
+    ],
+    "continent": "asia",
+    "requirements": {
+      "science": 1
+    },
+    "bonuses": {
+      "appeal": 7,
+      "conservation": 0,
+      "reputation": 1
+    },
+    "enclosure": {
+      "size": 4,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Inventive",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 460,
+    "name": "Dusky-Leaf Monkey",
+    "latin_name": "Trachypithecus obscurus",
+    "cost": 12,
+    "types": [
+      "primate"
+    ],
+    "continent": "asia",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 5,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Clever",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 461,
+    "name": "Horsfield'S Tarsier",
+    "latin_name": "Cephalopachus bancanus",
+    "cost": 14,
+    "types": [
+      "primate"
+    ],
+    "continent": "asia",
+    "requirements": {
+      "partner zoo": 1
+    },
+    "bonuses": {
+      "appeal": 3,
+      "conservation": 0,
+      "reputation": 2
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Jumping 4",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 462,
+    "name": "Northern Plains Gray Langur",
+    "latin_name": "Semnopithecus entellus",
+    "cost": 13,
+    "types": [
+      "primate"
+    ],
+    "continent": "asia",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 6,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 0,
+      "rock": 1,
+      "special_enclosure": []
+    },
+    "ability": "Jumping 3",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 463,
+    "name": "Panamanian White-Faced Capuchin",
+    "latin_name": "Cebus imitator",
+    "cost": 11,
+    "types": [
+      "primate"
+    ],
+    "continent": "americas",
+    "requirements": {
+      "partner zoo": 1
+    },
+    "bonuses": {
+      "appeal": 5,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Pilfering 1",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 464,
+    "name": "Brown Spider Monkey",
+    "latin_name": "Ateles hybridus",
+    "cost": 17,
+    "types": [
+      "primate"
+    ],
+    "continent": "americas",
+    "requirements": {
+      "primate": 1
+    },
+    "bonuses": {
+      "appeal": 6,
+      "conservation": 1,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 4,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Inventive",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 465,
+    "name": "Golden Lion Tamarin",
+    "latin_name": "Leontopithecus rosalia",
+    "cost": 10,
+    "types": [
+      "primate"
+    ],
+    "continent": "americas",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 4,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Clever",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 466,
+    "name": "Bolivian Red Howler",
+    "latin_name": "Alouatta sara",
+    "cost": 12,
+    "types": [
+      "primate"
+    ],
+    "continent": "americas",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 6,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Boost: Cards",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 467,
+    "name": "Ecuadorian Squirell Monkey",
+    "latin_name": "Saimiri macrodon",
+    "cost": 12,
+    "types": [
+      "primate"
+    ],
+    "continent": "americas",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 5,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Clever",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 468,
+    "name": "Cotton-Top Tamarin",
+    "latin_name": "Saguinus oedipus",
+    "cost": 15,
+    "types": [
+      "primate"
+    ],
+    "continent": "americas",
+    "requirements": {
+      "science": 2
+    },
+    "bonuses": {
+      "appeal": 4,
+      "conservation": 1,
+      "reputation": 1
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": null,
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 469,
+    "name": "Nile Crocodile",
+    "latin_name": "Crocodylus niloticus",
+    "cost": 13,
+    "types": [
+      "reptile"
+    ],
+    "continent": "africa",
+    "requirements": {
+      "reptile": 3
+    },
+    "bonuses": {
+      "appeal": 9,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 5,
+      "water": 1,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "rh",
+          "spaces": 3
+        }
+      ]
+    },
+    "ability": "Snapping 2",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 470,
+    "name": "Western Green Mamba",
+    "latin_name": "Dendroaspis viridis",
+    "cost": 13,
+    "types": [
+      "reptile"
+    ],
+    "continent": "africa",
+    "requirements": {
+      "africa": 1,
+      "reptile": 1
+    },
+    "bonuses": {
+      "appeal": 6,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "rh",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Venom 2",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 471,
+    "name": "African Spurred Tortoise",
+    "latin_name": "Centrochelys sulcata",
+    "cost": 22,
+    "types": [
+      "reptile"
+    ],
+    "continent": "africa",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 6,
+      "conservation": 1,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "rh",
+          "spaces": 2
+        }
+      ]
+    },
+    "ability": "Sunbathing 3",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 472,
+    "name": "Rock Monitor",
+    "latin_name": "Varanus albigularis",
+    "cost": 12,
+    "types": [
+      "reptile"
+    ],
+    "continent": "africa",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 5,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 1,
+      "special_enclosure": [
+        {
+          "type": "rh",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Sunbathing 3",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 473,
+    "name": "Common Agama",
+    "latin_name": "Agama agama",
+    "cost": 9,
+    "types": [
+      "reptile"
+    ],
+    "continent": "africa",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 3,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "rh",
+          "spaces": 0
+        }
+      ]
+    },
+    "ability": "Sunbathing 2",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 474,
+    "name": "Indian Rock Python",
+    "latin_name": "Python molurus",
+    "cost": 14,
+    "types": [
+      "reptile"
+    ],
+    "continent": "asia",
+    "requirements": {
+      "reptile": 2
+    },
+    "bonuses": {
+      "appeal": 7,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "rh",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Constriction",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 475,
+    "name": "King Cobra",
+    "latin_name": "Ophiophagus hannah",
+    "cost": 13,
+    "types": [
+      "reptile"
+    ],
+    "continent": "asia",
+    "requirements": {
+      "science": 2,
+      "animals ii": 1
+    },
+    "bonuses": {
+      "appeal": 6,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "rh",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Hypnosis 3",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 476,
+    "name": "Komodo Dragon",
+    "latin_name": "Varanus komodoensis",
+    "cost": 14,
+    "types": [
+      "reptile"
+    ],
+    "continent": "asia",
+    "requirements": {
+      "asia": 2
+    },
+    "bonuses": {
+      "appeal": 2,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "rh",
+          "spaces": 2
+        }
+      ]
+    },
+    "ability": "Iconic Animal: Asia",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 477,
+    "name": "Veiled Chameleon",
+    "latin_name": "Chamaeleo calyptratus",
+    "cost": 14,
+    "types": [
+      "reptile"
+    ],
+    "continent": "asia",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 4,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "rh",
+          "spaces": 0
+        }
+      ]
+    },
+    "ability": "Snapping 1",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 478,
+    "name": "Chinese Water Dragon",
+    "latin_name": "Physignathus cocincinus",
+    "cost": 8,
+    "types": [
+      "reptile"
+    ],
+    "continent": "asia",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 3,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 1,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "rh",
+          "spaces": 0
+        }
+      ]
+    },
+    "ability": "Sunbathing 2",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 479,
+    "name": "American Alligator",
+    "latin_name": "Alligator mississippiensis",
+    "cost": 18,
+    "types": [
+      "reptile"
+    ],
+    "continent": "americas",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 7,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 4,
+      "water": 1,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "rh",
+          "spaces": 2
+        }
+      ]
+    },
+    "ability": "Snapping 1",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 480,
+    "name": "Broad-Snouted Caiman",
+    "latin_name": "Caiman latirostris",
+    "cost": 16,
+    "types": [
+      "reptile"
+    ],
+    "continent": "americas",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 6,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 4,
+      "water": 1,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "rh",
+          "spaces": 2
+        }
+      ]
+    },
+    "ability": "Snapping 1",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 481,
+    "name": "Galapagos Giant Tortoise",
+    "latin_name": "Chelonoidis nigra",
+    "cost": 30,
+    "types": [
+      "reptile"
+    ],
+    "continent": "americas",
+    "requirements": {
+      "americas": 2,
+      "animals ii": 1
+    },
+    "bonuses": {
+      "appeal": 8,
+      "conservation": 2,
+      "reputation": 1
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "rh",
+          "spaces": 2
+        }
+      ]
+    },
+    "ability": "Sunbathing 4",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 482,
+    "name": "Anaconda",
+    "latin_name": "Eunectes murinus",
+    "cost": 13,
+    "types": [
+      "reptile"
+    ],
+    "continent": "americas",
+    "requirements": {
+      "partner zoo": 1
+    },
+    "bonuses": {
+      "appeal": 6,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 1,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "rh",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Constriction",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 483,
+    "name": "Boa Constrictor",
+    "latin_name": "Boa constrictor",
+    "cost": 16,
+    "types": [
+      "reptile"
+    ],
+    "continent": "americas",
+    "requirements": {
+      "science": 2
+    },
+    "bonuses": {
+      "appeal": 7,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "rh",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Constriction",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 484,
+    "name": "European Pond Turtle",
+    "latin_name": "Emys orbicularis",
+    "cost": 9,
+    "types": [
+      "reptile"
+    ],
+    "continent": "europe",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 4,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 1,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "rh",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": null,
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 485,
+    "name": "Common European Adder",
+    "latin_name": "Vipera berus",
+    "cost": 10,
+    "types": [
+      "reptile"
+    ],
+    "continent": "europe",
+    "requirements": {
+      "partner zoo": 1
+    },
+    "bonuses": {
+      "appeal": 2,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "rh",
+          "spaces": 0
+        }
+      ]
+    },
+    "ability": "Hypnosis 3",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 486,
+    "name": "Common Wall Lizard",
+    "latin_name": "Podarcis muralis",
+    "cost": 4,
+    "types": [
+      "reptile"
+    ],
+    "continent": "europe",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 2,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 0,
+      "rock": 1,
+      "special_enclosure": [
+        {
+          "type": "rh",
+          "spaces": 0
+        }
+      ]
+    },
+    "ability": null,
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 487,
+    "name": "European Grass Snake",
+    "latin_name": "Natrix natrix",
+    "cost": 8,
+    "types": [
+      "reptile"
+    ],
+    "continent": "europe",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 3,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 1,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "rh",
+          "spaces": 0
+        }
+      ]
+    },
+    "ability": "Clever",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 488,
+    "name": "Slow Worm",
+    "latin_name": "Anguis fragilis",
+    "cost": 4,
+    "types": [
+      "reptile"
+    ],
+    "continent": "europe",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 2,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 1,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "rh",
+          "spaces": 0
+        }
+      ]
+    },
+    "ability": null,
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 489,
+    "name": "Saltwater Crocodile",
+    "latin_name": "Crocodylus porosus",
+    "cost": 23,
+    "types": [
+      "reptile"
+    ],
+    "continent": "australia",
+    "requirements": {
+      "partner zoo": 1
+    },
+    "bonuses": {
+      "appeal": 9,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 5,
+      "water": 1,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "rh",
+          "spaces": 3
+        }
+      ]
+    },
+    "ability": "Snapping 2",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 490,
+    "name": "Gould'S Monitor",
+    "latin_name": "Varanus gouldii",
+    "cost": 15,
+    "types": [
+      "reptile"
+    ],
+    "continent": "australia",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 6,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "rh",
+          "spaces": 2
+        }
+      ]
+    },
+    "ability": "Scavenging 2",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 491,
+    "name": "Frilled Lizard",
+    "latin_name": "Chlamydosaurus kingii",
+    "cost": 12,
+    "types": [
+      "reptile"
+    ],
+    "continent": "australia",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 5,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 1,
+      "special_enclosure": [
+        {
+          "type": "rh",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Sprint 1",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 492,
+    "name": "Inland Taipan",
+    "latin_name": "Oxyuranus microlepidotus",
+    "cost": 10,
+    "types": [
+      "reptile"
+    ],
+    "continent": "australia",
+    "requirements": {
+      "australia": 1,
+      "science": 1
+    },
+    "bonuses": {
+      "appeal": 5,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 1,
+      "special_enclosure": [
+        {
+          "type": "rh",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Venom 2",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 493,
+    "name": "Thorny Devil",
+    "latin_name": "Moloch horridus",
+    "cost": 6,
+    "types": [
+      "reptile"
+    ],
+    "continent": "australia",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 3,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 0,
+      "rock": 1,
+      "special_enclosure": [
+        {
+          "type": "rh",
+          "spaces": 0
+        }
+      ]
+    },
+    "ability": null,
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 494,
+    "name": "African Ostrich",
+    "latin_name": "Struthio camelus",
+    "cost": 20,
+    "types": [
+      "bird"
+    ],
+    "continent": "africa",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 8,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 5,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "lba",
+          "spaces": 4
+        }
+      ]
+    },
+    "ability": "Sprint 2",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 495,
+    "name": "Secretary Bird",
+    "latin_name": "Sagittarius serpentarius",
+    "cost": 14,
+    "types": [
+      "bird"
+    ],
+    "continent": "africa",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 4,
+      "conservation": 1,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 4,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "lba",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": null,
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 496,
+    "name": "Marabou",
+    "latin_name": "Leptoptilos crumenifer",
+    "cost": 10,
+    "types": [
+      "bird"
+    ],
+    "continent": "africa",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 4,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "lba",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Scavenging 2",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 497,
+    "name": "Lesser Flamingo",
+    "latin_name": "Phoeniconaias minor",
+    "cost": 15,
+    "types": [
+      "bird"
+    ],
+    "continent": "africa",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 6,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 1,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Posturing 1",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 498,
+    "name": "Shoebill",
+    "latin_name": "Balaeniceps rex",
+    "cost": 9,
+    "types": [
+      "bird"
+    ],
+    "continent": "africa",
+    "requirements": {
+      "science": 2
+    },
+    "bonuses": {
+      "appeal": 3,
+      "conservation": 1,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "lba",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": null,
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 499,
+    "name": "Cinereous Vulture",
+    "latin_name": "Aegypius monachus",
+    "cost": 16,
+    "types": [
+      "bird"
+    ],
+    "continent": "asia",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 6,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 5,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "lba",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Scavenging 3",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 500,
+    "name": "Long-Billed Vulture",
+    "latin_name": "Gyps indicus",
+    "cost": 20,
+    "types": [
+      "bird"
+    ],
+    "continent": "asia",
+    "requirements": {
+      "science": 1
+    },
+    "bonuses": {
+      "appeal": 5,
+      "conservation": 1,
+      "reputation": 1
+    },
+    "enclosure": {
+      "size": 4,
+      "water": 0,
+      "rock": 1,
+      "special_enclosure": [
+        {
+          "type": "lba",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Scavenging 3",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 501,
+    "name": "Indian Peafowl",
+    "latin_name": "Pavo cristatus",
+    "cost": 18,
+    "types": [
+      "bird"
+    ],
+    "continent": "asia",
+    "requirements": {
+      "asia": 1
+    },
+    "bonuses": {
+      "appeal": 7,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Posturing 2",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 502,
+    "name": "Great Hornbill",
+    "latin_name": "Buceros bicornis",
+    "cost": 13,
+    "types": [
+      "bird"
+    ],
+    "continent": "asia",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 6,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Boost: Build",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 503,
+    "name": "Snowy Owl",
+    "latin_name": "Bubo scandiacus",
+    "cost": 11,
+    "types": [
+      "bird"
+    ],
+    "continent": "asia",
+    "requirements": {
+      "bird": 2
+    },
+    "bonuses": {
+      "appeal": 4,
+      "conservation": 0,
+      "reputation": 1
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Perception 4",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 504,
+    "name": "Andean Condor",
+    "latin_name": "Vultur gryphus",
+    "cost": 17,
+    "types": [
+      "bird"
+    ],
+    "continent": "americas",
+    "requirements": {
+      "bird": 1
+    },
+    "bonuses": {
+      "appeal": 7,
+      "conservation": 0,
+      "reputation": 1
+    },
+    "enclosure": {
+      "size": 5,
+      "water": 0,
+      "rock": 1,
+      "special_enclosure": [
+        {
+          "type": "lba",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Scavenging 4",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 505,
+    "name": "Bald Eagle",
+    "latin_name": "Haliaeetus leucocephalus",
+    "cost": 23,
+    "types": [
+      "bird"
+    ],
+    "continent": "americas",
+    "requirements": {
+      "animals ii": 1
+    },
+    "bonuses": {
+      "appeal": 8,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 4,
+      "water": 1,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "lba",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Determination",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 506,
+    "name": "King Vulture",
+    "latin_name": "Sarcoramphus papa",
+    "cost": 12,
+    "types": [
+      "bird"
+    ],
+    "continent": "americas",
+    "requirements": {
+      "bird": 3
+    },
+    "bonuses": {
+      "appeal": 9,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "lba",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Scavenging 5",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 507,
+    "name": "Greater Rhea",
+    "latin_name": "Rhea americana",
+    "cost": 12,
+    "types": [
+      "bird"
+    ],
+    "continent": "americas",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 5,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Sprint 1",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 508,
+    "name": "Scarlet Macaw",
+    "latin_name": "Ara macao",
+    "cost": 16,
+    "types": [
+      "bird"
+    ],
+    "continent": "americas",
+    "requirements": {
+      "partner zoo": 1
+    },
+    "bonuses": {
+      "appeal": 4,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Posturing 3",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 509,
+    "name": "Golden Eagle",
+    "latin_name": "Aquila chrysaetos",
+    "cost": 20,
+    "types": [
+      "bird"
+    ],
+    "continent": "europe",
+    "requirements": {
+      "animals ii": 1
+    },
+    "bonuses": {
+      "appeal": 7,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 5,
+      "water": 0,
+      "rock": 1,
+      "special_enclosure": [
+        {
+          "type": "lba",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Determination",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 510,
+    "name": "White Stork",
+    "latin_name": "Ciconia ciconia",
+    "cost": 9,
+    "types": [
+      "bird"
+    ],
+    "continent": "europe",
+    "requirements": {
+      "europe": 1
+    },
+    "bonuses": {
+      "appeal": 4,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 4,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "lba",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Multiplier: Build",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 511,
+    "name": "Greater Flamingo",
+    "latin_name": "Phoenicopterus roseus",
+    "cost": 16,
+    "types": [
+      "bird"
+    ],
+    "continent": "europe",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 7,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 1,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Posturing 1",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 512,
+    "name": "Eurasian Eagle-Owl",
+    "latin_name": "Bubo bubo",
+    "cost": 10,
+    "types": [
+      "bird"
+    ],
+    "continent": "europe",
+    "requirements": {
+      "partner zoo": 1
+    },
+    "bonuses": {
+      "appeal": 4,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Perception 4",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 513,
+    "name": "Barn Owl",
+    "latin_name": "Tyto alba",
+    "cost": 12,
+    "types": [
+      "bird"
+    ],
+    "continent": "europe",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 3,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Perception 4",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 514,
+    "name": "Emu",
+    "latin_name": "Dromaius novaehollandiae",
+    "cost": 22,
+    "types": [
+      "bird"
+    ],
+    "continent": "australia",
+    "requirements": {
+      "australia": 2
+    },
+    "bonuses": {
+      "appeal": 7,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 5,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Peacocking",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 515,
+    "name": "Australian Pelican",
+    "latin_name": "Pelecaus conspicillatus",
+    "cost": 13,
+    "types": [
+      "bird"
+    ],
+    "continent": "australia",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 5,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 4,
+      "water": 2,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Action: Build",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 516,
+    "name": "Norhtern Cassowary",
+    "latin_name": "Casuarius unappendiculatus",
+    "cost": 12,
+    "types": [
+      "bird"
+    ],
+    "continent": "australia",
+    "requirements": {
+      "partner zoo": 1
+    },
+    "bonuses": {
+      "appeal": 6,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Multiplier: Build",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 517,
+    "name": "Laughing Kookaburra",
+    "latin_name": "Dacelo novaeguineae",
+    "cost": 9,
+    "types": [
+      "bird"
+    ],
+    "continent": "australia",
+    "requirements": {
+      "australia": 1
+    },
+    "bonuses": {
+      "appeal": 0,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Iconic Animal: Australia",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 518,
+    "name": "Lesser Bird-Of-Paradise",
+    "latin_name": "Paradisaea minor",
+    "cost": 15,
+    "types": [
+      "bird"
+    ],
+    "continent": "australia",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 5,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": []
+    },
+    "ability": "Posturing 1",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 519,
+    "name": "(Domestic) Goat",
+    "latin_name": "Capra aegagrus hircus",
+    "cost": 7,
+    "types": [
+      "pet"
+    ],
+    "continent": "none",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 0,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": null,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "pz",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Petting Zoo Animal",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 520,
+    "name": "Sheep",
+    "latin_name": "Ovis gmelini aries",
+    "cost": 7,
+    "types": [
+      "pet"
+    ],
+    "continent": "none",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 0,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": null,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "pz",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Petting Zoo Animal",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 521,
+    "name": "Horse",
+    "latin_name": "Equus caballus",
+    "cost": 7,
+    "types": [
+      "pet"
+    ],
+    "continent": "none",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 0,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": null,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "pz",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Petting Zoo Animal",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 522,
+    "name": "Donkey",
+    "latin_name": "Equus asinus asinus",
+    "cost": 7,
+    "types": [
+      "pet"
+    ],
+    "continent": "none",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 0,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": null,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "pz",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Petting Zoo Animal\nInventive",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 523,
+    "name": "Domestic Rabbit",
+    "latin_name": "Oryctolagus cuniculus",
+    "cost": 7,
+    "types": [
+      "pet"
+    ],
+    "continent": "none",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 0,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": null,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "pz",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Petting Zoo Animal",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 524,
+    "name": "Mangalica",
+    "latin_name": "Sus scrofa form. domestica",
+    "cost": 7,
+    "types": [
+      "pet"
+    ],
+    "continent": "none",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 0,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": null,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "pz",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Petting Zoo Animal",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 525,
+    "name": "Guinea Pig",
+    "latin_name": "Cavia porcellus form. domestica",
+    "cost": 7,
+    "types": [
+      "pet"
+    ],
+    "continent": "none",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 0,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": null,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "pz",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Petting Zoo Animal\nDigging 1",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 526,
+    "name": "Alpaca",
+    "latin_name": "Vicugna pacos",
+    "cost": 7,
+    "types": [
+      "pet"
+    ],
+    "continent": "none",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 0,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": null,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "pz",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Petting Zoo Animal",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 527,
+    "name": "Coconut Lorikeet",
+    "latin_name": "Trichoglossus haematodus",
+    "cost": 7,
+    "types": [
+      "pet"
+    ],
+    "continent": "none",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 0,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": null,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "pz",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Petting Zoo Animal",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 528,
+    "name": "Bennett'S Wallaby",
+    "latin_name": "Macropus rufogriseus",
+    "cost": 7,
+    "types": [
+      "pet"
+    ],
+    "continent": "none",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 0,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": null,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "pz",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Petting Zoo Animal\nPouch 1",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": null
+  },
+  {
+    "card_number": 529,
+    "name": "Magnificent Sea Anemone",
+    "latin_name": "Heteractis magnifica",
+    "cost": 6,
+    "types": [
+      "sea animal"
+    ],
+    "continent": "australia",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 3,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "aquarium",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Mark",
+    "reef_ability": "MARK",
+    "wave_icon": true,
+    "expansion": "MW"
+  },
+  {
+    "card_number": 530,
+    "name": "Orange Clownfish",
+    "latin_name": "Amphiprion percula",
+    "cost": 10,
+    "types": [
+      "sea animal"
+    ],
+    "continent": "australia",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 3,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "aquarium",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "none",
+    "reef_ability": "2 APPEAL",
+    "wave_icon": true,
+    "expansion": "MW"
+  },
+  {
+    "card_number": 531,
+    "name": "Palette Surgeonfish",
+    "latin_name": "Paracanthurus hepatus",
+    "cost": 9,
+    "types": [
+      "sea animal"
+    ],
+    "continent": "asia",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 4,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "aquarium",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Trade",
+    "reef_ability": "X : $5",
+    "wave_icon": true,
+    "expansion": "MW"
+  },
+  {
+    "card_number": 532,
+    "name": "Zooplankton",
+    "latin_name": null,
+    "cost": 4,
+    "types": [
+      "sea animal"
+    ],
+    "continent": "none",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 1,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "aquarium",
+          "spaces": 0
+        }
+      ]
+    },
+    "ability": "Sea Animal Magnet",
+    "reef_ability": null,
+    "wave_icon": true,
+    "expansion": "MW"
+  },
+  {
+    "card_number": 533,
+    "name": "Blackside Hawkfish",
+    "latin_name": "Paracirrhites forsteri",
+    "cost": 11,
+    "types": [
+      "sea animal"
+    ],
+    "continent": "australia",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 4,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "aquarium",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Posturing 1",
+    "reef_ability": "KIOSK/PAV",
+    "wave_icon": true,
+    "expansion": "MW"
+  },
+  {
+    "card_number": 534,
+    "name": "Southern Blue-Ringed Octopus",
+    "latin_name": "Hapalochlaena maculosa",
+    "cost": 12,
+    "types": [
+      "sea animal"
+    ],
+    "continent": "australia",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 4,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "aquarium",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Venom 1 / Inventive",
+    "reef_ability": "$3",
+    "wave_icon": true,
+    "expansion": "MW"
+  },
+  {
+    "card_number": 535,
+    "name": "Sharknose Goby",
+    "latin_name": "Elacatinus evelynae",
+    "cost": 7,
+    "types": [
+      "sea animal"
+    ],
+    "continent": "americas",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 2,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "aquarium",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Symbiosis, Helpful",
+    "reef_ability": "NONE",
+    "wave_icon": true,
+    "expansion": "MW"
+  },
+  {
+    "card_number": 536,
+    "name": "Lonhorn Cowfish",
+    "latin_name": "Lactoria cornuta",
+    "cost": 9,
+    "types": [
+      "sea animal"
+    ],
+    "continent": "africa",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 4,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "aquarium",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Boost: Sponsors",
+    "reef_ability": "1<- CARD ->",
+    "wave_icon": true,
+    "expansion": "MW"
+  },
+  {
+    "card_number": 537,
+    "name": "Blackbar Triggerfish",
+    "latin_name": "Rhinecanthus aculeatus",
+    "cost": 14,
+    "types": [
+      "sea animal"
+    ],
+    "continent": "africa",
+    "requirements": {
+      "university": 1
+    },
+    "bonuses": {
+      "appeal": 5,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "aquarium",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Constriction / Clever",
+    "reef_ability": "DRAW CARD",
+    "wave_icon": true,
+    "expansion": "MW"
+  },
+  {
+    "card_number": 538,
+    "name": "Devil Firefish",
+    "latin_name": "Pterois miles",
+    "cost": 16,
+    "types": [
+      "sea animal"
+    ],
+    "continent": "asia",
+    "requirements": {
+      "science": 1
+    },
+    "bonuses": {
+      "appeal": 6,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "aquarium",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Venom 1 /Inventive",
+    "reef_ability": "1 X",
+    "wave_icon": true,
+    "expansion": "MW"
+  },
+  {
+    "card_number": 539,
+    "name": "American Whitespotted Filefish",
+    "latin_name": "Cantherhines macrocerus",
+    "cost": 12,
+    "types": [
+      "sea animal"
+    ],
+    "continent": "americas",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 5,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "aquarium",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": null,
+    "reef_ability": "<- CARD 1",
+    "wave_icon": true,
+    "expansion": "MW"
+  },
+  {
+    "card_number": 540,
+    "name": "Guineafowl Puffer",
+    "latin_name": "Arothron meleagris",
+    "cost": 15,
+    "types": [
+      "sea animal"
+    ],
+    "continent": "asia",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 5,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "aquarium",
+          "spaces": 2
+        }
+      ]
+    },
+    "ability": "Venom 1 / Inventive",
+    "reef_ability": "1 REP",
+    "wave_icon": true,
+    "expansion": "MW"
+  },
+  {
+    "card_number": 541,
+    "name": "Bluespotted Ribbontail Ray",
+    "latin_name": "Taeniura lymma",
+    "cost": 16,
+    "types": [
+      "sea animal"
+    ],
+    "continent": "asia",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 7,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 2,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "aquarium",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Digging 1",
+    "reef_ability": "DIG 1",
+    "wave_icon": true,
+    "expansion": "MW"
+  },
+  {
+    "card_number": 542,
+    "name": "Humphead Wrasse",
+    "latin_name": "Cheilinus undulatus",
+    "cost": 22,
+    "types": [
+      "sea animal"
+    ],
+    "continent": "africa",
+    "requirements": {
+      "university": 1
+    },
+    "bonuses": {
+      "appeal": 6,
+      "conservation": 1,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "aquarium",
+          "spaces": 2
+        }
+      ]
+    },
+    "ability": "Extra Shift",
+    "reef_ability": "EXTRA SHIFT",
+    "wave_icon": true,
+    "expansion": "MW"
+  },
+  {
+    "card_number": 543,
+    "name": "Coastal Manta Ray",
+    "latin_name": "Mobula alfredi",
+    "cost": 23,
+    "types": [
+      "sea animal"
+    ],
+    "continent": "asia",
+    "requirements": {
+      "animals ii": 1
+    },
+    "bonuses": {
+      "appeal": 8,
+      "conservation": 0,
+      "reputation": 1
+    },
+    "enclosure": {
+      "size": 5,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "aquarium",
+          "spaces": 4
+        }
+      ]
+    },
+    "ability": "Glide 3",
+    "reef_ability": "1 CONS",
+    "wave_icon": true,
+    "expansion": "MW"
+  },
+  {
+    "card_number": 544,
+    "name": "Caribbean Reef Shark",
+    "latin_name": "Carcharhinus perezi",
+    "cost": 20,
+    "types": [
+      "sea animal",
+      "predator"
+    ],
+    "continent": "americas",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 5,
+      "conservation": 0,
+      "reputation": 1
+    },
+    "enclosure": {
+      "size": 4,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "aquarium",
+          "spaces": 3
+        }
+      ]
+    },
+    "ability": "Shark Attack 1",
+    "reef_ability": "SA 1",
+    "wave_icon": true,
+    "expansion": "MW"
+  },
+  {
+    "card_number": 545,
+    "name": "Longcomb Sawfish",
+    "latin_name": "Pristis zijsron",
+    "cost": 21,
+    "types": [
+      "sea animal",
+      "sea animal"
+    ],
+    "continent": "africa",
+    "requirements": {
+      "sea animal": 1
+    },
+    "bonuses": {
+      "appeal": 9,
+      "conservation": 1,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 4,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "aquarium",
+          "spaces": 3
+        }
+      ]
+    },
+    "ability": "Cut Down",
+    "reef_ability": null,
+    "wave_icon": true,
+    "expansion": "MW"
+  },
+  {
+    "card_number": 546,
+    "name": "Sand Tiger Shark",
+    "latin_name": "Carcharias taurus",
+    "cost": 32,
+    "types": [
+      "sea animal",
+      "predator"
+    ],
+    "continent": "australia",
+    "requirements": {
+      "animals ii": 1
+    },
+    "bonuses": {
+      "appeal": 8,
+      "conservation": 1,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 5,
+      "water": 0,
+      "rock": 1,
+      "special_enclosure": [
+        {
+          "type": "aquarium",
+          "spaces": 4
+        }
+      ]
+    },
+    "ability": "Shark Attack 2",
+    "reef_ability": null,
+    "wave_icon": true,
+    "expansion": "MW"
+  },
+  {
+    "card_number": 547,
+    "name": "Mediterranean Rainbow Wrasse",
+    "latin_name": "Corris julis",
+    "cost": 8,
+    "types": [
+      "sea animal"
+    ],
+    "continent": "europe",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 3,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 0,
+      "rock": 1,
+      "special_enclosure": [
+        {
+          "type": "aquarium",
+          "spaces": 0
+        }
+      ]
+    },
+    "ability": "Symbiosis",
+    "reef_ability": null,
+    "wave_icon": true,
+    "expansion": "MW"
+  },
+  {
+    "card_number": 548,
+    "name": "Short-Snouted Seahorse",
+    "latin_name": "Hippocampus hippocampus",
+    "cost": 7,
+    "types": [
+      "sea animal"
+    ],
+    "continent": "europe",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 2,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 0,
+      "rock": 1,
+      "special_enclosure": [
+        {
+          "type": "aquarium",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Camouflage, Pouch 1",
+    "reef_ability": null,
+    "wave_icon": true,
+    "expansion": "MW"
+  },
+  {
+    "card_number": 549,
+    "name": "Common Octopus",
+    "latin_name": "Octopus vulgaris",
+    "cost": 9,
+    "types": [
+      "sea animal"
+    ],
+    "continent": "europe",
+    "requirements": {
+      "science": 1
+    },
+    "bonuses": {
+      "appeal": 5,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 0,
+      "rock": 1,
+      "special_enclosure": [
+        {
+          "type": "aquarium",
+          "spaces": 2
+        }
+      ]
+    },
+    "ability": "Camouflage",
+    "reef_ability": null,
+    "wave_icon": true,
+    "expansion": "MW"
+  },
+  {
+    "card_number": 550,
+    "name": "Compass Jellyfish",
+    "latin_name": "Chrysaora hysoscella",
+    "cost": 10,
+    "types": [
+      "sea animal"
+    ],
+    "continent": "europe",
+    "requirements": {
+      "reputation": 3
+    },
+    "bonuses": {
+      "appeal": 6,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "aquarium",
+          "spaces": 2
+        }
+      ]
+    },
+    "ability": "Glide 2",
+    "reef_ability": null,
+    "wave_icon": true,
+    "expansion": "MW"
+  },
+  {
+    "card_number": 551,
+    "name": "Loggerhead Sea Turtle",
+    "latin_name": "Caretta caretta",
+    "cost": 23,
+    "types": [
+      "sea animal",
+      "reptile"
+    ],
+    "continent": "europe",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 8,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 4,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "aquarium",
+          "spaces": 3
+        },
+        {
+          "type": "lrh",
+          "spaces": 3
+        }
+      ]
+    },
+    "ability": "Scuba Dive X",
+    "reef_ability": null,
+    "wave_icon": true,
+    "expansion": "MW"
+  },
+  {
+    "card_number": 552,
+    "name": "Green Sea Turtle",
+    "latin_name": "Chelonia mydas",
+    "cost": 17,
+    "types": [
+      "sea animal",
+      "reptile"
+    ],
+    "continent": "americas",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 6,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "aquarium",
+          "spaces": 2
+        },
+        {
+          "type": "lrh",
+          "spaces": 2
+        }
+      ]
+    },
+    "ability": "Scuba Dive X",
+    "reef_ability": null,
+    "wave_icon": true,
+    "expansion": "MW"
+  },
+  {
+    "card_number": 553,
+    "name": "Tambaqui",
+    "latin_name": "Colossoma macropomum",
+    "cost": 15,
+    "types": [
+      "sea animal",
+      "herbivore"
+    ],
+    "continent": "americas",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 5,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 1,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "aquarium",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Adapt 1",
+    "reef_ability": null,
+    "wave_icon": true,
+    "expansion": "MW"
+  },
+  {
+    "card_number": 554,
+    "name": "African Penguin",
+    "latin_name": "Spheniscus demersus",
+    "cost": 18,
+    "types": [
+      "sea animal",
+      "bird"
+    ],
+    "continent": "africa",
+    "requirements": {
+      "animals ii": 1
+    },
+    "bonuses": {
+      "appeal": 6,
+      "conservation": 0,
+      "reputation": 1
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 1,
+      "rock": 1,
+      "special_enclosure": [
+        {
+          "type": "aquarium",
+          "spaces": 2
+        }
+      ]
+    },
+    "ability": "Adapt 2",
+    "reef_ability": null,
+    "wave_icon": true,
+    "expansion": "MW"
+  },
+  {
+    "card_number": 555,
+    "name": "Golden Snub-Nosed Monkey",
+    "latin_name": "Rhinopithecus roxellana",
+    "cost": 18,
+    "types": [
+      "primate"
+    ],
+    "continent": "asia",
+    "requirements": {
+      "science": 1
+    },
+    "bonuses": {
+      "appeal": 6,
+      "conservation": 1,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 0,
+      "rock": 1,
+      "special_enclosure": []
+    },
+    "ability": "Pilfering 1 / Sprint 1",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": "MW"
+  },
+  {
+    "card_number": 556,
+    "name": "Wolverine",
+    "latin_name": "Gulo gulo",
+    "cost": 15,
+    "types": [
+      "predator",
+      "bear"
+    ],
+    "continent": "europe",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 5,
+      "conservation": 0,
+      "reputation": 1
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 0,
+      "rock": 1,
+      "special_enclosure": []
+    },
+    "ability": "Boost Association",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": "MW"
+  },
+  {
+    "card_number": 557,
+    "name": "Vietnamese Pot-Bellied Pig",
+    "latin_name": "Sus scrofa f. domestica",
+    "cost": 7,
+    "types": [
+      "pet"
+    ],
+    "continent": "none",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 0,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": null,
+      "water": 0,
+      "rock": 0,
+      "special_enclosure": [
+        {
+          "type": "pz",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Petting Zoo Animal",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": "MW"
+  },
+  {
+    "card_number": 558,
+    "name": "Northern Muriqui",
+    "latin_name": "Brachyteles hypoxanthus",
+    "cost": 16,
+    "types": [
+      "primate"
+    ],
+    "continent": "americas",
+    "requirements": {
+      "university": 1
+    },
+    "bonuses": {
+      "appeal": 6,
+      "conservation": 1,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 4,
+      "water": 0,
+      "rock": 1,
+      "special_enclosure": []
+    },
+    "ability": "Monkey Gang",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": "MW"
+  },
+  {
+    "card_number": 559,
+    "name": "Coquerel'S Sifaka",
+    "latin_name": "Propithecus coquereli",
+    "cost": 17,
+    "types": [
+      "primate"
+    ],
+    "continent": "africa",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 7,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 0,
+      "rock": 1,
+      "special_enclosure": []
+    },
+    "ability": "Monkey Gang, Jumping 2",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": "MW"
+  },
+  {
+    "card_number": 560,
+    "name": "Brahminy Kite",
+    "latin_name": "Haliastur indus",
+    "cost": 12,
+    "types": [
+      "bird"
+    ],
+    "continent": "australia",
+    "requirements": {},
+    "bonuses": {
+      "appeal": 6,
+      "conservation": 0,
+      "reputation": 0
+    },
+    "enclosure": {
+      "size": 3,
+      "water": 1,
+      "rock": 1,
+      "special_enclosure": [
+        {
+          "type": "lba",
+          "spaces": 1
+        }
+      ]
+    },
+    "ability": "Hunter 2",
+    "reef_ability": null,
+    "wave_icon": false,
+    "expansion": "MW"
+  }
+]

@@ -45,3 +45,17 @@ BGA's pasted text logs say that colours were selected but do not include the
 player-to-colour mapping. Record each BGA username's dashboard-wide hex colour in
 `data/player-colors.json`. Missing colours remain neutral grey rather than being
 guessed.
+
+## Animal card data
+
+The source workbook is stored at `data/card data/arknovaanimals_VM_v2.xlsx`.
+Regenerate the normalized animal-card JSON after changing it with:
+
+```powershell
+python scripts/parse_card_data.py
+```
+
+The converter writes `data/cards/animals.json`. Types are arrays (including repeated
+icons), requirements are counted objects, bonuses have named appeal/conservation/
+reputation fields, and enclosure requirements retain size, water and rock counts plus
+all special-enclosure alternatives.
